@@ -1,0 +1,17 @@
+{
+	id: "abcfc2ca-6319-3740-8604-375605f82641"
+	type: "player"
+	player_name: "SachaSSH"
+	ranks: {
+		abcfc2ca-6319-3740-8604-375605f82641: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SachaSSH"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FC59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
