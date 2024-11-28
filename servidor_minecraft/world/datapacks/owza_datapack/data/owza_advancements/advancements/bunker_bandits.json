@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:smooth_stone"
+    },
+    "title": {
+      "text": "Bunker Bandits"
+    },
+    "description": {
+      "text": "Find the Emerald Embezzlers",
+      "extra": [
+        {
+          "text": "\n\n5 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:room_service",
+  "criteria": {
+    "tilkshireZombies": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/bunker_bandits"
+  }
+}

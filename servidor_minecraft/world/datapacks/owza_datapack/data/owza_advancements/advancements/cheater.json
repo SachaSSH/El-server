@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:barrier"
+    },
+    "title": {
+      "text": "Cheater",
+      "color": "aqua"
+    },
+    "description": {
+      "text": "Go into Creative Mode",
+      "extra": [
+        {
+          "text": "\n\n5 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "owza_advancements:two_is_a_party",
+  "criteria": {
+    "cheater": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "player": {
+            "gamemode": "creative"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/cheater"
+  }
+}

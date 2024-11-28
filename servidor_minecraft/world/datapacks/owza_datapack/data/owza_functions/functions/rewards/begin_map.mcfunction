@@ -1,0 +1,1 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Leave the Starting House"}},{"text":" Welcome to the Apocalypse!","color":"gold","hoverEvent":{"action":"show_text","value":"Leave the Starting House"}}]

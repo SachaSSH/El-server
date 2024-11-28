@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond"
+    },
+    "title": {
+      "text": "Set for Success"
+    },
+    "description": {
+      "text": "Find all 4 Diamonds in the Tutorial",
+      "extra": [
+        {
+          "text": "\n\n15 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:chapter_zero",
+  "criteria": {
+    "diamonds": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/set_for_success"
+  }
+}

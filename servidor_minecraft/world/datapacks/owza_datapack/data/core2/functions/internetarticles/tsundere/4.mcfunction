@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThis attribute means that the person in question, Fang of White the Third, aka \u201cNatasha\", cannot, should not, and will not make any such argument against the research presented in this paper."}
+schedule function core2:internetarticles/tsundere/5 10s

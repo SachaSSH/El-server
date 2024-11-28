@@ -1,0 +1,137 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 27
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 50,
+          "quality": -10,
+          "name": "minecraft:ladder"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 30,
+          "quality": -5,
+          "name": "minecraft:oak_planks"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "quality": -1,
+          "name": "minecraft:light_gray_concrete_powder",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Concrete Powder\",\"italic\":false}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:stone_pickaxe",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.22,
+                "max": 0.81
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Rusty Pickaxe\",\"italic\":false}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 5,
+          "name": "minecraft:iron_pickaxe",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.38,
+                "max": 0.79
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 5,
+          "name": "minecraft:stone_shovel",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.67,
+                "max": 1
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Old Lead Pipe\",\"italic\":false}]',Lore:['[{\"text\":\"Better than\",\"italic\":false,\"color\":\"aqua\"}]','[{\"text\":\"nothing I guess...\",\"italic\":false,\"color\":\"aqua\"}]']}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 10,
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.08,
+                "max": 0.28
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:16771072,Name:'[{\"text\":\"Hard Hat\",\"italic\":false}]',Lore:['[{\"text\":\"Safety First!\",\"italic\":false}]']},Enchantments:[{id:protection,lvl:1}],HideFlags:1}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 100,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"minecraft:water\"}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.2
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 50,
+          "name": "minecraft:bread"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "quality": 5,
+          "name": "minecraft:copper_ingot"
+        }
+      ]
+    }
+  ]
+}

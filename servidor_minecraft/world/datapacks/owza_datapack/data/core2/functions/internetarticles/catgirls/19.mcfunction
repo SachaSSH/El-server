@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nCats are also incredibly loyal creatures, which loyalty is oftentimes a trait looked for in relationships, possibly increasing the attractiveness factor of the concept. Combined with this information, cats are oddly referred to as \u201cshe\u201d, despite nearly other animals being referred to as \u201che\u201d when assuming genders."}
+schedule function core2:internetarticles/catgirls/20 10s

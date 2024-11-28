@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:potion",
+      "nbt": "{display:{Name:'{\"text\":\"custom brew\",\"italic\":false}'},Potion:\"minecraft:swiftness\",CustomPotionColor:10058031}"
+    },
+    "title": {
+      "text": "Welcome to Brewing Class!"
+    },
+    "description": {
+      "text": "Use the Custom Brewery",
+      "extra": [
+        {
+          "text": "\n\n10 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:helicopter",
+  "criteria": {
+    "useBrewery": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/custom_brewery"
+  }
+}

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nNew tanks with flamethrowers were constructed and shared across the country, with stuff like mustard gas making a return to clear out small hordes of undead in cramped spaces."}
+schedule function core2:internetarticles/greenpark/4 10s

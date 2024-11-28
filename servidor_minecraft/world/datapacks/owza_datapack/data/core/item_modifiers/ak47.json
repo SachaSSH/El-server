@@ -1,0 +1,16 @@
+[
+    {
+      "function": "minecraft:copy_nbt",
+      "source": {
+        "type": "minecraft:storage",
+        "source": "weapons:ak"
+      },
+      "ops": [
+        {
+          "source": "tempAmmo",
+          "target": "ammoak",
+          "op": "replace"
+        }
+      ]
+    }
+  ]

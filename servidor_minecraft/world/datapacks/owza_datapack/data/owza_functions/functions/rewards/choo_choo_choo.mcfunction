@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Active the C3 train. I don't think it'll be going anywhere anytime soon though..."}},{"text":" Choo Choo?","color":"gold","hoverEvent":{"action":"show_text","value":"Active the C3 train. I don't think it'll be going anywhere anytime soon though..."}}]
+scoreboard players add @p achievements 10

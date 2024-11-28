@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe fleet returned back to the U.S. mainland, and the CVN-86 aircraft carriers began to be constructed."}
+schedule function core2:internetarticles/greenpark/end 10s

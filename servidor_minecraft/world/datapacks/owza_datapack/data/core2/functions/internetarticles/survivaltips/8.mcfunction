@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nPipe Bomb:\n[Edited: I was told I shouldn't put recipes for explosives on the internet :( Not cool]"}
+schedule function core2:internetarticles/survivaltips/9 10s

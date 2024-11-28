@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:leather_chestplate",
+      "nbt": "{display:{color:16777215,Name:'[{\"text\":\"Parachute\",\"italic\":false}]'}}"
+    },
+    "title": {
+      "text": "Where's My Parachute?!?"
+    },
+    "description": {
+      "text": "Blow up the Helicopter",
+      "extra": [
+        {
+          "text": "\n\n10 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:city_of_the_gods",
+  "criteria": {
+    "helicopter": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/helicopter"
+  }
+}

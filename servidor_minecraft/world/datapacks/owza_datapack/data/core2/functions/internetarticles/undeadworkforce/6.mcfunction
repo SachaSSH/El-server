@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nA small group has also said that the undead shouldn't be put to slavery just because they're mindless undead humans. They have feelings and rights too!"}
+schedule function core2:internetarticles/undeadworkforce/7 10s

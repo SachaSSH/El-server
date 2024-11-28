@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\n \u0020 My entire \u0020 town\ngot overrun by\n \u0020 \u0020these \u0020 \u0020damn\n \u0020undead freaks!"}
+schedule function core2:internetarticles/virussafety/9 10s

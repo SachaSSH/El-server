@@ -1,0 +1,1 @@
+setblock -101 11 769 air

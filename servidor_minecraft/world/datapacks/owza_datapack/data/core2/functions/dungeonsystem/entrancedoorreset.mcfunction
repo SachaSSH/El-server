@@ -1,0 +1,9 @@
+setblock 273 -55 2449 minecraft:obsidian
+setblock 274 -55 2449 minecraft:black_concrete
+setblock 275 -55 2449 minecraft:obsidian
+setblock 273 -56 2449 minecraft:obsidian
+setblock 274 -56 2449 minecraft:obsidian
+setblock 275 -56 2449 minecraft:obsidian
+setblock 273 -57 2449 minecraft:blackstone
+setblock 274 -57 2449 minecraft:blackstone
+setblock 275 -57 2449 minecraft:blackstone

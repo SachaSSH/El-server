@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nIt was enforced though during fights in Seattle, Tampa, and San Diego that naval firepower easily could clear out entire blocks of undead without risking troops."}
+schedule function core2:internetarticles/greenpark/5 10s

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nI've seen pictures of people taking TVs, ste"},{"text":"********","italic":true},{"text":"dicine or money from strangers on the street..."}]
+schedule function core2:internetarticles/impiriustalk/7 10s

@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:beacon"
+    },
+    "title": {
+      "text": "On Top of the World"
+    },
+    "description": {
+      "text": "Hope you aren't afraid of heights...",
+      "extra": [
+        {
+          "text": "\n\n10 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:sv_cheats_1",
+  "criteria": {
+    "climb38": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/on_top_of_the_world"
+  }
+}

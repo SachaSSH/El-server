@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_block"
+    },
+    "title": {
+      "text": "Endgame",
+      "color": "aqua"
+    },
+    "description": {
+      "text": "Rip and tear, until it is done...",
+      "extra": [
+        {
+          "text": "\n\n25 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "owza_advancements:family_inheritance",
+  "criteria": {
+    "wearExosuit": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/endgame"
+  }
+}

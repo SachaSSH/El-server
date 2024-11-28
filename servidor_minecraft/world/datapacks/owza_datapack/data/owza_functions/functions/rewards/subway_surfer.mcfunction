@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Unlock Every Subway Platform"}},{"text":" Subway Surfer","color":"gold","hoverEvent":{"action":"show_text","value":"Unlock Every Subway Platform"}}]
+scoreboard players add @p achievements 20

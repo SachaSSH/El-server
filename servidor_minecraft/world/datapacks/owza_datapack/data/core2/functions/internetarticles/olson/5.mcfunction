@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nAs of the current moment, there ar"},{"text":"eh1500u tr","obfuscated":true},{"text":"oops stationed at Olson and there has not been a report of how many nuclear devices they have left."}]
+schedule function core2:internetarticles/olson/end 10s

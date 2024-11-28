@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nAlright, ImpiriusTalk is signing off for the final time for a while I'd say. We wan"},{"text":"*********","italic":true},{"text":"ith our families, hopefully we can get back to this someday."}]
+schedule function core2:internetarticles/impiriustalk/end 10s

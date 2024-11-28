@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:water_bucket"
+    },
+    "title": {
+      "text": "Finally... Water..."
+    },
+    "description": {
+      "text": "Find the Oasis, the last spot of actual green in this barren wasteland",
+      "extra": [
+        {
+          "text": "\n\n10 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:blastoff",
+  "criteria": {
+    "findOasis": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/finally_water"
+  }
+}

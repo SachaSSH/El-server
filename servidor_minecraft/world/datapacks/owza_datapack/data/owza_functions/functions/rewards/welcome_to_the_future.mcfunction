@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","contents":"Go to the Future in the Amusement Park"}},{"text":" Welcome to the Future!","color":"gold","hoverEvent":{"action":"show_text","contents":"Go to the Future in the Amusement Park"}}]
+scoreboard players add @p achievements 5

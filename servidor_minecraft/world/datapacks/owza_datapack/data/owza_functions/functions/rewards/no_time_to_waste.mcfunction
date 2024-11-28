@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Beat the Ruins with the Timer On"}},{"text":" No Time To Waste!","color":"gold","hoverEvent":{"action":"show_text","value":"Beat the Ruins with the Timer On"}}]
+scoreboard players add @p achievements 15

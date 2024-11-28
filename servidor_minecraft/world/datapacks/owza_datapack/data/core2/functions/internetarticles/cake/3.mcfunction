@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nIt is meant to be a joke that the player will not actually get their promised reward. It became a well known joke through gaming communities."}
+schedule function core2:internetarticles/cake/end 10s

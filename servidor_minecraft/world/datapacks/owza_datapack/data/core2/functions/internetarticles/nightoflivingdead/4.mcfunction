@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThey find out on the radio that all across the East Coast of the U.S., there has been large groups of cannibalistic, coming back to life corpses, and that groups of armed men are going across the countryside to kill the ghouls."}
+schedule function core2:internetarticles/nightoflivingdead/5 10s

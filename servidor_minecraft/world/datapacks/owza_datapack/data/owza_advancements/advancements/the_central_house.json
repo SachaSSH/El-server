@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:quartz_pillar"
+    },
+    "title": {
+      "text": "The Central House"
+    },
+    "description": {
+      "text": "Find the Los Echos City Hall",
+      "extra": [
+        {
+          "text": "\n\n5 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:the_deserted_city",
+  "criteria": {
+    "enterCityHall": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/the_central_house"
+  }
+}

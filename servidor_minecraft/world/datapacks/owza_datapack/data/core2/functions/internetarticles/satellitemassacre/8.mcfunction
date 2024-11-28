@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe event of the Satellite Massacre began. U.S. nuclear missiles begin to shoot down Chinese and North Korean satellites, regardless if they were military, research, or civilian. The Chinese began to retaliate, beginning to shoot down U.S. satellites."}
+schedule function core2:internetarticles/satellitemassacre/9 10s

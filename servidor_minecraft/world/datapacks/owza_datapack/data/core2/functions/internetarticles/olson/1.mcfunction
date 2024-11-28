@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nOlson Missile Silos is a nuclear missile silo field, stationed a"},{"text":"bout seventyhfourkkilometers no","obfuscated":true},{"text":"rth west of Atlas city. It has 344 missile silos, and has a range of Minutemen, Atlas, and Titan type nuclear devices."}]
+schedule function core2:internetarticles/olson/2 10s

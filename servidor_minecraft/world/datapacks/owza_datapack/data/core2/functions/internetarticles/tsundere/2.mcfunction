@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThrough the extensive analysis of psychometric aspects of the online persona \u201cWhite_Fang\u201d, one can immediately conclude at a minimum that her mental cognitive superstructure bears extreme resemblance to one who suffers/benefits from the mental attribute \u201ctsundere\u201d."}
+schedule function core2:internetarticles/tsundere/3 10s

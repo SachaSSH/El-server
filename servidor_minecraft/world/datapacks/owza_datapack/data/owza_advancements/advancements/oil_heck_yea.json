@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:charcoal",
+      "nbt": "{display:{Name:'[{\"text\":\"Oil Droplet\",\"italic\":false}]',Lore:['[{\"text\":\"Hell yea, oil!\",\"italic\":false,\"color\":\"dark_blue\"}]','[{\"text\":\"\\'merica!\",\"italic\":false,\"color\":\"dark_blue\"},{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"Maybe if you get\",\"italic\":false,\"color\":\"#0033ff\"}]','[{\"text\":\"enough of this, you\",\"italic\":false,\"color\":\"#0033ff\"}]','[{\"text\":\"could use it for\",\"italic\":false,\"color\":\"#0033ff\"}]','[{\"text\":\"something...\",\"italic\":false,\"color\":\"#0033ff\"}]']}}"
+    },
+    "title": {
+      "text": "Oil! Heck Yea!"
+    },
+    "description": {
+      "text": "Discover the Oil Rig",
+      "extra": [
+        {
+          "text": "\n\n10 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:mother_nature_beauty",
+  "criteria": {
+    "tilkshireZombies": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/oil_heck_yea"
+  }
+}

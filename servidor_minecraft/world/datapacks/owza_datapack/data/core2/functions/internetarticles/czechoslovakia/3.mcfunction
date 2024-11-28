@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe ex Slavic socialist state of Yugoslavia was also having a dissolution at the time, but it was a very violent breakup. The government of Czechoslovakia saw this and aimed for a more peaceful dissolution."}
+schedule function core2:internetarticles/czechoslovakia/4 10s

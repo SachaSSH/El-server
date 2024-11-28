@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nDue to the ongoing virus, not much work can be done, but they do intend to uncover what they can."}
+schedule function core2:internetarticles/unearthing/end 10s

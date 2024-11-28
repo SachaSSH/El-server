@@ -1,0 +1,45 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:leather_chestplate",
+      "nbt": "{display:{color:1908001,Name:'[{\"text\":\"Lucky Tuxedo\",\"italic\":false}]'}}"
+    },
+    "title": {
+      "text": "It's My Lucky Day!"
+    },
+    "description": {
+      "text": "Wear the Lucky Tuxedo",
+      "extra": [
+        {
+          "text": "\n\n10 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:shady_deals",
+  "criteria": {
+    "luckyTuxedo": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "chest": {
+              "items": [
+                "minecraft:leather_chestplate"
+              ],
+              "nbt": "{display:{Name:'{\"text\":\"Lucky Tuxedo\"}'}}"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/lucky_day"
+  }
+}

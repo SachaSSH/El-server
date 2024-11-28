@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Witness the Ghost Train event, and see an old past of the world before the virus"}},{"text":" Reliving the Past, over and over...","color":"gold","hoverEvent":{"action":"show_text","value":"Witness the Ghost Train event, and see an old past of the world before the virus"}}]
+scoreboard players add @p achievements 25

@@ -1,0 +1,3 @@
+advancement grant @p[scores={AKills=100..999},advancements={owza_advancements:getting_started=false}] only owza_advancements:getting_started
+tellraw @p[scores={AKills=100..999},advancements={owza_advancements:getting_started=true}] ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Kill 100 Zombies"}},{"text":" Getting Started","color":"gold","hoverEvent":{"action":"show_text","value":"Kill 100 Zombies"}}]
+execute if entity @p[scores={AKills=100..999},advancements={owza_advancements:getting_started=true}] run scoreboard players add @p achievements 10

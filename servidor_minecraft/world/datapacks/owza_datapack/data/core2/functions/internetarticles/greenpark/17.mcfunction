@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nAnother group, consisting of 1 Foxhound, with 6 soldiers, made its way down the Great West Rd., before being cornered at the destroyed Great West Road Bridge. A couple of the dead bodies of the soldiers were reported to be seen flowing down the River Thames as the fleet began to depart."}
+schedule function core2:internetarticles/greenpark/18 10s

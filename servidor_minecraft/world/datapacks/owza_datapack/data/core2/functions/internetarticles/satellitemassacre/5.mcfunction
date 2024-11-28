@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe city was decimated, and in the tense twenty seven minutes after the dust settled, it was silent across the world as the news and footage from a U.S. soldier caught in the blast spread around."}
+schedule function core2:internetarticles/satellitemassacre/6 10s

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\n"},{"text":"Error Error Error There Is Nothing In This Database Can Not Be Computed Error Error Error Error Error Error Error Error Err","obfuscated":true},{"text":"\n \u0020 \u0020 \u0020The Great Los Echos Flood of 2022 took place on November 21st."}]
+schedule function core2:internetarticles/greatflood/2 5s

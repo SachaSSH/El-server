@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked: ","color":"green"},{"text":"On Top of the World","color":"gold","hoverEvent":{"action":"show_text","contents":"Hope you aren't afraid of heights..."}}]
+scoreboard players add @p achievements 10

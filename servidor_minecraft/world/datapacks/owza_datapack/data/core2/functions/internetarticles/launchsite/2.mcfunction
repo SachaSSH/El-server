@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nAfter the earthquake that happened last month, Atlas Labs bought the launchsite from Futuraa for an estimated $675 million USD. Futuraa will still be allowed to hold operations on the launchsite but the main owners are now Atlas Labs."}
+schedule function core2:internetarticles/launchsite/3 20s

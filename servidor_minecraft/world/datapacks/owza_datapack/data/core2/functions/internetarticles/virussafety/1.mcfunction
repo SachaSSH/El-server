@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nReminder to everybody to follow the safety guidelines so you don't get the NVDI-15 virus!"}
+schedule function core2:internetarticles/virussafety/2 5s

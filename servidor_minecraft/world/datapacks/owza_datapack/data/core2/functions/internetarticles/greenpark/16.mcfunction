@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nDuring the chaos, the task force was separated into three groups. One group, containing 2 Foxhound vehicles with 10 troops, were last reported going down Bath Rd., towards the Treaty Centre shopping center. They were not heard from again."}
+schedule function core2:internetarticles/greenpark/17 10s

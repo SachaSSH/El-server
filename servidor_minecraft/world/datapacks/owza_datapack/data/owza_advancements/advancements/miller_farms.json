@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:wheat",
+      "nbt": "{display:{Name:'[{\"text\":\"Grain\",\"italic\":false}]'}}"
+    },
+    "title": {
+      "text": "Miller Farms"
+    },
+    "description": {
+      "text": "Find Joel Miller's Farm",
+      "extra": [
+        {
+          "text": "\n\n5 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:bunker_bandits",
+  "criteria": {
+    "findWindmill": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/miller_farms"
+  }
+}

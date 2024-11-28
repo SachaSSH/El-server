@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"I'd stay off the dance floor if I were you..."}},{"text":" Death Defying Dance","color":"gold","hoverEvent":{"action":"show_text","value":"I'd stay off the dance floor if I were you..."}}]
+scoreboard players add @p achievements 5

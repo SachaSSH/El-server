@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\n"},{"text":"Today's Article:","bold":true,"italic":true,"underlined":true},{"text":"\nCan we utilize the undead for the workforce?","bold":true}]
+schedule function core2:internetarticles/undeadworkforce/2 5s

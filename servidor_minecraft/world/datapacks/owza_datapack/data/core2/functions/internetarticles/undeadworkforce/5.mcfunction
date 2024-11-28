@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nSome also say because the bodies could start decaying, it may make operating heavy machinery not possible."}
+schedule function core2:internetarticles/undeadworkforce/6 10s

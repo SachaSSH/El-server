@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThough the subject does show decent literacy, it is clear that it lacks many higher cognitive functions that allow for production of mental constructs such as, but not limited to: dreams, ideas, thoughts, sentences, images, instructions, plans, secrets, truths, and plaque."}
+schedule function core2:internetarticles/tsundere/18 10s

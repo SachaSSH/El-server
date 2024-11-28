@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:tripwire_hook",
+      "nbt": "{display:{Name:'[{\"text\":\"Key\",\"italic\":false}]'}}"
+    },
+    "title": {
+      "text": "A Key Accomplishment"
+    },
+    "description": {
+      "text": "Buy an Item with Keys",
+      "extra": [
+        {
+          "text": "\n\n10 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:death_defying_dance",
+  "criteria": {
+    "keyShop": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/a_key_accomplishment"
+  }
+}

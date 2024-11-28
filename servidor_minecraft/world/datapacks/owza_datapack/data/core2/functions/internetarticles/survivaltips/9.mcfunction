@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nMake sure to subscribe to my blog to continue to get wicked survival tips!\n\nNext week I will talk out about how to properly steal from people!"}
+schedule function core2:internetarticles/survivaltips/end 10s

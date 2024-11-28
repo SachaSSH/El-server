@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Buy an item with Keys"}},{"text":" A Key Accomplishment","color":"gold","hoverEvent":{"action":"show_text","value":"Buy an item with Keys"}}]
+scoreboard players add @p achievements 10

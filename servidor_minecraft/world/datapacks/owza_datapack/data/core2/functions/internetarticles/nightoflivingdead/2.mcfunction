@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe movie was regarded as a huge touchstone for horror movies, releasing before the main movie rating system did. The movie had explicit violence and gore, which got both positive and negative reviews."}
+schedule function core2:internetarticles/nightoflivingdead/3 10s

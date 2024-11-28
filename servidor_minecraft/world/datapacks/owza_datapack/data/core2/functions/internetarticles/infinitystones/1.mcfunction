@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe Six Infinity Stones, stones that hold and control different aspects of the universe, and were spread across it after the Big Bang."}
+schedule function core2:internetarticles/infinitystones/2 10s

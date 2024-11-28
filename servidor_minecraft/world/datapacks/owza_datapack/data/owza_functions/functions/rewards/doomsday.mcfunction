@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Kill 10,000 Zombies"}},{"text":" Doomsday","color":"gold","hoverEvent":{"action":"show_text","value":"Kill 10,000 Zombies"}}]
+scoreboard players add @p achievements 25

@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Discover the Oil Rig"}},{"text":" Oil! Heck Yea!","color":"gold","hoverEvent":{"action":"show_text","value":"Discover the Oil Rig"}}]
+scoreboard players add @p achievements 10

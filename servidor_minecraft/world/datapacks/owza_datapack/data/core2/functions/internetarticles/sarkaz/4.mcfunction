@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nSarkaz Corp. has also been noted to leave papers detailing how to enlist into the Corp. and also to build a promotional standpoint."}
+schedule function core2:internetarticles/sarkaz/5 10s

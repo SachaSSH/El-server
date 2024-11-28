@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:hopper_minecart"
+    },
+    "title": {
+      "text": "Reliving the past, over and over...",
+      "color": "aqua"
+    },
+    "description": {
+      "text": "Witness the Ghost Train event, and see an old past of the world before the virus",
+      "extra": [
+        {
+          "text": "\n\n25 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "owza_advancements:choo_choo_choo",
+  "criteria": {
+    "ghostTrain": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/reliving_the_past"
+  }
+}

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe Time Stone is a stone that has the ability to control and manipulate time freely (reverse, pause, see into the future, loop a section of time)"}
+schedule function core2:internetarticles/infinitystones/12 10s

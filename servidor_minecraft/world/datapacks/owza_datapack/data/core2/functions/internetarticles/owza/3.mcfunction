@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nWith features including 4 cities, an airport, fully functioning subway fast travel system, working guns and grenades, custom crafting, thirst, radiation, temparature systems, and more, this map is a fully vanilla experience."}
+schedule function core2:internetarticles/owza/end 10s

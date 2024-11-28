@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nThe last group, with the "},{"text":"RWMIK","italic":true},{"text":" Land Rover, with 5 troops, made it back to the Kew bridge, however had woken up a nearby group of undead due to coming from a different direction in the panic. 4 out of the troops died in the fight, the last one jumping into the River Thames to swim to where the fleet was at."}]
+schedule function core2:internetarticles/greenpark/19 20s

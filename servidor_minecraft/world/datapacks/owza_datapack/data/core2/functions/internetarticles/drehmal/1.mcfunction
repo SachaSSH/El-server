@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nDrehmal: Primordial is a large fantasy open world Minecraft map (it can be found at "},{"text":"drehmal.net","color":"aqua","clickEvent":{"action":"open_url","value":"drehmal.net"}},{"text":")."}]
+schedule function core2:internetarticles/drehmal/2 10s

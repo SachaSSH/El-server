@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nWith the amount of debris that had been amounted, many other satellites became destroyed themselves. There is an estimated section of space above the Pacific Ocean that is nicknamed \"The Scrap Zone\" due to the sheer amount of debris from over four dozen satellites that got destroyed during the Satellite Massacre."}
+schedule function core2:internetarticles/satellitemassacre/15 10s

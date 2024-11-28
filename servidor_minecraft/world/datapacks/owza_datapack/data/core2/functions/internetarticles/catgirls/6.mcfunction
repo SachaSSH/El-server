@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nAccording to Urban Dictionary, \u201cA girl with feline characteristics, usually with some fur, a tail and pointy little cat ears.\u201d (Urban Dictionary,"},{"text":" ","color":"black"},{"text":"https://www.urbandictionary.com/define.php?term=catgirl","color":"aqua","clickEvent":{"action":"open_url","value":"https://www.urbandictionary.com/define.php?term=catgirl"}},{"text":")."}]
+schedule function core2:internetarticles/catgirls/7 10s

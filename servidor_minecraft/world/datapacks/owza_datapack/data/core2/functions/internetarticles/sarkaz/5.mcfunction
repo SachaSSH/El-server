@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThey have a large extensive trade network and are always hoping to find more routes and people to trade with."}
+schedule function core2:internetarticles/sarkaz/end 10s

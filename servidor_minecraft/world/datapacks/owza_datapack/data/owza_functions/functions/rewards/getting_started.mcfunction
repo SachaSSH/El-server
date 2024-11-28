@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Kill 100 Zombies"}},{"text":" Getting Started","color":"gold","hoverEvent":{"action":"show_text","value":"Kill 100 Zombies"}}]
+scoreboard players add @p achievements 5

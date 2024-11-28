@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked: ","color":"green"},{"text":"The Central House","color":"gold","hoverEvent":{"action":"show_text","contents":"Find the Los Echos City Hall"}}]
+scoreboard players add @p achievements 5

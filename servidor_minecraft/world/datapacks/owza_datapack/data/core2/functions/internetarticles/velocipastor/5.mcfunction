@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nHe then goes off to take revenge for his parents death, eventually stopping criminals with his dinosaur morphing powers."}
+schedule function core2:internetarticles/velocipastor/end 10s

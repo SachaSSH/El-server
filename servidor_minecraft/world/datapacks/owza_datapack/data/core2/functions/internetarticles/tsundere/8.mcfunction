@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThese traits include but are not exclusive to, poor social performance at close engagements, poor cognitive function during various significant events, poor emotional performance when the given understanding of the status quo of the person in question is challenged, poor emotional stability during confrontations, shifting personalities are not visible enough to be constituted as bipolarism."}
+schedule function core2:internetarticles/tsundere/9 10s

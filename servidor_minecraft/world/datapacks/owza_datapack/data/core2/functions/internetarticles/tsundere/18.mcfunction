@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nIt is hoped that the latter attributes can be used to accelerate research into the removal of plaque from human brains in aid of curing dementia."}
+schedule function core2:internetarticles/tsundere/19 10s

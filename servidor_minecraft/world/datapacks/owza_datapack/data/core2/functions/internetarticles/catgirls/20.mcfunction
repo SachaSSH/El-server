@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThis, while being incorrect about cats, likely enforces the concept of the creature being female, possibly linking to attractiveness further, though this I am unable to find a source on."}
+schedule function core2:internetarticles/catgirls/end 10s

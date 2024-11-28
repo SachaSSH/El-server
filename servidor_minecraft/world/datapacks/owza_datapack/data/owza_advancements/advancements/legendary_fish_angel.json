@@ -1,0 +1,48 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:tropical_fish",
+      "nbt": "{display:{Name:'[{\"text\":\"Legendary Peppermint Angelfish\",\"italic\":false,\"color\":\"gold\"}]'}}"
+    },
+    "title": {
+      "text": "Very Small, but Expensive",
+      "color": "gold"
+    },
+    "description": {
+      "text": "Fish up a Legendary Peppermint Angelfish",
+      "extra": [
+        {
+          "text": "\nCan be found in Lukewarm Ocean",
+          "color": "white"
+        },
+        {
+          "text": "\n\n25 points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:legendary_fish_tuna",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:tropical_fish"
+            ],
+            "nbt": "{display:{Name:'[{\"text\":\"Legendary Peppermint Angelfish\",\"italic\":false,\"color\":\"gold\"}]',Lore:['[{\"text\":\"A tiny, 2 inch long\"}]','[{\"text\":\"peppermint angelfish\",\"italic\":true}]']},HideFlags:2}"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/legendary_fish_angel"
+  }
+}

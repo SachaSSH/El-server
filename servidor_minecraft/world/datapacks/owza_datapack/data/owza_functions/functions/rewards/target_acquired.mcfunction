@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Get spotted by the Echos Division"}},{"text":" Target Acquired","color":"gold","hoverEvent":{"action":"show_text","value":"Get spotted by the Echos Division"}}]
+scoreboard players add @p achievements 5

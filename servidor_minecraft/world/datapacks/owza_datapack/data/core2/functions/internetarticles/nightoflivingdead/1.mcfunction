@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\n"},{"text":"The Night of the Living Dead","italic":true},{"text":" is a horror movie that released in 1968, and is considered one of the first modern day zombie films."}]
+schedule function core2:internetarticles/nightoflivingdead/2 10s

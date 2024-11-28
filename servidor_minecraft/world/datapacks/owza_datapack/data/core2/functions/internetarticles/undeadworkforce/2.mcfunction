@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nAs the world economy continues to drop due to the NVDI-15 virus, a couple CEOs of large companies have an insane idea: \"Can we make the undead work?\""}
+schedule function core2:internetarticles/undeadworkforce/3 10s

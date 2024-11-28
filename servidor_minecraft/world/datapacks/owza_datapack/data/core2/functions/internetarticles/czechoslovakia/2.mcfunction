@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nIt was a peaceful dissolution of the country, and the main reason of the breakup were from internal debate over leadership of the country, with varying opposition from both public and government sources."}
+schedule function core2:internetarticles/czechoslovakia/3 10s

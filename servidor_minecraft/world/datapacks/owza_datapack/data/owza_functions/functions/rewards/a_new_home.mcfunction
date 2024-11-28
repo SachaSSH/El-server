@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","contents":"Find the Underground House"}},{"text":" A New Home","color":"gold","hoverEvent":{"action":"show_text","contents":"Find the Underground House"}}]
+scoreboard players add @p achievements 10

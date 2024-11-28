@@ -1,0 +1,1 @@
+execute if entity @p[x=-549,y=99,z=-90,distance=..30,advancements={owza_advancements:forgotten_mansion=false}] run function owza_functions:owza_adv/forgotten_mansion

@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Activate the \"special\" cargo in the Cargo Ship"}},{"text":" IT'S GONNA BLOW!!!","color":"gold","hoverEvent":{"action":"show_text","value":"Activate the \"special\" cargo in the Cargo Ship"}}]
+scoreboard players add @p achievements 10

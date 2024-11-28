@@ -1,0 +1,2 @@
+clone -439 30 234 -439 30 234 -438 30 223
+clear @a scute{display:{Name:'[{"text":"Protactinium-234","italic":true,"color":"dark_green"}]',Lore:['[{"text":"A hazardous nuclear","italic":false,"color":"#00ff66"}]','[{"text":"waste product from","italic":false,"color":"#00ff66"}]','[{"text":"Uranium-234, with a","italic":false,"color":"#00ff66"}]','[{"text":"half life of about","italic":false,"color":"#00ff66"}]','[{"text":"a minute.","italic":false,"color":"#00ff66"}]']}}

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nIt was discovered that the suspicions of London being fully lost to undead were true, as the small task force went up the River Thames."}
+schedule function core2:internetarticles/greenpark/8 10s

@@ -1,0 +1,43 @@
+
+  {
+    "condition":"alternative",
+    "terms": [
+        {
+            "condition":"minecraft:entity_properties",
+            "entity": "this",
+                 "predicate": {
+                    "equipment": {
+                        "head": {
+                          "items": [
+                            "minecraft:player_head"
+                          ],
+                          "nbt": "{display:{Name:\"{\\\"text\\\":\\\"Exoskeleton Helmet\\\"}\"}}"
+                        }
+
+                      }
+            }
+        },
+
+
+        {
+            "condition":"minecraft:entity_properties",
+            "entity": "this",
+                 "predicate": {
+                    "equipment": {
+                        "head": {
+                          "items": [
+                            "minecraft:player_head"
+                          ],
+                          "nbt": "{display:{Name:\"{\\\"text\\\":\\\"Thermal Goggles\\\"}\"}}"
+                        }
+
+                     }
+                } 
+                    
+         }
+    ]
+}
+
+
+
+

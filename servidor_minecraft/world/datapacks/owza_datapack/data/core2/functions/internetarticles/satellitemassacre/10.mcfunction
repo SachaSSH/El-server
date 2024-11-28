@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe Chinese mainland was also hit four times with ICBMs, aimed at confirmed Chinese military satellite arrays, this making China withdraw from the war completely."}
+schedule function core2:internetarticles/satellitemassacre/11 10s

@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:writable_book",
+      "nbt": "{display:{Name:'[{\"text\":\"Survival Notes\",\"italic\":true}]'}}"
+    },
+    "title": {
+      "text": "Chapter Zero"
+    },
+    "description": {
+      "text": "Finish the Tutorial",
+      "extra": [
+        {
+          "text": "\n\n5 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:root",
+  "criteria": {
+    "finishTutorial": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/chapter_zero"
+  }
+}

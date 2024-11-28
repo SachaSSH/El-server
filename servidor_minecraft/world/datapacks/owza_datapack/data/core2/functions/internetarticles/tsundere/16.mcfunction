@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nBy closely analysing the reactions of the subject, it is further hoped to gather more evidence in support of the theory."}
+schedule function core2:internetarticles/tsundere/17 10s

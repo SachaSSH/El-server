@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nOpen World Zombie Apocalypse (can be found at the website "},{"text":"owza.net","color":"aqua","clickEvent":{"action":"open_url","value":"owza.net"}},{"text":") is a Minecraft map of a zombie apocalypse the player(s) must survive in."}]
+schedule function core2:internetarticles/owza/2 10s

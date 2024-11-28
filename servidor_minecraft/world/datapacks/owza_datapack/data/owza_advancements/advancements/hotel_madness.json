@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:orange_bed"
+    },
+    "title": {
+      "text": "Hotel Madness"
+    },
+    "description": {
+      "text": "Get through all the Tilkshire Zombies... just to fight the boss",
+      "extra": [
+        {
+          "text": "\n\n15 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:a_savage_discovery",
+  "criteria": {
+    "tilkshireZombies": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/hotel_madness"
+  }
+}

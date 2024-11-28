@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","contents":"Discover Olympus International Airport"}},{"text":" Don't Miss Your Flight!","color":"gold","hoverEvent":{"action":"show_text","contents":"Discover the Olympus International Airport Terminal"}}]
+scoreboard players add @p achievements 5

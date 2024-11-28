@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nAs apart of the BRICS agreement between Russia and China, the Russian Federation joins in as well, as U.S. ICBMs also begin to shoot down Russian satellites."}
+schedule function core2:internetarticles/satellitemassacre/10 10s

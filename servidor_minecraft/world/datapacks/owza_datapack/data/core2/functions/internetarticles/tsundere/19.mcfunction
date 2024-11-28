@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nOn final touching notes, one can clearly conclude that through any sort of extended interaction period between themselves and the subject, a clear line can be drawn about the shape of the mental structure of the subject\u2019s psychology, which clearly indicates a similarity if not an outright identicality to that of a tsundere."}
+schedule function core2:internetarticles/tsundere/20 10s

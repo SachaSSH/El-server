@@ -1,0 +1,148 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 14
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:redstone_torch",
+          "weight": 5,
+          "quality": 2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Flare\",\"italic\":false}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:cobweb",
+          "weight": 20,
+          "quality": -10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:cobblestone",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:potion",
+          "weight": 1,
+          "quality": 100,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Potion:\"minecraft:water\"}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.05
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:iron_ingot",
+          "weight": 1,
+          "quality": 20
+        },
+        {
+          "type": "item",
+          "name": "minecraft:bookshelf",
+          "weight": 3,
+          "quality": -5,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Stack of Books\",\"italic\":false}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:wheat",
+          "weight": 4,
+          "quality": -3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:slime_ball",
+          "weight": 3,
+          "quality": -1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Melted Glue\",\"italic\":false}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:redstone",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Electrical Wiring\",\"italic\":false}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:stone_shovel",
+          "weight": 1,
+          "quality": 3,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Pipe\",\"italic\":false}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:bucket",
+          "weight": 1,
+          "quality": 3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:ladder",
+          "weight": 4,
+          "quality": -1
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather",
+          "weight": 1,
+          "quality": 3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:feather",
+          "weight": 2,
+          "quality": 4,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Packaging Material\",\"italic\":false}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:gunpowder",
+          "weight": 1,
+          "quality": 30
+        }
+      ]
+    }
+  ]
+}

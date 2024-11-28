@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nAt the time this article is being written, 2.2: Apotheosis has not been released yet, however the very talented Drehmal team has put so much into it that completely re-writes a survival/adventure gameplay experience."}
+schedule function core2:internetarticles/drehmal/4 10s

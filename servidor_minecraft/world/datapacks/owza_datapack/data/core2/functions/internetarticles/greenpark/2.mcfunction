@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nTo do this, they needed to make special weaponry that would help them fight the hordes of the undead, as systems, industry, and coordination had either partly or almost fully collapsed after the Satellite Massacre. With the government locked away in Mount Weather, and military communications shattered, and the Atlantic Fleet fully lost, reconstruction of the U.S. military began."}
+schedule function core2:internetarticles/greenpark/3 15s

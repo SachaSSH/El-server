@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "title": {
+      "text": "I never want to do this again..."
+    },
+    "description": {
+      "text": "Activate Every Ruins Buff",
+      "extra": [
+        {
+          "text": "\n\n25 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:giant_down",
+  "criteria": {
+    "ruinsBuff": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/never_again"
+  }
+}

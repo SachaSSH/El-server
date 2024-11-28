@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nOlson Missile Silos acts a main FOB of the West Coast, with having contact with Washington D.C., Exodus, the Pacific Fleet, and more."}
+schedule function core2:internetarticles/olson/3 10s

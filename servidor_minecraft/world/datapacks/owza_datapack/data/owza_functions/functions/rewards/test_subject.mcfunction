@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","contents":"Find the Hidden Lab"}},{"text":" Test Subject","color":"gold","hoverEvent":{"action":"show_text","contents":"Find the Hidden Lab"}}]
+scoreboard players add @p achievements 5

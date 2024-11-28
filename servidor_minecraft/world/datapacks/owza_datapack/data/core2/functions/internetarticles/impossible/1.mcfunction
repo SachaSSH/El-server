@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nA zombie apocalypse is just impossible. Zombies can't exist. They won't ever exist. Humanity would never make such a virus that could do such a thing, and there's nothing in space. It's just impossible. Scientifically improbable."}
+schedule function core2:internetarticles/impossible/end 10s

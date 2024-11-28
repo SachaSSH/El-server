@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Find Bob in the Tutorial"}},{"text":" Meet Your Maker","color":"gold","hoverEvent":{"action":"show_text","value":"Find Bob in the Tutorial"}}]
+scoreboard players add @p achievements 10

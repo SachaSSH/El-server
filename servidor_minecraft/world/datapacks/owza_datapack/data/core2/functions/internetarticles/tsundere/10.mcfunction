@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nA peer of hers would point out any given area that could be improved with the given project, sending the subject into despair, claiming self-doubt and stupidity at the lightest of nudges towards improvement."}
+schedule function core2:internetarticles/tsundere/11 10s

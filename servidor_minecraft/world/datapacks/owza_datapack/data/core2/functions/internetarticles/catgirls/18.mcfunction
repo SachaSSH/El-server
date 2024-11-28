@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThese traits are usually found as incredibly attractive to a wide number of people within normal relationships, possibly explaining the reason for mirroring them within catgirls instead of going off of the normal cat persona."}
+schedule function core2:internetarticles/catgirls/19 10s

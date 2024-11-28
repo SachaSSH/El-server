@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nNext, you'll want to take some wooden planks (go buy some while you can!!!), and then you're gonna want to put them over your windows. A hammer with nails should do it! \nOr ducttape, ducttape always works!"}
+schedule function core2:internetarticles/survivaltips/5 10s

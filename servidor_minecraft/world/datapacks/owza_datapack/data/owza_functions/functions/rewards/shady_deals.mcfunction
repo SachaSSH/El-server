@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Find the Secret in the Black Market"}},{"text":" ","hoverEvent":{"action":"show_text","value":"Find the Secret in the Black Market"}},{"text":"Shady Deals ","color":"gold","hoverEvent":{"action":"show_text","value":"Find the Black Market"}}]
+scoreboard players add @p achievements 10

@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:stripped_birch_log"
+    },
+    "title": {
+      "text": "Uh oh...",
+      "color": "aqua"
+    },
+    "description": {
+      "text": "No-clip into the last place you want to be",
+      "extra": [
+        {
+          "text": "\n\n15 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "owza_advancements:thats_a_turkey",
+  "criteria": {
+    "enterBackrooms": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/uh_oh"
+  }
+}

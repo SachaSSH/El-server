@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:acacia_sapling"
+    },
+    "title": {
+      "text": "Mother Nature's Beauty",
+      "color": "aqua"
+    },
+    "description": {
+      "text": "Stumble across the Bonsai Tree in the Swamp",
+      "extra": [
+        {
+          "text": "\n\n15 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "owza_advancements:shrek",
+  "criteria": {
+    "keyShop": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/mother_nature_beauty"
+  }
+}

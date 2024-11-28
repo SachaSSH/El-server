@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nWith the stock markets continuing to plummet and more and more people try to prepare themselves for what lies ahead, many cities have already begun to enact curfews and lockdowns in an attempt to stop the outbreaks that plague them."}
+schedule function core2:internetarticles/newsarticle/4 10s

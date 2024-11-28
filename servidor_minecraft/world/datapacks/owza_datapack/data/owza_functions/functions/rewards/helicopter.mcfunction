@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Blow up the Helicopter"}},{"text":" Where's My Parachute?!?","color":"gold","hoverEvent":{"action":"show_text","value":"Blow up the Helicopter"}}]
+scoreboard players add @p achievements 10

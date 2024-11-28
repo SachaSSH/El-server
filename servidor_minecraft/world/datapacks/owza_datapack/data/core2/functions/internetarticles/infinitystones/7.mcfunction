@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe Reality Stone is a stone that has the ability to warp and control reality to whatever the user wishes."}
+schedule function core2:internetarticles/infinitystones/8 10s

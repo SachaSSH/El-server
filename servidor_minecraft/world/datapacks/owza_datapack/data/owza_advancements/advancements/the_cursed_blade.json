@@ -1,0 +1,82 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_sword",
+      "nbt": "{display:{Name:'{\"text\":\"The One Above All\",\"italic\":false}',Lore:['{\"text\":\"A marvel, forged by the gods.\"}']},Enchantments:[{id:\"minecraft:sharpness\",lvl:1s}]}"
+    },
+    "title": {
+      "text": "The Cursed Blade",
+          "color": "aqua"
+    },
+    "description": {
+      "text": "Obtain the One Above All",
+      "extra": [
+        {
+          "text": "\n\n25 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "owza_advancements:its_gonna_blow",
+  "criteria": {
+    "cursedBlade": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "slots": {
+          "empty": {
+            "min": 0
+          },
+          "occupied": {
+            "min": 1
+          }
+        },
+        "items": [
+          {
+            "count": {
+              "min": 1,
+              "max": 1
+            },
+            "enchantments": [
+              {
+                "enchantment": "minecraft:fire_aspect",
+                "levels": 2
+              },
+              {
+                "enchantment": "minecraft:knockback",
+                "levels": 5
+              },
+              {
+                "enchantment": "minecraft:sharpness",
+                "levels": 15
+              },
+              {
+                "enchantment": "minecraft:smite",
+                "levels": 10
+              },
+              {
+                "enchantment": "minecraft:sweeping",
+                "levels": 3
+              },
+              {
+                "enchantment": "minecraft:unbreaking",
+                "levels": 5
+              },
+              {
+                "enchantment": "minecraft:vanishing_curse",
+                "levels": 1
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/the_cursed_blade"
+  }
+}

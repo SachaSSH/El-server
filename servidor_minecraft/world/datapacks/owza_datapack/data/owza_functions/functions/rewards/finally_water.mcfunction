@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked: ","color":"green"},{"text":"Finally... Water...","color":"gold","hoverEvent":{"action":"show_text","contents":"Find the Oasis, the last spot of actual green in this yellow barren wasteland"}}]
+scoreboard players add @p achievements 10

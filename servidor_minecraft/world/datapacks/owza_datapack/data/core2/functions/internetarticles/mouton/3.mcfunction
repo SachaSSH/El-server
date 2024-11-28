@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nShe's a funny fellow, I'll tell you that much ! If I was really going insane, would I be able to tell you about the lost texts found in the homosexual tombs of the city of Corinth ?"}
+schedule function core2:internetarticles/mouton/4 10s

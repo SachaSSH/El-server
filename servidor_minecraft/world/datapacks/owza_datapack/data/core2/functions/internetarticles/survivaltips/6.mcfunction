@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nSpears:\nTo make a makeshift spear for yourself, take a rock or piece of flint, some sticks, some rope or string, and BAM!"}
+schedule function core2:internetarticles/survivaltips/7 10s

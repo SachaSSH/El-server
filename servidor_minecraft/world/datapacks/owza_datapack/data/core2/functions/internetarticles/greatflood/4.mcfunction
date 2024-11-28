@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nShe ran the command, and flooded the entire desert basin. This resulted in the world needing to be reverted by 5 hours to undo the mistake."}
+schedule function core2:internetarticles/greatflood/5 10s

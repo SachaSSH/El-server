@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nHey there fellow survivalists! Welcome back to my blog, \"Survivalist001\", today I'll be teaching you how to make yourself some fortifications and weapons for the zombie hordes that I KNOW ARE COMING!!!"}
+schedule function core2:internetarticles/survivaltips/2 10s

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe plot is after a priest experiences his parents death in a car accident, he heads to China on a spiritual journey, yet ends up meeting ninjas looking for an artifact."}
+schedule function core2:internetarticles/velocipastor/4 5s

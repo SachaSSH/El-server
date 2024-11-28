@@ -1,0 +1,178 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 27
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": 10,
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.05,
+                "max": 0.53
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:14298662,Name:'[{\"text\":\"Oil Rig Worker Hard Hat\",\"italic\":false}]'},Enchantments:[{id:blast_protection,lvl:1},{id:fire_protection,lvl:1}],HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": 10,
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.16,
+                "max": 0.89
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:14298662,Name:'[{\"text\":\"Oil Rig Worker Vest\",\"italic\":false}]'},Enchantments:[{id:blast_protection,lvl:1},{id:fire_protection,lvl:1}],HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": 10,
+          "name": "minecraft:leather_leggings",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.14,
+                "max": 0.74
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:14298662,Name:'[{\"text\":\"Oil Rig Worker Pants\",\"italic\":false}]'},Enchantments:[{id:blast_protection,lvl:1},{id:fire_protection,lvl:1}],HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": 10,
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.1,
+                "max": 0.7
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:0,Name:'[{\"text\":\"Oil Rig Worker Boots\",\"italic\":false}]'},Enchantments:[{id:blast_protection,lvl:1},{id:fire_protection,lvl:1}],HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "quality": -5,
+          "name": "minecraft:cobweb"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "quality": -1,
+          "name": "minecraft:bone"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "quality": -1,
+          "name": "minecraft:bone_meal",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Crumpled Up Paper\",\"italic\":false}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "quality": -1,
+          "name": "minecraft:painting"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "quality": -1,
+          "name": "minecraft:wheat_seeds"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "quality": -1,
+          "name": "minecraft:string"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "quality": -1,
+          "name": "minecraft:book"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "quality": 3,
+          "name": "minecraft:iron_nugget"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "quality": 3,
+          "name": "minecraft:gold_nugget"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 5,
+          "name": "minecraft:cookie"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 5,
+          "name": "minecraft:cooked_mutton"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 5,
+          "name": "minecraft:cooked_cod"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 5,
+          "name": "minecraft:cooked_salmon"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 10,
+          "name": "minecraft:cake"
+        }
+      ]
+    }
+  ]
+}

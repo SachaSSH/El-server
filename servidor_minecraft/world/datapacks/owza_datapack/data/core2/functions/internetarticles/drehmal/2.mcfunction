@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nIt is heavily based on exploration, and has a fully custom made map, with custom biomes, towns with custom villager trades, dungeons with custom loot and enemies, custom weapons and armour with special traits and abilities, and a non linear main storyline to follow."}
+schedule function core2:internetarticles/drehmal/3 10s

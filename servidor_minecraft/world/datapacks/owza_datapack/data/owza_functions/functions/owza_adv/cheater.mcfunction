@@ -1,0 +1,3 @@
+advancement grant @p[gamemode=creative,advancements={owza_advancements:cheater=false}] only owza_advancements:cheater
+tellraw @p[gamemode=creative,advancements={owza_advancements:cheater=true}] ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Go into Creative Mode"}},{"text":" ","hoverEvent":{"action":"show_text","value":"Go into Creative Mode"}},{"text":"Cheater","color":"gold","hoverEvent":{"action":"show_text","value":"Go into Creative Mode"}}]
+execute if entity @p[gamemode=creative,advancements={owza_advancements:cheater=true}] run scoreboard players add @p achievements 5

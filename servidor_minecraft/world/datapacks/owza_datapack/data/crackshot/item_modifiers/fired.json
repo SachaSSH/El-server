@@ -1,0 +1,11 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{added_all:0b,HideFlags:0,projArray:[]}"
+  },
+  {
+    "function": "minecraft:set_lore",
+    "lore": [],
+    "replace": true
+  }
+]

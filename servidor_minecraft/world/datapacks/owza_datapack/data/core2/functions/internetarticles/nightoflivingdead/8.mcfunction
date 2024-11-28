@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe bitten survivor also turns into a ghoul, and soon all the survivors except one have been turned or killed."}
+schedule function core2:internetarticles/nightoflivingdead/9 10s

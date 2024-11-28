@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThese olden documents are presumed to be written by quantum mesopotamian scribes ! How crazy can that be ? Well, wait until you've heard about what they say."}
+schedule function core2:internetarticles/mouton/5 10s

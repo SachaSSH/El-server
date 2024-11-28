@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nMore news about the closings of the international airports"},{"text":" ","color":"black"},{"text":"here!","underlined":true,"color":"aqua"}]
+schedule function core2:internetarticles/mrbeast/end 10s

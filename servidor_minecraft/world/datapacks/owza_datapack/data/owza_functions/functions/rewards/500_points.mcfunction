@@ -1,0 +1,2 @@
+give @p nether_star{display:{Name:'[{"text":"500 Achievement Points Star","italic":false,"color":"gold"}]',Lore:['[{"text":"","italic":false}]','[{"text":"Reach for the stars!","italic":false,"color":"green"}]']}} 1
+tellraw @p ["",{"text":"E","obfuscated":true,"color":"green"},{"text":" 500 Achievement Points Have Been Reached!","color":"gold"},{"text":" E","obfuscated":true,"color":"green"}]

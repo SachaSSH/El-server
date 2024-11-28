@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nIt is also unknown how many Chinese and Russian satellites were shot down during the exchange, and the estimated amount of U.S. satellites destroyed are well over one thousand."}
+schedule function core2:internetarticles/satellitemassacre/13 10s

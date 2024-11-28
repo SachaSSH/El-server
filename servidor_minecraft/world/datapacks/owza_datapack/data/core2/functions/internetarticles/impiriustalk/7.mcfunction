@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nWe've had reports it's everywhere now. We don't know how, or why, it's just there. Maybe it was always there..."}
+schedule function core2:internetarticles/impiriustalk/8 10s

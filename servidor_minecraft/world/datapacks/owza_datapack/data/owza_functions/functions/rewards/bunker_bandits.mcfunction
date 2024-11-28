@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Find the Emerald Embezzlers"}},{"text":" Bunker Bandits","color":"gold","hoverEvent":{"action":"show_text","value":"Find the Emerald Embezzlers"}}]
+scoreboard players add @p achievements 5

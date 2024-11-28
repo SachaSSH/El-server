@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nPortland, Los Angeles, San Diego, Las Vegas, Salt Lake City, Tucson, Sante Fe, Dallas, Houston, Atlas, New Exodus,...\n\n"},{"text":"God damn this list is long... I think you get the idea...","color":"dark_purple"}]
+schedule function core2:internetarticles/olson/5 10s

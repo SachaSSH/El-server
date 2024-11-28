@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe United States has limited satellite access connection to the few satellites not destroyed yet. Many are used by government and military assets."}
+schedule function core2:internetarticles/satellitemassacre/end 10s

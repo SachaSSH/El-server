@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked: ","color":"green"},{"text":"The Fallen FOB","color":"gold","hoverEvent":{"action":"show_text","contents":"Journey into the Abandoned Military Base"}}]
+scoreboard players add @p achievements 5

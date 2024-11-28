@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe loud gunfire began to then wake up the entire airport, which had countless amounts of infected streaming from it. The task force quickly became overrun, and began to retreat back to the fleet. During the initial escape, 3 soldiers were bit, and attempted to bring away some of the undead as the rest of the task force retreated."}
+schedule function core2:internetarticles/greenpark/16 20s

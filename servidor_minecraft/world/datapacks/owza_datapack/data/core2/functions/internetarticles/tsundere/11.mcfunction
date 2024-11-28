@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThis scenario is one indicative of the natural tsunderian trait of being emotionally unstable to shifts of the status quo."}
+schedule function core2:internetarticles/tsundere/12 10s

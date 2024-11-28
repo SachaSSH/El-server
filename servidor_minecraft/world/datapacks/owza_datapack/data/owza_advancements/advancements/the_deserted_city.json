@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:white_banner",
+      "nbt": "{BlockEntityTag:{Patterns:[{Color:14,Pattern:\"bs\"},{Color:14,Pattern:\"ts\"},{Color:4,Pattern:\"flo\"}]}}"
+    },
+    "title": {
+      "text": "The Deserted City"
+    },
+    "description": {
+      "text": "Find Los Echos, the deserted city. In the desert, get it?",
+      "extra": [
+        {
+          "text": "\n\n10 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:target_acquired",
+  "criteria": {
+    "enterLosEchos": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/the_deserted_city"
+  }
+}

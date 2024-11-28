@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nOn December 31st, 1992, Czechoslovakia, officially split into two sovereign nations, the Czech Republic and Slovakia."}
+schedule function core2:internetarticles/czechoslovakia/2 10s

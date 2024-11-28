@@ -1,0 +1,2 @@
+advancement grant @p[advancements={owza_advancements:root=false}] only owza_advancements:root
+execute if entity @e[scores={naturalRegen=1,AHard=1,AWeather=1,ADrink=1,AZombieBurn=1},advancements={owza_advancements:hardcore_player=false}] run function owza_functions:adv_misc/hardcore_player

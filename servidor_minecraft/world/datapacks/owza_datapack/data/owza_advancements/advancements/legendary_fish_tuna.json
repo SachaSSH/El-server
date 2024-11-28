@@ -1,0 +1,48 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:cod",
+      "nbt": "{display:{Name:'[{\"text\":\"Legendary Bluefin Tuna\",\"italic\":false,\"color\":\"gold\"}]'}}"
+    },
+    "title": {
+      "text": "Can't Tuna Fish",
+      "color": "gold"
+    },
+    "description": {
+      "text": "Fish up a Legendary Bluefin Tuna",
+      "extra": [
+        {
+          "text": "\nCan be found in Ocean",
+          "color": "white"
+        },
+        {
+          "text": "\n\n25 points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:legendary_fish_eel",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cod"
+            ],
+            "nbt": "{AttributeModifiers:[{AttributeName:\"generic.movement_speed\",Amount:-1,Name:\"generic.movement_speed\",UUID:[I;-123618,44192,204210,-88384]}],display:{Name:'[{\"text\":\"Legendary Bluefin Tuna\",\"italic\":false,\"color\":\"gold\"}]',Lore:['[{\"text\":\"A large bluefin tuna,\"}]','[{\"text\":\"weighing over 500 pounds\",\"italic\":true}]']},HideFlags:2}"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/legendary_fish_tuna"
+  }
+}

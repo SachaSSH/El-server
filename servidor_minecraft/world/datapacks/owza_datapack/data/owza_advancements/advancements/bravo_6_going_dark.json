@@ -1,0 +1,45 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:player_head",
+      "nbt": "{SkullOwner:{Id:[I;1841044283,1717587394,-1145211144,-1115644253],Name:\"Night Vision Goggles\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmMxNTFhN2RhZTkwM2FlNDdhZWY2MzdmMTBkNWU1N2ZlNzNmYTkyMzNiYzQ2N2I0ODUzYzdlMWJjZWFhOTVjZSJ9fX0=\"}]}}}"
+    },
+    "title": {
+      "text": "Bravo 6, Going Dark"
+    },
+    "description": {
+      "text": "Use Night Vision Goggles",
+      "extra": [
+        {
+          "text": "\n\n5 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:the_fallen_fob",
+  "criteria": {
+    "wearNVG": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "head": {
+              "items": [
+                "minecraft:player_head"
+              ],
+              "nbt": "{display:{Name:'{\"text\":\"Night Vision Goggles\"}'}}"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/bravo_6_going_dark"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:player",
+    "equipment": {
+      "head": {
+        "nbt": "{display:{Name:'[{\"text\":\"Mining Helmet\",\"italic\":false,\"color\":\"gold\"}]',Lore:['[{\"text\":\"Hey, the light\",\"italic\":false,\"color\":\"white\"}]','[{\"text\":\"isn\\'t broken!\",\"italic\":false,\"color\":\"white\"}]']},HideFlags:1}"
+      }
+    }
+  }
+}

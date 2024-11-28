@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Finish the Tutorial"}},{"text":" Chapter Zero","color":"gold","hoverEvent":{"action":"show_text","value":"Finish the Tutorial"}}]
+scoreboard players add @p achievements 5

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe unearthing happened yesterday at 7:38 AM, local time. A group of hikers were hiking through the mountains, when one of them stumbled over a rock. After looking at the rock, they realized it was no ordinary rock."}
+schedule function core2:internetarticles/unearthing/4 10s

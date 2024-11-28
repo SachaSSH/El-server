@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThrough the subject\u2019s clear instability in face of criticism and its clear rejection of realities on top of the clear fact of the subject\u2019s attempts at hiding realities from contemporaries, any sagacious individual capable of obviating this vexing dilemma will be readily available to exclaim the theory\u2019s praises."}
+schedule function core2:internetarticles/tsundere/end 10s

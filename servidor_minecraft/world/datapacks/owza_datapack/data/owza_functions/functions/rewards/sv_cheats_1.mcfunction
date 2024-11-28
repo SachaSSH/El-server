@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Plant a Bomb on Vertigo"}},{"text":" sv_cheats 1","color":"gold","hoverEvent":{"action":"show_text","value":"Plant a Bomb on Vertigo"}}]
+scoreboard players add @p achievements 10

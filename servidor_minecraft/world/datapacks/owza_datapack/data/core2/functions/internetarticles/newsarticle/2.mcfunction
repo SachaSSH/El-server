@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nAs the nation continues to grip with the NVDI-15 virus, the question has become a very loud one: Will there be a national lockdown?"}
+schedule function core2:internetarticles/newsarticle/3 10s

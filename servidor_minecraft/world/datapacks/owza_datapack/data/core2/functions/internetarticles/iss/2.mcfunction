@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nDue to the ongoing NVDI-15 virus, the ISS was abandoned due to the rising fear that on Earth operations would need to be halted, which would result in making it not possible for the astronauts to safely return to Earth."}
+schedule function core2:internetarticles/iss/3 10s

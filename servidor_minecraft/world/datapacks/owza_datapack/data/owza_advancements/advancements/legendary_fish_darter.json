@@ -1,0 +1,48 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:cod",
+      "nbt": "{display:{Name:'[{\"text\":\"Legendary Diamond Darter\",\"italic\":false,\"color\":\"gold\"}]'}}"
+    },
+    "title": {
+      "text": "Caught Ya!",
+      "color": "gold"
+    },
+    "description": {
+      "text": "Fish up a Legendary Diamond Darter",
+      "extra": [
+        {
+          "text": "\nCan be found in River",
+          "color": "white"
+        },
+        {
+          "text": "\n\n25 points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:legendary_fish_angel",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cod"
+            ],
+            "nbt": "{display:{Name:'[{\"text\":\"Legendary Diamond Darter\",\"italic\":false,\"color\":\"gold\"}]',Lore:['[{\"text\":\"A small little fish,\"}]','[{\"text\":\"with less than a dozen\",\"italic\":true}]','[{\"text\":\"ever caught.\",\"italic\":true}]']},HideFlags:2}"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/legendary_fish_darter"
+  }
+}

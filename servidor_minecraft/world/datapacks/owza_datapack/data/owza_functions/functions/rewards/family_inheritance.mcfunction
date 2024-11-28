@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Obtain the Amora Family Trident"}},{"text":" Family Inheritance","color":"gold","hoverEvent":{"action":"show_text","value":"Family Inheritance"}}]
+scoreboard players add @p achievements 15

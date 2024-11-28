@@ -1,0 +1,538 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 27
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:3949738,Name:'[{\"text\":\"Blue Cap\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:3949738,Name:'[{\"text\":\"Blue Shirt\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_leggings",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:3949738,Name:'[{\"text\":\"Jeans\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:3949738,Name:'[{\"text\":\"Blue Shoes\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:14691878,Name:'[{\"text\":\"Red Cap\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:14691878,Name:'[{\"text\":\"Red Jacket\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:14691878,Name:'[{\"text\":\"Red Boots\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:16761344,Name:'[{\"text\":\"Yellow Cap\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:16761344,Name:'[{\"text\":\"Yellow T-Shirt\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:16761344,Name:'[{\"text\":\"Yellow Sneakers\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:16777215,Name:'[{\"text\":\"White Baseball Cap\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:16777215,Name:'[{\"text\":\"White T-Shirt\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:16777215,Name:'[{\"text\":\"White Sneakers\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:4673362,Name:'[{\"text\":\"Gray Jacket\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_leggings",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:4673362,Name:'[{\"text\":\"Gray Slacks\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:4673362,Name:'[{\"text\":\"Gray Boots\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:0,Name:'[{\"text\":\"Black Cap\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:0,Name:'[{\"text\":\"Black Jacket\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:0,Name:'[{\"text\":\"Black Boots\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:12522959,Name:'[{\"text\":\"Clubbing Shirt\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:7405343,Name:'[{\"text\":\"Clubbing Shirt\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:3866586,Name:'[{\"text\":\"Clubbing Shirt\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -2,
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:8606720,Name:'[{\"text\":\"Brown Boots\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "quality": -3,
+          "name": "minecraft:bone"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "quality": -3,
+          "name": "minecraft:cobweb"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "quality": -3,
+          "name": "minecraft:paper"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "quality": -3,
+          "name": "minecraft:book"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "quality": -1,
+          "name": "minecraft:string"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "quality": -1,
+          "name": "minecraft:glass_bottle",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Empty Bottle\",\"italic\":false}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "quality": -1,
+          "name": "minecraft:stick"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:ladder"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:torch"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 7,
+          "quality": 5,
+          "name": "minecraft:dried_kelp"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 7,
+          "quality": 5,
+          "name": "minecraft:cookie"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 7,
+          "quality": 5,
+          "name": "minecraft:bread",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Stale Bread\",\"italic\":false}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 100,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"minecraft:water\"}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.35
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 100,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomPotionColor:14030152,display:{Name:'[{\"text\":\"Bepis\",\"italic\":false}]',Lore:['[{\"text\":\"A basic soda,\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"still sold at\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"$3.99 per a can\",\"italic\":false,\"color\":\"red\"}]','[{\"text\":\"though\",\"italic\":false,\"color\":\"red\"}]']},HideFlags:32,CustomPotionEffects:[{Id:27,Duration:1400},{Id:16,Duration:100},{Id:5,Duration:300}]}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.35
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 100,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomPotionColor:16748598,display:{Name:'[{\"text\":\"Sunshine Cola\",\"italic\":false}]',Lore:['[{\"text\":\"A soda that is\",\"italic\":false,\"color\":\"gold\"}]','[{\"text\":\"orange flavored.\",\"italic\":false,\"color\":\"gold\"}]']},HideFlags:32,CustomPotionEffects:[{Id:24,Duration:200,ShowParticles:0b,ShowIcon:0b},{Id:6,Duration:1,Amplifier:2,ShowParticles:0b,ShowIcon:0b},{Id:1,Duration:500,ShowParticles:0b,ShowIcon:0b}]}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.35
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 100,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomPotionColor:5176540,display:{Name:'[{\"text\":\"Intel-Water\",\"italic\":false}]',Lore:['[{\"text\":\"Sparkling Water\",\"italic\":false,\"color\":\"dark_aqua\"}]','[{\"text\":\"with more nutrients!\",\"italic\":false,\"color\":\"dark_aqua\"}]']},HideFlags:32,CustomPotionEffects:[{Id:30,Duration:100,ShowParticles:0b,ShowIcon:0b},{Id:1,Duration:250,ShowParticles:0b,ShowIcon:0b},{Id:13,Duration:200,ShowParticles:0b,ShowIcon:0b}]}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.35
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 100,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomPotionColor:3997440,display:{Name:'[{\"text\":\"Lift!\",\"italic\":false}]',Lore:['[{\"text\":\"Lift your energy\",\"italic\":false,\"color\":\"green\"}]','[{\"text\":\"levels up!\",\"italic\":false,\"color\":\"green\"}]','[{\"text\":\"Disclaimer: Please\",\"italic\":true,\"color\":\"green\"}]','[{\"text\":\"use with caution\",\"italic\":true,\"color\":\"green\"}]']},HideFlags:32,CustomPotionEffects:[{Id:22,Duration:100,ShowParticles:0b,ShowIcon:0b},{Id:24,Duration:100,ShowParticles:0b,ShowIcon:0b},{Id:3,Duration:100,ShowParticles:0b,ShowIcon:0b},{Id:17,Duration:200,ShowParticles:0b,ShowIcon:0b},{Id:9,Duration:60,ShowParticles:0b,ShowIcon:0b},{Id:10,Duration:100,ShowParticles:0b,ShowIcon:0b},{Id:1,Duration:100,Amplifier:2,ShowParticles:0b,ShowIcon:0b}]}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.35
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "quality": 15,
+          "name": "minecraft:arrow",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 50,
+          "name": "minecraft:wooden_axe",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.07,
+                "max": 0.87
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 60,
+          "name": "minecraft:dried_kelp",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Cat Food\",\"italic\":false}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 60,
+          "name": "minecraft:dried_kelp",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Dog Food\",\"italic\":false}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 80,
+          "name": "minecraft:cocoa_beans",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Fish Food\",\"italic\":false}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 100,
+          "name": "minecraft:brick",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Cellphone\",\"italic\":false}]',Lore:['[{\"text\":\"A good old\",\"italic\":false,\"color\":\"dark_gray\"}]','[{\"text\":\"cellphone.\",\"italic\":false,\"color\":\"dark_gray\"}]','[{\"text\":\"Doesn\\'t work\",\"italic\":false,\"color\":\"dark_gray\"}]','[{\"text\":\"anymore though.\",\"italic\":false,\"color\":\"dark_gray\"}]']}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

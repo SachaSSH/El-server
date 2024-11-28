@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe Power Stone is a stone that increases the users strength and has the ability to destroy entire planets with massive blasts. It's incapable to be held by mortals though due to its immense power."}
+schedule function core2:internetarticles/infinitystones/10 10s

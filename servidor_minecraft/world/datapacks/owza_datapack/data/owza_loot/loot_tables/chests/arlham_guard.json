@@ -1,0 +1,150 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 13
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:stone_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Baton\"}]'},Enchantments:[{id:sharpness,lvl:2},{id:unbreaking,lvl:1}],HideFlags:1}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 10,
+          "name": "minecraft:tipped_arrow",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomPotionColor:3549995,display:{Name:'[{\"text\":\"Blow Dart\",\"italic\":false,\"color\":\"dark_gray\"}]',Lore:['[{\"text\":\"Used to help\"}]','[{\"text\":\"make prisoners\",\"italic\":true}]','[{\"text\":\"sleepy and less\",\"italic\":true}]','[{\"text\":\"of a threat.\",\"italic\":true}]']},HideFlags:124,CustomPotionEffects:[{Id:15,Duration:340,ShowParticles:0b},{Id:6,Duration:20,Amplifier:1,ShowParticles:0b},{Id:4,Duration:890,ShowParticles:0b},{Id:18,Duration:550,ShowParticles:0b}]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 20,
+          "name": "minecraft:lever",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Cell Key\"}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.09,
+                "max": 0.8
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:1908001,Name:'[{\"text\":\"Guard Hat\",\"italic\":false}]'},Enchantments:[{id:projectile_protection,lvl:2},{id:protection,lvl:2},{id:unbreaking,lvl:1}],HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.07,
+                "max": 0.29
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:1732095,Name:'[{\"text\":\"Guard Uniform\",\"italic\":false}]'},Enchantments:[{id:projectile_protection,lvl:2},{id:protection,lvl:2},{id:unbreaking,lvl:1}],HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:leather_leggings",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.08,
+                "max": 0.21
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:1732095,Name:'[{\"text\":\"Guard Uniform\",\"italic\":false}]'},Enchantments:[{id:projectile_protection,lvl:2},{id:protection,lvl:2},{id:unbreaking,lvl:1}],HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.09,
+                "max": 0.31
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:0,Name:'[{\"text\":\"Guard Boots\",\"italic\":false}]'},Enchantments:[{id:projectile_protection,lvl:2},{id:protection,lvl:2},{id:unbreaking,lvl:1}],HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 20,
+          "name": "minecraft:gunpowder"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "quality": -5,
+          "name": "minecraft:cobweb"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -1,
+          "name": "minecraft:wooden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.39,
+                "max": 0.89
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{RepairCost:9999,display:{Name:'[{\"text\":\"Broken Baton\"}]'}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

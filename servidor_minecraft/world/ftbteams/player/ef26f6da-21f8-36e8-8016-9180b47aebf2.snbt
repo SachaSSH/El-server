@@ -1,0 +1,17 @@
+{
+	id: "ef26f6da-21f8-36e8-8016-9180b47aebf2"
+	type: "player"
+	player_name: "jasontapia123"
+	ranks: {
+		ef26f6da-21f8-36e8-8016-9180b47aebf2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "jasontapia123"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFBE59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

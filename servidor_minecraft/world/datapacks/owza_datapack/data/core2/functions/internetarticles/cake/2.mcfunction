@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\n\"The cake is a lie\" quote is from the first "},{"text":"Portal ","italic":true},{"text":"game."}]
+schedule function core2:internetarticles/cake/3 5s

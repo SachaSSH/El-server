@@ -1,0 +1,30 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 7
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "quality": 1,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomPotionEffects: [{Ambient: 0b, ShowIcon: 1b, ShowParticles: 1b, Duration: 0, Id: 7b, Amplifier: 3b}, {Ambient: 0b, ShowIcon: 1b, ShowParticles: 1b, Duration: 300, Id: 9b, Amplifier: 0b}, {Ambient: 0b, ShowIcon: 1b, ShowParticles: 1b, Duration: 200, Id: 15b, Amplifier: 0b}, {Ambient: 0b, ShowIcon: 1b, ShowParticles: 1b, Duration: 200, Id: 19b, Amplifier: 1b}], CustomPotionColor: 7757362, HideFlags: 32, Potion: \"minecraft:empty\", display: {Name: '{\"text\":\"Jerry Can\"}'}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 50,
+          "quality": -10,
+          "name": "minecraft:cobweb"
+        }
+      ]
+    }
+  ]
+}

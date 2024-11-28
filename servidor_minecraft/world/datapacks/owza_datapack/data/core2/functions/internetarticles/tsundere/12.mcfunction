@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nTheir perception of their own skills as higher than reality results in cognitive dissonance when the reality is exposed to them at any instance, bringing the mental columns of ego crashing down at the lightest touch."}
+schedule function core2:internetarticles/tsundere/13 10s

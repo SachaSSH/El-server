@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Die 10 Times"}},{"text":" Not Again!","color":"gold","hoverEvent":{"action":"show_text","value":"Die 10 Times"}}]
+scoreboard players add @p achievements 10

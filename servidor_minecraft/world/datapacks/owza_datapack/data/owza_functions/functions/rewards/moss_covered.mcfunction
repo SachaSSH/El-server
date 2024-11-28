@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Activate the Refection Pool Generator"}},{"text":" Moss Covered","color":"gold","hoverEvent":{"action":"show_text","value":"Activate the Reflection Pool Generator"}}]
+scoreboard players add @p achievements 5

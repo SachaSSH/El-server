@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_sword",
+      "nbt": "{display:{Name:'{\"text\":\"Doomsday\",\"italic\":false}'}}"
+    },
+    "title": {
+      "text": "Doomsday"
+    },
+    "description": {
+      "text": "Kill 10,000 Zombies",
+      "extra": [
+        {
+          "text": "\n\n25 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:infestation",
+  "criteria": {
+    "doomsday": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/doomsday"
+  }
+}

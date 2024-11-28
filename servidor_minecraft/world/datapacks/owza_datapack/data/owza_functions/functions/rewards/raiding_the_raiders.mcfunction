@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Discover the Ruby Raiders Base"}},{"text":" Raiding the Raiders","color":"gold","hoverEvent":{"action":"show_text","value":"Discover the Ruby Raiders Base"}}]
+scoreboard players add @p achievements 5

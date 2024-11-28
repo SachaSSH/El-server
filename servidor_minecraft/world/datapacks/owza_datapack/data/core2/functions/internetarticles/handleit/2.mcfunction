@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe U.S. military armed forces are in full deployment and are fully capable to recapture what we have lost to this new enemy that we face. You can help support them by cooperating with their orders or enlisting yourself to help defend our great country."}
+schedule function core2:internetarticles/handleit/3 10s

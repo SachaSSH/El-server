@@ -1,0 +1,46 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{added_all:1b,HideFlags:32,ChargedProjectiles:[{id:\"minecraft:air\"}]}"
+  },
+  {
+    "function": "minecraft:copy_nbt",
+    "source": {
+      "type": "minecraft:storage",
+      "source": "crackshot:crackshot"
+    },
+    "ops": [
+      {
+        "source": "projArray",
+        "target": "projArray",
+        "op": "replace"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      [
+        {
+          "text": "Projectiles: [",
+          "color": "white",
+          "italic": false
+        },
+        {
+          "nbt": "projNames",
+          "storage": "crackshot:crackshot",
+          "interpret": true,
+          "color": "white",
+          "italic": false
+        },
+        {
+          "text": "]",
+          "color": "white",
+          "italic": false
+        }
+      ]
+    ],
+    "replace": true
+  }
+]

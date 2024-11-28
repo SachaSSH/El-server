@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe survivor heads back to the farmhouse, where a fight between the other survivors breaks out, and ghouls break through the barricades."}
+schedule function core2:internetarticles/nightoflivingdead/8 10s

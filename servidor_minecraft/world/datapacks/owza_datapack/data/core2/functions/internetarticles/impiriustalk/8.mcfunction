@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nTonight, I won't be taking calls. Tonight is to help out others. Make"},{"text":"*******","italic":true},{"text":"o care for each other instead of looting and rioting. Do somethi"},{"text":"****","italic":true},{"text":"ood for others. Salvage what we have left."}]
+schedule function core2:internetarticles/impiriustalk/9 10s

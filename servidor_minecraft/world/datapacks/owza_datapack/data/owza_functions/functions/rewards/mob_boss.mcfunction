@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Find the main culprits of the drugs in the Los Echos City, the Oro Family, and now you must defeat their bosses..."}},{"text":" Mob Boss","color":"gold","hoverEvent":{"action":"show_text","value":"Find the main culprits of the drugs in the Los Echos City, the Oro Family, and now you must defeat their bosses..."}}]
+scoreboard players add @p achievements 15

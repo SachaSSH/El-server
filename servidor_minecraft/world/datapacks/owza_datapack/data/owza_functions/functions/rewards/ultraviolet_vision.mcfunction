@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Wear Thermal Goggles"}},{"text":" Ultraviolet Vision","color":"gold","hoverEvent":{"action":"show_text","value":"Wear Thermal Goggles"}}]
+scoreboard players add @p achievements 5

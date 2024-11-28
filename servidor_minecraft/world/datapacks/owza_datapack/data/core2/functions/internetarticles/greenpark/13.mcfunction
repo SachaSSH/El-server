@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nUpon return to the fleet though, a click outside of Heather Airport, one of the Foxhounds had a transmission issue, requiring them to either find parts to fix it, or get a new transport vehicle. Many civilian cars had already been siphoned or destroyed, forcing the task force to push towards Heather Airport in hopes of finding military vehicles."}
+schedule function core2:internetarticles/greenpark/14 20s

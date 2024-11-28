@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Get ready to hit a home run, your baseball season begins now!"}},{"text":" Batter Up!","color":"gold","hoverEvent":{"action":"show_text","value":"Get ready to hit a home run, your baseball season begins now!"}}]
+scoreboard players add @p achievements 5

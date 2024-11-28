@@ -1,0 +1,1 @@
+advancement grant @a[scores={ATrain=1},advancements={owza_advancements:choo_choo=false}] only owza_advancements:choo_choo

@@ -1,0 +1,2 @@
+execute if entity @e[scores={ABrew=1},advancements={owza_advancements:custom_brewery=false}] run function owza_functions:owza_adv/custom_brewery
+execute if entity @e[scores={AHelicopter=1},advancements={owza_advancements:helicopter=false}] run function owza_functions:owza_adv/helicopter

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nAs places like the Kennedy Space Center have been closed down due to outbreaks and lockdowns, astronauts also voiced their wanting to go back to their families. "}
+schedule function core2:internetarticles/iss/4 10s

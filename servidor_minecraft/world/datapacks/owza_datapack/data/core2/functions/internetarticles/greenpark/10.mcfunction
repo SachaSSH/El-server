@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe M4 highway was clogged up with undead, roadblocks, and leftover civilian vehicles, so routes to Reading was difficult, and took an extra 5 hours, with it being around 6:30 PM local time before reaching the target facility."}
+schedule function core2:internetarticles/greenpark/11 10s

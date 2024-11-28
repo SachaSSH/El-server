@@ -1,0 +1,2 @@
+execute as @a run execute at @s[predicate=core2:wearingmininghelmet] run tellraw @s {"text":"Damn it, the light on the helmet went out...","color":"yellow"}
+execute as @a run execute at @s[predicate=core2:wearingmininghelmet] run item replace entity @s armor.head with golden_helmet{display:{Name:'[{"text":"Mining Helmet","italic":false,"color":"gold"}]',Lore:['[{"text":"Hey, the light","italic":false,"color":"white"}]','[{"text":"isn\'t broken!","italic":false,"color":"white"}]']},Enchantments:[{id:protection,lvl:1},{id:unbreaking,lvl:1}],HideFlags:1}

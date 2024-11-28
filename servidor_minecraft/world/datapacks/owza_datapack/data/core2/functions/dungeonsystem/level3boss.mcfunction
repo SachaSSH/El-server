@@ -1,0 +1,14 @@
+tellraw @a[gamemode=adventure] {"text":"The corruption reaches its peak...","italic":true,"color":"light_purple"}
+spawnpoint @a[gamemode=adventure] 262 69 2560
+summon minecraft:skeleton 249 71 2571 {CustomName:'[{"text":"Corrupted Shooter","color":"dark_purple"}]',Health:50,PersistenceRequired:1b,Silent:1b,HandItems:[{id:bow,tag:{Enchantments:[{id:power,lvl:1},{id:punch,lvl:2},{id:unbreaking,lvl:10}],HideFlags:3},Count:1}],HandDropChances:[0.00f],Attributes:[{Name:"generic.armor",Base:10f},{Name:"generic.max_health",Base:50f}]}
+playsound minecraft:particle.soul_escape master @a[gamemode=adventure] 249 73 2549 10 0.4
+
+summon minecraft:skeleton 249 71 2549 {CustomName:'[{"text":"Corrupted Shooter","color":"dark_purple"}]',Health:50,PersistenceRequired:1b,Silent:1b,HandItems:[{id:bow,tag:{Enchantments:[{id:power,lvl:1},{id:punch,lvl:2},{id:unbreaking,lvl:10}],HideFlags:3},Count:1}],HandDropChances:[0.00f],Attributes:[{Name:"generic.armor",Base:10f},{Name:"generic.max_health",Base:50f}]}
+playsound minecraft:particle.soul_escape master @a[gamemode=adventure] 249 73 2571 10 0.4
+
+summon minecraft:illusioner 241 69 2560 {CustomName:'[{"text":"Arch Corrupted Miner","color":"dark_purple"}]',CustomNameVisible:1b,Health:80,Invulnerable:1b,PersistenceRequired:1b,HandItems:[{id:bow,Count:1}],HandDropChances:[0.00f],ArmorItems:[{id:tripwire_hook,tag:{display:{Name:'[{"text":"Gold Key","italic":false,"color":"gold"}]',Lore:['[{"text":"A key used to","color":"white"}]','[{"text":"open a Locked","italic":true,"color":"white"}]','[{"text":"Gold Chest","italic":true,"color":"white"}]','[{"text":"","italic":true,"color":"white"}]','[{"text":"Will be used","italic":true,"color":"white"}]','[{"text":"upon opening","italic":true,"color":"white"}]']}},Count:1},{id:golden_sword,tag:{Damage:0,AttributeModifiers:[{AttributeName:"generic.attack_damage",Amount:40,Slot:mainhand,Name:"generic.attack_damage",UUID:[I;-123426,90978,214657,-181956]}],display:{Name:'[{"text":"Sword of Kings","italic":false,"color":"blue"}]',Lore:['[{"text":"Has 40 Attack","italic":true,"color":"white"}]']},Enchantments:[{id:unbreaking,lvl:5}],HideFlags:27},Count:1},{id:lever,tag:{HideFlags:11,CanPlaceOn:[nether_wart_block]},Count:1}],ArmorDropChances:[0.40f,0.40f,1.00f],Attributes:[{Name:"generic.max_health",Base:80f}]}
+playsound minecraft:block.respawn_anchor.set_spawn master @a[gamemode=adventure] 241 69 2560 20 0.5
+schedule function core2:dungeonsystem/level3bosscheck 0.2s
+tellraw @a[gamemode=adventure] {"text":"\u261e It seems the enemies in the towers are helping the Arch Corrupt Miner...","italic":true}
+
+forceload remove 263 2598 296 2391

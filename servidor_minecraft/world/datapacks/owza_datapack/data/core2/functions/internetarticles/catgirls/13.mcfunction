@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\n\u201cFurries\u201d creatures with fur on the whole body, and have far less resemblance to human entities, usually with a completely cat personality, outside of the humanoid appearance and ability to talk."}
+schedule function core2:internetarticles/catgirls/14 10s

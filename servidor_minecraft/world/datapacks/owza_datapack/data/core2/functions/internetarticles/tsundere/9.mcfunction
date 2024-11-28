@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nSeveral of these key aspects are clearly present during any social, emotional, or psychological interaction with the person in question. Many times during the mental exercise of creating projects whether it be decorative or code, the subject experiences extreme deviations in the emotional output range based on simple events."}
+schedule function core2:internetarticles/tsundere/10 10s

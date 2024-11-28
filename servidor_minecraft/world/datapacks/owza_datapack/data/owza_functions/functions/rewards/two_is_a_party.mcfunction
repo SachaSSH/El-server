@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","contents":"Play with a Friend"}},{"text":" Two is a Party!","color":"gold","hoverEvent":{"action":"show_text","contents":"Play with a Friend"}}]
+scoreboard players add @p achievements 5

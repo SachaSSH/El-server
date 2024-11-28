@@ -1,0 +1,3 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\n"},{"text":"Pretty sure they were wrong... something did happen. Here's the article.","color":"dark_purple"}]
+give @p written_book{pages:['{"text":"A zombie apocalypse is just impossible. Zombies can\'t exist. They won\'t ever exist. Humanity would never make such a virus that could do such a thing, and there\'s nothing in space. It\'s just impossible. Scientifically improbable."}'],title:"A Zombie Apocalypse? Impossible!",author:emeralde_999} 1
+setblock 1219 53 1158 minecraft:hopper[enabled=true,facing=down]{CustomName:'{"text":"Insert Article Brick In Here"}',Items:[],TransferCooldown:0}

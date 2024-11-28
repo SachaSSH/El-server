@@ -1,0 +1,35 @@
+[
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "equipment": {
+          "head": {
+            
+            "items": [
+              "minecraft:iron_helmet"
+            ],
+            "nbt": "{springlock:1b}"
+          },
+          "chest": {
+            "items": [
+              "minecraft:iron_chestplate"
+            ],
+            "nbt": "{springlock:1b}"
+          },
+          "legs": {
+            "items": [
+              "minecraft:iron_leggings"
+            ],
+            "nbt": "{springlock:1b}"
+          },
+          "feet": {
+            "items": [
+              "minecraft:iron_boots"
+            ],
+            "nbt": "{springlock:1b}"
+          }
+        }
+      }
+    }
+  ]

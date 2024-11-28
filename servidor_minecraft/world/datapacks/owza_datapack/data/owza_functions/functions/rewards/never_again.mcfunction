@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Activate Every Ruins Buff"}},{"text":" I never want to do this again...","color":"gold","hoverEvent":{"action":"show_text","value":"Activate Every Ruins Buff"}}]
+scoreboard players add @p achievements 25

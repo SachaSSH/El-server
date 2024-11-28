@@ -1,0 +1,3 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\n"},{"text":"Huh, the article doesn't say what the quote is meant to mean. Here's the article, what do you think the quote means?","color":"dark_purple"}]
+give @p written_book{pages:['{"text":"\\"War does not determine who is right, only who is left\\" - Montreal Star\\n\\nThe Montreal Star was an English language Canadian newspaper. The quote itself is from an American newspaper called \\"The Reader\'s Digest\\". The quote was said in 1932. "}'],title:"Montreal Star Quote",author:"fanny deheato"} 1
+setblock 1219 53 1158 minecraft:hopper[enabled=true,facing=down]{CustomName:'{"text":"Insert Article Brick In Here"}',Items:[],TransferCooldown:0}

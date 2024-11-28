@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nAfter a 6 month war campaign in the Korean peninsula, when United States troops entered Seoul, they entered a tiring week long fight against joint Communist Pact forces."}
+schedule function core2:internetarticles/satellitemassacre/3 10s

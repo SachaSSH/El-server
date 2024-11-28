@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_sword"
+    },
+    "title": {
+      "text": "Infestation"
+    },
+    "description": {
+      "text": "Kill 1,000 Zombies",
+      "extra": [
+        {
+          "text": "\n\n15 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:getting_started",
+  "criteria": {
+    "infestation": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/infestation"
+  }
+}

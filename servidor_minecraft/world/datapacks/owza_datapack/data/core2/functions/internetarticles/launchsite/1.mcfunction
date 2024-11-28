@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe launchsite north west of Los Echos has been acquired by new owners, the private company from Atlas, Atlas Labs."}
+schedule function core2:internetarticles/launchsite/2 10s

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nIt used 231 of its nuclear missiles during the Satellite Massacre, but still had a large amount of nuclear devices, and has been used for the nuking of the following cities:"}
+schedule function core2:internetarticles/olson/4 10s

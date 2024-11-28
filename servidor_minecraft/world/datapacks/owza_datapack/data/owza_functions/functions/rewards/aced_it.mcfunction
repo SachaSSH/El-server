@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Open the Vault with all 4 Ace Cards"}},{"text":" Aced It","color":"gold","hoverEvent":{"action":"show_text","value":"Open the Vault with all 4 Ace Cards"}}]
+scoreboard players add @p achievements 25

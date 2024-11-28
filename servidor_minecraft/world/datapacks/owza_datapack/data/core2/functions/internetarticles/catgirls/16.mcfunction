@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nThe catgirl personality is surprisingly vastly different from how normal cats behave. Cats are usually incredibly curious, adventurous, and smart("},{"text":"https://www.adventurecats.org/","color":"aqua","clickEvent":{"action":"open_url","value":"https://www.adventurecats.org/"}},{"text":")."}]
+schedule function core2:internetarticles/catgirls/17 10s

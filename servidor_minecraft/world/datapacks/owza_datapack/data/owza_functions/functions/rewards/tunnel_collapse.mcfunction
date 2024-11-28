@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Walk Through the Tunnel and be on the Wrong Side of the Rubble"}},{"text":" Tunnel Collapse","color":"gold","hoverEvent":{"action":"show_text","value":"Walk Through the Tunnel and be on the Wrong Side of the Rubble"}}]
+scoreboard players add @p achievements 5

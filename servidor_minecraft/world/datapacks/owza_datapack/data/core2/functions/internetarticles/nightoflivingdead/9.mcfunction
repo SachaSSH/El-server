@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\n"},{"text":"The lone survivor hides in the cellar, before eventually being woken up in the morning by a group of armed men, but they mistake him for a ghoul, ultimately killing him, and burning his body with the rest of the killed ghouls.","color":"white"}]
+schedule function core2:internetarticles/nightoflivingdead/end 5s

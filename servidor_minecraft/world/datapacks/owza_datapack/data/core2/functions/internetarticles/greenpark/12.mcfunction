@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe facility was raided at 6:34 AM local time, and the raid went smoothly, the blueprints and extra details being secured within a forty minute timespan. Confirmed 74 undead kills."}
+schedule function core2:internetarticles/greenpark/13 10s

@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Use Night Vision Goggles"}},{"text":" Bravo 6, Going Dark","color":"gold","hoverEvent":{"action":"show_text","value":"Use Night Vision Goggles"}}]
+scoreboard players add @p achievements 5

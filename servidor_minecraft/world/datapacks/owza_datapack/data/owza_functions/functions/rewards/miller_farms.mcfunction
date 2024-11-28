@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked: ","color":"green"},{"text":"Miller Farms","color":"gold","hoverEvent":{"action":"show_text","contents":"Discover Joel Miller's Farm"}}]
+scoreboard players add @p achievements 5

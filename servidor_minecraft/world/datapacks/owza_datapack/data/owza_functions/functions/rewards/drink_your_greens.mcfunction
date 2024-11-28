@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Find the Kale-Spinach Smoothie"}},{"text":" Drink Your Greens!","color":"gold","hoverEvent":{"action":"show_text","value":"Find the Kale-Spinach Smoothie"}}]
+scoreboard players add @p achievements 10

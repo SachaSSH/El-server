@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\n"},{"text":" \u0020 \u0020 [Edited Note]:","color":"dark_red"},{"text":"\n \u0020 these freaking\nguidelines don't do\n \u0020 \u0020 \u0020damn \u0020 shit!"}]
+schedule function core2:internetarticles/virussafety/8 10s

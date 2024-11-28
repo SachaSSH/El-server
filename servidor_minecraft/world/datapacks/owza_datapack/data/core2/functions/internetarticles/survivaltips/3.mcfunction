@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nWhat you want to do is take some heavy cardboard boxes, put them infront of your door. Now it's not so easy to get through your door!"}
+schedule function core2:internetarticles/survivaltips/4 10s

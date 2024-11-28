@@ -1,0 +1,48 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:salmon",
+      "nbt": "{display:{Name:'[{\"text\":\"Legendary Sturgeon\",\"italic\":false,\"color\":\"gold\"}]'}}"
+    },
+    "title": {
+      "text": "Spikey!",
+      "color": "gold"
+    },
+    "description": {
+      "text": "Fish up a Legendary Sturgeon",
+      "extra": [
+        {
+          "text": "\nCan be found in Swamp",
+          "color": "white"
+        },
+        {
+          "text": "\n\n25 points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:legendary_fish_darter",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:salmon"
+            ],
+            "nbt": "{AttributeModifiers:[{AttributeName:\"generic.movement_speed\",Amount:-0.9,Name:\"generic.movement_speed\",UUID:[I;-123618,49792,204210,-99584]}],display:{Name:'[{\"text\":\"Legendary Sturgeon\",\"italic\":false,\"color\":\"gold\"}]',Lore:['[{\"text\":\"A spikey sturgeon,\"}]','[{\"text\":\"weighing over 300 pounds\",\"italic\":true}]']},HideFlags:2}"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/legendary_fish_sturgeon"
+  }
+}

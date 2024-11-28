@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Rip and tear, until it is done..."}},{"text":" Endgame","color":"gold","hoverEvent":{"action":"show_text","value":"Rip and tear, until it is done..."}}]
+scoreboard players add @p achievements 25

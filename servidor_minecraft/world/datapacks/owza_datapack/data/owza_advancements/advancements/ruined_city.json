@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:white_banner",
+      "nbt": "{BlockEntityTag:{Patterns:[{Color:5,Pattern:\"bo\"},{Color:2,Pattern:\"cbo\"},{Color:14,Pattern:\"mc\"}]}}"
+    },
+    "title": {
+      "text": "The Ruined City"
+    },
+    "description": {
+      "text": "Journey into Atlas",
+      "extra": [
+        {
+          "text": "\n\n5 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:into_the_unknown",
+  "criteria": {
+    "enterAtlas": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/ruined_city"
+  }
+}

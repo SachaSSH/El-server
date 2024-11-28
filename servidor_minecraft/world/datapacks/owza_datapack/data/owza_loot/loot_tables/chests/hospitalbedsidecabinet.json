@@ -1,0 +1,376 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 27
+      },
+      "entries": [ {
+          "type": "item",
+          "name": "minecraft:leather_helmet",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:3949738,Name:'[{\"text\":\"Blue Cap\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_chestplate",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:3949738,Name:'[{\"text\":\"Blue Shirt\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_leggings",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:3949738,Name:'[{\"text\":\"Jeans\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_boots",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:3949738,Name:'[{\"text\":\"Blue Shoes\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_helmet",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:14691878,Name:'[{\"text\":\"Red Cap\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_chestplate",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:14691878,Name:'[{\"text\":\"Red Jacket\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_boots",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:14691878,Name:'[{\"text\":\"Red Boots\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_helmet",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:16761344,Name:'[{\"text\":\"Yellow Cap\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_chestplate",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:16761344,Name:'[{\"text\":\"Yellow T-Shirt\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_boots",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:16761344,Name:'[{\"text\":\"Yellow Sneakers\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_helmet",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:16777215,Name:'[{\"text\":\"White Baseball Cap\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_chestplate",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:16777215,Name:'[{\"text\":\"White T-Shirt\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_boots",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:16777215,Name:'[{\"text\":\"White Sneakers\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_chestplate",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:4673362,Name:'[{\"text\":\"Gray Jacket\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_leggings",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:4673362,Name:'[{\"text\":\"Gray Slacks\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_boots",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:4673362,Name:'[{\"text\":\"Gray Boots\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_helmet",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:0,Name:'[{\"text\":\"Black Cap\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_chestplate",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:0,Name:'[{\"text\":\"Black Jacket\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_boots",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:0,Name:'[{\"text\":\"Black Boots\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_chestplate",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:12522959,Name:'[{\"text\":\"Clubbing Shirt\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_chestplate",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:7405343,Name:'[{\"text\":\"Clubbing Shirt\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_chestplate",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:3866586,Name:'[{\"text\":\"Clubbing Shirt\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:leather_boots",
+          "weight": 3,
+          "quality": -2,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{color:8606720,Name:'[{\"text\":\"Brown Boots\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:bone",
+          "weight": 20,
+          "quality": -3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:cobweb",
+          "weight": 20,
+          "quality": -3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:paper",
+          "weight": 20,
+          "quality": -3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:book",
+          "weight": 20,
+          "quality": -3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:string",
+          "weight": 15,
+          "quality": -1
+        },
+        {
+          "type": "item",
+          "name": "minecraft:stick",
+          "weight": 15,
+          "quality": -1
+        },
+        {
+          "type": "item",
+          "name": "minecraft:torch",
+          "weight": 10
+        },
+        {
+          "type": "item",
+          "name": "minecraft:paper",
+          "weight": 10,
+          "quality": -1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Bandaid\",\"italic\":true}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:string",
+          "weight": 10,
+          "quality": -1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Stitches\",\"italic\":false}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:glass_bottle",
+          "weight": 5,
+          "quality": 1,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Empty Pill Bottle\",\"italic\":false}]'}}"
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:brick",
+          "weight": 1,
+          "quality": 150,
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Cellphone\",\"italic\":false}]',Lore:['[{\"text\":\"A good old\",\"italic\":false,\"color\":\"dark_gray\"}]','[{\"text\":\"cellphone.\",\"italic\":false,\"color\":\"dark_gray\"}]','[{\"text\":\"Doesn\\'t work\",\"italic\":false,\"color\":\"dark_gray\"}]','[{\"text\":\"anymore though.\",\"italic\":false,\"color\":\"dark_gray\"}]']}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

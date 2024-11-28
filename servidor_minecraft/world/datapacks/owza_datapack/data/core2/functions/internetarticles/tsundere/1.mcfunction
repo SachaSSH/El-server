@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nA presentation on the evidence in support of the hypothetical, theoretical, and probable existence of White \u201cNatasha\u201d Fang\u2019s tsunderence."}
+schedule function core2:internetarticles/tsundere/2 10s

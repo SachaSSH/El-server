@@ -1,0 +1,1 @@
+execute if entity @e[scores={AKills=100..999},advancements={owza_advancements:getting_started=false}] run function owza_functions:owza_adv/getting_started

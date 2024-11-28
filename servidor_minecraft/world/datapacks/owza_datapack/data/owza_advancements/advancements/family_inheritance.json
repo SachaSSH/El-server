@@ -1,0 +1,80 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:trident",
+      "nbt": "{display:{Name:'{\"text\":\"Amora Family Trident\",\"italic\":false}'}}"
+    },
+    "title": {
+      "text": "Family Inheritance"
+    },
+    "description": {
+      "text": "Obtain the Amora Family Trident",
+      "extra": [
+        {
+          "text": "\n\n15 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:forgotten_mansion",
+  "criteria": {
+    "amoraTrident": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "slots": {
+          "empty": {
+            "min": 0
+          },
+          "occupied": {
+            "min": 1
+          }
+        },
+        "items": [
+          {
+            "items": [
+              "minecraft:trident"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            },
+            "enchantments": [
+              {
+                "enchantment": "minecraft:channeling",
+                "levels": 1
+              },
+              {
+                "enchantment": "minecraft:loyalty",
+                "levels": 4
+              },
+              {
+                "enchantment": "minecraft:mending",
+                "levels": 1
+              },
+              {
+                "enchantment": "minecraft:sharpness",
+                "levels": 4
+              },
+              {
+                "enchantment": "minecraft:sweeping",
+                "levels": 3
+              },
+              {
+                "enchantment": "minecraft:unbreaking",
+                "levels": 4
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/family_inheritance"
+  }
+}

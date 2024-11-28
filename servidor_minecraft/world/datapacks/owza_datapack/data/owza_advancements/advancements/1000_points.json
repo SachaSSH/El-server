@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond",
+      "nbt": "{display:{Name:'[{\"text\":\"1000 Achievement Points Gem\",\"italic\":false}]'}}"
+    },
+    "title": {
+      "text": "1000 Points"
+    },
+    "description": {
+      "text": "Get 1000 Achievement Points"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:500_points",
+  "criteria": {
+    "1000Points": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/1000_points"
+  }
+}

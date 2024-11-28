@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\n"},{"text":"Todays Topic:","bold":true,"italic":true},{"text":"\n"},{"text":"A Nationwide Lockdown, Will It Happen?","bold":true,"italic":true}]
+schedule function core2:internetarticles/newsarticle/2 4s

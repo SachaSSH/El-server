@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:nether_star",
+      "nbt": "{display:{Name:'[{\"text\":\"500 Achievement Points Star\",\"italic\":false}]'}}"
+    },
+    "title": {
+      "text": "500 Points"
+    },
+    "description": {
+      "text": "Get 500 Achievement Points"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:100_points",
+  "criteria": {
+    "500Points": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/500_points"
+  }
+}

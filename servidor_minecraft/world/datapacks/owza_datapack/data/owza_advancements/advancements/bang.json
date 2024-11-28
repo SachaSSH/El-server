@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:golden_pickaxe",
+      "nbt": "{display:{Name:'[{\"text\":\"Miners Pick\",\"italic\":false}]'}}"
+    },
+    "title": {
+      "text": "BANG!"
+    },
+    "description": {
+      "text": "Blow up the Mine",
+      "extra": [
+        {
+          "text": "\n\n5 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:open_the_gate",
+  "criteria": {
+    "explodeMine": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/bang"
+  }
+}

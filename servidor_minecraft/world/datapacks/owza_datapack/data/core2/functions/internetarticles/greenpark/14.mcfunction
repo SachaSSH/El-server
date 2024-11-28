@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nThey got lucky and found a "},{"text":"RWMIK","italic":true},{"text":" Land Rover, however upon starting it up, alerted up undead British troops. With the smaller arms they would usually use for dealing with undead since they had silencers to not alert other undead not able to penetrate the body armour the undead British troops had, they began to fire a .50 Cal machinegun from another British vehicle."}]
+schedule function core2:internetarticles/greenpark/15 20s

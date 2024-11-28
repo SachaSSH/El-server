@@ -1,0 +1,3 @@
+tellraw @a[x=114,y=82,z=237,distance=..10] ["",{"text":"WARNING: ","color":"dark_red"},{"text":"Going into the tutorial will clear your inventory! Empty your inventory if you need to, then click this button again to enter the tutorial."}]
+setblock 112 82 237 air
+setblock 112 82 237 minecraft:command_block[conditional=false,facing=down]{Command:"/function core2:tutorialstart/tp",CustomName:'{"text":"@"}',SuccessCount:0,TrackOutput:1b,UpdateLastExecution:1b,auto:0b,conditionMet:0b,powered:0b}

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThere is only a couple mentions of the great flood, mostly in the Open World Zombie Apocalypse Discord server."}
+schedule function core2:internetarticles/greatflood/6 10s

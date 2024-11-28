@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"\"I did that!\""}},{"text":" Gas Leak in Terraville","color":"gold","hoverEvent":{"action":"show_text","value":"Blow up the Gas Station in Terraville"}}]
+scoreboard players add @p achievements 5

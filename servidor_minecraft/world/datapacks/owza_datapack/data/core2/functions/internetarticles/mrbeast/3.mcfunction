@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThis is not the first time the famous video maker has given away expensive prizes, but this comes as a surprise that a jet was given away when currently all international airports are closed due to the NVDI-15 Virus. "}
+schedule function core2:internetarticles/mrbeast/4 10s

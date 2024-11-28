@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Obtain the One Above All"}},{"text":" The Cursed Blade","color":"gold","hoverEvent":{"action":"show_text","value":"Obtain the One Above All"}}]
+scoreboard players add @p achievements 25

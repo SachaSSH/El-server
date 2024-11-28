@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nIt is said that six hours, and thirty four minutes after the nuking of Seoul, a decision was made by Pentagon officials, the President of the U.S., and mobile U.S. command centers."}
+schedule function core2:internetarticles/satellitemassacre/7 10s

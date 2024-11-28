@@ -1,0 +1,1 @@
+advancement grant @a[advancements={owza_advancements:pyrotechnics_expert=false}] only owza_advancements:pyrotechnics_expert

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nLocated a\\\\\\\\\\\\\\\\\\\\, a \\\\\\\\er located East of \\\\\\\\\\\\\\\\\\\\\\, the organization is a survivor built up settlement with people that involved the local government, police, and military."}
+schedule function core2:internetarticles/sarkaz/2 10s

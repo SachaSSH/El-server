@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe Soul Stone is a stone that has the ability to control the soul and essence of a person. It essentially controls life and death."}
+schedule function core2:internetarticles/infinitystones/end 10s

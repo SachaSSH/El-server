@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Activate a power station at a Los Echos subway station and hear the subway station messages"}},{"text":" The Metro Tells","color":"gold","hoverEvent":{"action":"show_text","value":"Activate a power station at a Los Echos subway station and hear the subway station messages"}}]
+scoreboard players add @p achievements 10

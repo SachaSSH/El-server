@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nOne of the survivors though was bitten by a ghoul, and a couple of them decide to try to get medical supplies and fuel for a truck."}
+schedule function core2:internetarticles/nightoflivingdead/6 10s

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nAtlas has looting as well. It's just, chaos ever"},{"text":"*****","italic":true},{"text":"e. Criminals are taking advantage of the chaos for their own advantage."}]
+schedule function core2:internetarticles/impiriustalk/6 10s

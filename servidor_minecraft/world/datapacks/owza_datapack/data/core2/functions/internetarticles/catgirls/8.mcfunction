@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThese types of films and television often are bound in the realms of fantasy, featuring magical creatures, fights, and other events not possible in the physical realm."}
+schedule function core2:internetarticles/catgirls/9 10s

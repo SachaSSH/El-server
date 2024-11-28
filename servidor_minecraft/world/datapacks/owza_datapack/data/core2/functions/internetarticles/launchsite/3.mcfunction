@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\n"},{"text":"sahffhhfnnfnajfnfsnnisffafhhfaasfafsahffhhfnnfnajfnfsnnisffafhhfaasfasahffhhfnnfnajsahffadahafadswada","obfuscated":true},{"text":" \u0020 \u0020 \""},{"text":"We have a rocket set up on pad for if issues arise. The launchsite AI needs to be online though. Probably needs something from the main Labs...\"","italic":true}]
+schedule function core2:internetarticles/launchsite/end 10s

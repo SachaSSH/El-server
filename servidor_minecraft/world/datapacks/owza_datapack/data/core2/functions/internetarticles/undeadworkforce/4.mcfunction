@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nOne of the main issues though is the fact that the undead go and attack not undead people, which would disrupt the workflow in a factory."}
+schedule function core2:internetarticles/undeadworkforce/5 10s

@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:crossbow"
+    },
+    "title": {
+      "text": "A Savage Discovery..."
+    },
+    "description": {
+      "text": "\"Underneath it all, we're just savages, hidden behind shirts ties and marriages.\"\n\nDiscover the Savages at the Motel",
+      "extra": [
+        {
+          "text": "\n\n5 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:reliving_the_past",
+  "criteria": {
+    "spawnMotelSavages": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/a_savage_discovery"
+  }
+}

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThey set up FOB near the Kew bridge, before making the plan to get into left over Foxhound vehicles from the British armed forces at the Gtech Community Stadium, and then head West along the M4 highway to Reading, and then attempt to find a secure route to where the blueprints were."}
+schedule function core2:internetarticles/greenpark/9 15s

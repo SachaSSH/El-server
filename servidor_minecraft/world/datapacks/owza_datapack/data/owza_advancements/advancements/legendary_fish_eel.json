@@ -1,0 +1,48 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:tropical_fish",
+      "nbt": "{display:{Name:'[{\"text\":\"Legendary Eel\",\"italic\":false,\"color\":\"gold\"}]'}}"
+    },
+    "title": {
+      "text": "Electrifying",
+      "color": "gold"
+    },
+    "description": {
+      "text": "Fish up a Legendary Eel",
+      "extra": [
+        {
+          "text": "\nCan be found in Deep Lukewarm Ocean",
+          "color": "white"
+        },
+        {
+          "text": "\n\n25 points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:legendary_fish_bass",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:tropical_fish"
+            ],
+            "nbt": "{display:{Name:'[{\"text\":\"Legendary Eel\",\"italic\":false,\"color\":\"gold\"}]',Lore:['[{\"text\":\"An eight foot long eel\"}]']}}"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/legendary_fish_eel"
+  }
+}

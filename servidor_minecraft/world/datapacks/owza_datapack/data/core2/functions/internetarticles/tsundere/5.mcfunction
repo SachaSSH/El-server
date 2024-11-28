@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nIf the person in question does in fact question the research presented below, all opinions, regards, accusations, lawsuits, emotional baggage, and any other sort of verbal, emotional, or psychological weaponry will be henceforth disregarded by the original publisher."}
+schedule function core2:internetarticles/tsundere/6 10s

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nI believe that until proven guilty, every man, woman, and child in this country is innocent."}
+schedule function core2:internetarticles/saul/5 2s

@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:red_dye"
+    },
+    "title": {
+      "text": "Hardcore Player",
+      "color": "aqua"
+    },
+    "description": {
+      "text": "Play on All the Hardest of Settings",
+      "extra": [
+        {
+          "text": "\n\n20 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "owza_advancements:cheater",
+  "criteria": {
+    "hardcoreSettings": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/hardcore_player"
+  }
+}

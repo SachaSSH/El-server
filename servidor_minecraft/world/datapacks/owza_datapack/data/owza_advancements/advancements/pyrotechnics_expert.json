@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:firework_rocket",
+      "nbt": "{display:{Name:'[{\"text\":\"Emergency Flare\",\"italic\":false}]'}}"
+    },
+    "title": {
+      "text": "Pyrotechnics Expert"
+    },
+    "description": {
+      "text": "Use the Aircraft Carrier's Flare Launcher",
+      "extra": [
+        {
+          "text": "\n\n10 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:ruined_city",
+  "criteria": {
+    "flare": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/pyrotechnics_expert"
+  }
+}

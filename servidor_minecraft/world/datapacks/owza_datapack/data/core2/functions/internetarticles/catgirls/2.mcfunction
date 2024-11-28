@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nAn in depth explanation of the psychology behind GreenBoy657\u2019s interest in catgirls."}
+schedule function core2:internetarticles/catgirls/3 5s

@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Die 100 Times"}},{"text":" One With the Horde","color":"gold","hoverEvent":{"action":"show_text","value":"Die 100 Times"}}]
+scoreboard players add @p achievements 15

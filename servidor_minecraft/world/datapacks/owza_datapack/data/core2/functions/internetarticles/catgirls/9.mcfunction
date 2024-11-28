@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nCatgirls were introduced to anime from \u201cThe King's Tail (Ousama no Shippo)\u201d, a popular anime from 1949. Since then, the concept has taken off, occasionally appearing in things outside of anime, including costumes, roleplay, and other various activities."}
+schedule function core2:internetarticles/catgirls/10 10s

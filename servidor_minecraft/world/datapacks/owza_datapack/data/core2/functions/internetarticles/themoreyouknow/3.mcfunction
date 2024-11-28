@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\n3. The QWERTY keyboard was designed to make people type slower, due to typing too fast with a typewriter would jam it."}
+schedule function core2:internetarticles/themoreyouknow/4 5s

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nPick Up That Phone and Dial "},{"text":"1-555-555-5555","color":"dark_red"},{"text":" to ENSURE THAT YOUR LEGAL CLAIM WILL SURVIVE!"}]
+schedule function core2:internetarticles/domelaw/end 5s

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nAs companies debate on if the cause of the economy failing could be a way to fix it, there are many hurdles that would slow down the eventual \"undead workforce\"."}
+schedule function core2:internetarticles/undeadworkforce/8 10s

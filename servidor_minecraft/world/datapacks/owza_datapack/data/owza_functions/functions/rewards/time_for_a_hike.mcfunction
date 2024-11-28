@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","contents":"Visit Fiarhill Park"}},{"text":" Time for a Hike!","color":"gold","hoverEvent":{"action":"show_text","contents":"Visit Fairhill Park"}}]
+scoreboard players add @p achievements 5

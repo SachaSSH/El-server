@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nFortifications:\n\nOkay so obviously, you need to make sure your home is properly fortified, so you can run away and hide in it if it gets too scary, like the wimp you are!"}
+schedule function core2:internetarticles/survivaltips/3 10s

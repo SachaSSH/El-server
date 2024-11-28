@@ -1,0 +1,52 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:potion",
+      "nbt": "{display:{Name:'{\"text\":\"Kale-Spinach Smoothie\",\"italic\":false}'},Potion:\"minecraft:swiftness\",CustomPotionColor:968448}"
+    },
+    "title": {
+      "text": "Drink Your Greens!"
+    },
+    "description": {
+      "text": "Find the Kale-Spinach Smoothie",
+      "extra": [
+        {
+          "text": "\n\n10 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:lucky_day",
+  "criteria": {
+    "smoothie": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "slots": {
+          "empty": {
+            "min": 0
+          },
+          "occupied": {
+            "min": 1
+          }
+        },
+        "items": [
+          {
+            "count": {
+              "min": 1,
+              "max": 1
+            },
+            "nbt": "{display:{Name:'{\"text\":\"Kale-Spinach Smoothie\"}'}}"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/drink_your_greens"
+  }
+}

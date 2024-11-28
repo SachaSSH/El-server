@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nIt's crazy out there tonight. Saw a couple troops sh"},{"text":"*****","italic":true},{"text":"omebody trying to climb over the wall around the city."}]
+schedule function core2:internetarticles/impiriustalk/4 10s

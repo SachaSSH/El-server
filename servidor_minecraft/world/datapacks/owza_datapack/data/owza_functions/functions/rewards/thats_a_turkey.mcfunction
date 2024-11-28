@@ -1,0 +1,3 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Get 3 Strikes at the Bowling Alley"}},{"text":" Thats a Turkey!","color":"gold","hoverEvent":{"action":"show_text","value":"Get 3 Strikes at the Bowling Alley"}}]
+scoreboard players add @p achievements 5
+give @p minecraft:player_head{display:{Name:"{\"text\":\"Teddy Bear\"}"},SkullOwner:{Id:[I;-980138224,1428637608,-1855436325,-593222700],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDVmNWJmODUxMGZmY2QzYTVlOWQ3ODI1YjY0MzMzYTEyMWQ1NjFmZTJjZGQ3NjdjN2UxOGI4Y2M1MjFiNiJ9fX0="}]}}} 1

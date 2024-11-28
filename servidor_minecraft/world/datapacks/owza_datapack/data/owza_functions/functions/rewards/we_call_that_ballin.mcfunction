@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Encounter the Basketball Player"}},{"text":" We Call That Ballin'","color":"gold","hoverEvent":{"action":"show_text","value":"Encounter the Basketball Player"}}]
+scoreboard players add @p achievements 10

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe British Isles were long lost to the undead though, most of the British government having been lost in chaos or fled. London was a black city, but attempting an air raid of the facility would be too difficult. The Green Park, Reading raid for the blueprints of the Carrier would need to be a both stealth and recon mission for the U.S. military, to see the state of London."}
+schedule function core2:internetarticles/greenpark/7 20s

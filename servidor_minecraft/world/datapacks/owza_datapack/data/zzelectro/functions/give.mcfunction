@@ -1,0 +1,1 @@
+give @s crossbow{display:{Name:'{"text":"Crackshot","color":"light_purple","italic":false}'},crackshot:1b} 1

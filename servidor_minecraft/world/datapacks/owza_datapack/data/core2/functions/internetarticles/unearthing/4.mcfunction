@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThey began to dig with their hands, revealing the stone was actually apart of a much larger structure. They reported it, and a crew from the Atlas Museum went to the site."}
+schedule function core2:internetarticles/unearthing/5 10s

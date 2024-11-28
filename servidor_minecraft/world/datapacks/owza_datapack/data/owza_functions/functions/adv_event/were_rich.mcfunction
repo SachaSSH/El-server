@@ -1,0 +1,1 @@
+advancement grant @a[advancements={owza_advancements:were_rich=false}] only owza_advancements:were_rich

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nAfter a lot of hours of work, they have uncovered some of a tower and wall, and are calling it an archeological wonder."}
+schedule function core2:internetarticles/unearthing/6 10s

@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Find and wear the Lucky Tuxedo"}},{"text":" It's My Lucky Day!","color":"gold","hoverEvent":{"action":"show_text","value":"Find and wear the Lucky Tuxedo"}}]
+scoreboard players add @p achievements 10

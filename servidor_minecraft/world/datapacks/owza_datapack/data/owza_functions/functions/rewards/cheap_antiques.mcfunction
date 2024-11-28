@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","contents":"Find the Con Artist's store"}},{"text":" Cheap Antiques","color":"gold","hoverEvent":{"action":"show_text","contents":"Find the Con Artist's store"}}]
+scoreboard players add @p achievements 10

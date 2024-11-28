@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nWith infection rates high in the city, and the United States forces making headway, the North Koreans did the unthinkable: They launched a nuclear ICBM onto the city."}
+schedule function core2:internetarticles/satellitemassacre/4 10s

@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"\"Underneath it all, we're just savages, hidden behind shirts ties and marriages.\"\n\nSpawn the Savages at the Motel"}},{"text":" A Savage Discovery...","color":"gold","hoverEvent":{"action":"show_text","value":"\"Underneath it all, we're just savages, hidden behind shirts ties and marriages.\"\n\nDiscover the Savages at the Motel"}}]
+scoreboard players add @p achievements 5

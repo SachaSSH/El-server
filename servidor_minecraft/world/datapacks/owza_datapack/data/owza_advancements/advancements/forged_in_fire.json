@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:creeper_banner_pattern"
+    },
+    "title": {
+      "text": "Forged in Fire"
+    },
+    "description": {
+      "text": "Craft Every Ruins Recipe",
+      "extra": [
+        {
+          "text": "\n\n25 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:no_time_to_waste",
+  "criteria": {
+    "ruinsRecipes": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/forged_in_fire"
+  }
+}

@@ -1,0 +1,1 @@
+advancement grant @a[advancements={owza_advancements:gas_leak=false}] only owza_advancements:gas_leak

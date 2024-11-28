@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nEpic Baseball Bat:\n\u200bPut some long nails or chains or spikes in a baseball bat! Works super well for bashing heads in!"}
+schedule function core2:internetarticles/survivaltips/8 10s

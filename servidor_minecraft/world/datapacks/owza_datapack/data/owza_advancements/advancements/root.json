@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:zombie_head"
+    },
+    "title": {
+      "text": "Open World Zombie Apocalypse"
+    },
+    "description": {
+      "text": "Custom Achievements"
+    },
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "startMap": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

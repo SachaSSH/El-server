@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nDEFCON 1 was reached instantly, and while many U.S. troops and South Korean civilians were able to flee from the city in the few minutes they had before the city of Seoul was nuked, over three thousand U.S. troops died, with civilian casualties ranging anywhere from three to four million."}
+schedule function core2:internetarticles/satellitemassacre/5 10s

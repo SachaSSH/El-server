@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe ISS orbited around Earth for almost 5 years after abandonment, before eventually falling out of orbit."}
+schedule function core2:internetarticles/iss/5 10s

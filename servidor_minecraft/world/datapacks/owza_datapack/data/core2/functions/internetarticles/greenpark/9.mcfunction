@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe mission went well, four operational Foxhounds were recovered, able to transport 24 troops."}
+schedule function core2:internetarticles/greenpark/10 10s

@@ -1,0 +1,108 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 20
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -5,
+          "name": "minecraft:leather_helmet",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:0,Name:'[{\"text\":\"Black Top Hat\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "quality": -5,
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:0,Name:'[{\"text\":\"Black Tuxedo\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -5,
+          "name": "minecraft:leather_leggings",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:0,Name:'[{\"text\":\"Black Pants\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "quality": -5,
+          "name": "minecraft:leather_boots",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{color:0,Name:'[{\"text\":\"Black Dress Shoes\",\"italic\":false}]'},HideFlags:65}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 30,
+          "quality": -10,
+          "name": "minecraft:cobweb"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "quality": 80,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomPotionColor:12173915,display:{Name:'[{\"text\":\"Beer\",\"italic\":false}]',Lore:['[{\"text\":\"\",\"italic\":false}]','[{\"text\":\"Alcohol.\",\"italic\":false,\"color\":\"white\"}]']},HideFlags:32,CustomPotionEffects:[{Id:22,Duration:100,Amplifier:1,ShowParticles:0b,ShowIcon:0b},{Id:4,Duration:100,Amplifier:1,ShowParticles:0b,ShowIcon:0b},{Id:9,Duration:1200,Amplifier:1,ShowParticles:0b,ShowIcon:0b},{Id:1,Duration:300,Amplifier:1,ShowParticles:0b,ShowIcon:0b},{Id:5,Duration:1000,Amplifier:1,ShowParticles:0b,ShowIcon:0b}]}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.35
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 100,
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{CustomPotionColor:11703746,display:{Name:'[{\"text\":\"Sandheit Champagne\",\"italic\":false,\"color\":\"gold\"}]'},Enchantments:[{}],HideFlags:32,CustomPotionEffects:[{Id:22,Duration:150,ShowParticles:0b},{Id:24,Duration:300,ShowParticles:0b},{Id:6,Duration:2,ShowParticles:0b},{Id:10,Duration:100,ShowParticles:0b},{Id:1,Duration:400,Amplifier:1,ShowParticles:0b}]}"
+            }
+          ],
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 500,
+          "name": "minecraft:golden_apple"
+        }
+      ]
+    }
+  ]
+}

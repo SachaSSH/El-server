@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nDuring the construction of the sand dunes, developer \"White_Fang\", also known as \"Natasha\", was adding dead coral fan blocks to simulate dead grass for the vegetation."}
+schedule function core2:internetarticles/greatflood/3 10s

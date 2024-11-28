@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:red_terracotta"
+    },
+    "title": {
+      "text": "That's A Big Hole..."
+    },
+    "description": {
+      "text": "Find the Niyol Mine",
+      "extra": [
+        {
+          "text": "\n\n10 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:finally_water",
+  "criteria": {
+    "ghostTrain": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/that_a_big_hole"
+  }
+}

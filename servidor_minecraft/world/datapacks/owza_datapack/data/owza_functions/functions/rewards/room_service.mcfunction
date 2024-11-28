@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Activate the 4 Ashton Generators"}},{"text":" Room Service","color":"gold","hoverEvent":{"action":"show_text","value":"Activate the 4 Ashton Generators"}}]
+scoreboard players add @p achievements 10

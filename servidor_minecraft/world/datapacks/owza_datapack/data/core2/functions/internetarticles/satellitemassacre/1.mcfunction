@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe Satellite Massacre is the event that was a defining point during the NVDI-15 virus outbreak across the globe."}
+schedule function core2:internetarticles/satellitemassacre/2 10s

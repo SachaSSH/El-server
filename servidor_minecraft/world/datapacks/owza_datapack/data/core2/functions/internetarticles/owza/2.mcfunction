@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nOpen to singleplayer and multiplayer usage, the large Open World has countless hours of playtime, and has been getting updates for over 10 years now."}
+schedule function core2:internetarticles/owza/3 10s

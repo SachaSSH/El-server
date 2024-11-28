@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nSarkaz Corp's main goal is to help survivors out in the world by both direct or indirect ways (Air packages, helping to find loot stashes, etc.)"}
+schedule function core2:internetarticles/sarkaz/4 10s

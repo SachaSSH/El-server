@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\nI've been hearing of the riots in Los Echos, an"},{"text":"*********","italic":true},{"text":"lence stemming from there."}]
+schedule function core2:internetarticles/impiriustalk/5 10s

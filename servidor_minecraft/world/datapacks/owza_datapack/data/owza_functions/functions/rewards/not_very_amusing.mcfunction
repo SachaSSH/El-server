@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","contents":"Find the Amusement Park"}},{"text":" Not Very Amusing!","color":"gold","hoverEvent":{"action":"show_text","contents":"Find your way to the Amusement Park"}}]
+scoreboard players add @p achievements 5

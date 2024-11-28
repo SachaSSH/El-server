@@ -1,0 +1,1 @@
+advancement grant @a[advancements={owza_advancements:into_the_unknown=false}] only owza_advancements:into_the_unknown

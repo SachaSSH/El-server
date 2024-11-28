@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\n \u0020SEN"},{"text":"D \u0020 ","obfuscated":true},{"text":" \u0020H"},{"text":"E \u0020L","obfuscated":true},{"text":"P"}]
+schedule function core2:internetarticles/virussafety/end 15s

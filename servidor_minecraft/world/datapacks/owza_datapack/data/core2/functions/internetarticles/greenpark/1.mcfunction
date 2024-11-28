@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nMany years after the Satellite Massacre and most of the collapse of the main worlds infrastructure and governments, the U.S. government and military were still fighting head on to reclaim the U.S.A. lands."}
+schedule function core2:internetarticles/greenpark/2 10s

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nDespite this fact, modern day culture, and the catgirl persona I am referencing in this article, has deemed them something a little bit different. In most anime and role plays, catgirls are shy, introverted, and very submissive, meaning \u201cready to conform to the authority or will of others; meekly obedient or passive.\u201d (Oxford Dictionary)."}
+schedule function core2:internetarticles/catgirls/18 10s

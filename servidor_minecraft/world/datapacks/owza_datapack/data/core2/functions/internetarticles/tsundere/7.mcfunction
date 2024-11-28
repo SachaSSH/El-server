@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nReturning to the attributes of the given character. A tsundere suffers from a vast variety of different mental instabilities and traits which vary greatly from individual to individual."}
+schedule function core2:internetarticles/tsundere/8 10s

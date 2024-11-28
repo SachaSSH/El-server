@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Use the Custom Brewer"}},{"text":" Welcome to Brewing Class!","color":"gold","hoverEvent":{"action":"show_text","value":"Use the Custom Brewer"}}]
+scoreboard players add @p achievements 10

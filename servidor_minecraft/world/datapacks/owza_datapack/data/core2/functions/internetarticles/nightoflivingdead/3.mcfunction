@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe plot of the movie is that a brother and sister are going to visit their fathers grave, in rural Pennsylvania. As they leave the grave, a man attacks them, killing the brother. The sister flees to an abandoned farmhouse, where she meets more survivors and one of them drives off the ghouls approaching them. "}
+schedule function core2:internetarticles/nightoflivingdead/4 10s

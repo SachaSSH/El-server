@@ -1,0 +1,4 @@
+playsound minecraft:block.anvil.destroy ambient @p ~ ~ ~ 0.25 1.5
+give @p tipped_arrow{CustomPotionColor:12886829,display:{Name:'[{"text":".50 BMG","italic":false}]',Lore:['[{"text":"Instant Damage","italic":false,"color":"red"},{"text":"","italic":false,"color":"dark_purple"}]','[{"text":"Anyone hit with this","italic":false,"color":"dark_purple"}]','[{"text":"will definitely feel it","italic":false,"color":"dark_purple"}]']},HideFlags:127,CustomPotionEffects:[{Id:7,Duration:1,Amplifier:2,ShowParticles:0b,ShowIcon:0b},{Id:6,Duration:1,Amplifier:2,ShowParticles:0b,ShowIcon:0b},{Id:9,Duration:40,Amplifier:1,ShowParticles:0b,ShowIcon:0b}]} 1
+kill @e[type=item,nbt={Item:{id:"minecraft:copper_ingot"}},distance=..2,limit=1]
+kill @e[type=item,nbt={Item:{id:"minecraft:gunpowder"}},distance=..2,limit=4]

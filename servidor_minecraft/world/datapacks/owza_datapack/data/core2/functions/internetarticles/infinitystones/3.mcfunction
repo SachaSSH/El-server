@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe Space Stone is a stone that is able to have instant teleportation to anywhere in the universe, and is also able to power devices."}
+schedule function core2:internetarticles/infinitystones/4 10s

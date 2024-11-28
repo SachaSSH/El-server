@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nAlright, so now, for the absolute bad butts of people, here are a couple weapons you can make yourself!"}
+schedule function core2:internetarticles/survivaltips/6 10s

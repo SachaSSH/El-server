@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nLockdowns have shown to not be that useful, as people will disobey the law and there have been many arrests in our city alone for people disobeying the curfew."}
+schedule function core2:internetarticles/newsarticle/6 10s

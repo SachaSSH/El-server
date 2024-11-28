@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThey go to a gas station, but ultimately it results in killing two out of the three people after the truck catches fire and explodes."}
+schedule function core2:internetarticles/nightoflivingdead/7 10s

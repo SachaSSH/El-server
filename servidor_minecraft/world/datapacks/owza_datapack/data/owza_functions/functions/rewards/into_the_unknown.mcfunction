@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Wear a Gas Mask"}},{"text":" Into the Unknown","color":"gold","hoverEvent":{"action":"show_text","value":"Wear a Gas Mask"}}]
+scoreboard players add @p achievements 5

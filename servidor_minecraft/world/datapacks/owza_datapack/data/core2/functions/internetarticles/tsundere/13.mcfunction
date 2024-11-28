@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nFurther reinforcing these events is the subject\u2019s denial of very clear realities, such as the denial that she could, in any substantial way, be a tsundere. This clearly reflects the natural tsunderian instinct to deny realities they know to be true to others that they wish not to know."}
+schedule function core2:internetarticles/tsundere/14 10s

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nMany scientists say that due to the nature of the virus and how it affects people this isn't possible, but there has been mixed statements. Some say that the undead can be taught how to tasks, like how schools teach little kids how to read and write."}
+schedule function core2:internetarticles/undeadworkforce/4 10s

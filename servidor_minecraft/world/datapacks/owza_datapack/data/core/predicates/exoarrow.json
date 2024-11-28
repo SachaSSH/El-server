@@ -1,0 +1,8 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:arrow",
+    "nbt": "{CustomPotionEffects:[{Id:6b,Duration:20}],inGround:1b}"
+  }
+}

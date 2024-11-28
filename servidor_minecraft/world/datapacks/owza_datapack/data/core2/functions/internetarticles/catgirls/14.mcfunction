@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\n\u201cCatgirls\u201d are humans with additional \u201cfeatures\u201d, usually simply including cat-like ears, a cat-like tail, and a mixed personality between human and feline."}
+schedule function core2:internetarticles/catgirls/15 10s

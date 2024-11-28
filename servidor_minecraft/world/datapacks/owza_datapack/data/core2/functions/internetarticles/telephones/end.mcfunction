@@ -1,0 +1,3 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] ["",{"text":"\n"},{"text":"Oh that is interesting! And that was so long ago! I wonder what the difference between those telephones and todays telephones are? Here's the article.","color":"dark_purple"}]
+give @p written_book{pages:['["",{"text":"On July 13th, 1882, the first telephone exchanges began in Russia.\\n\\nThe first stations opened up in St. Petersburg, Moscow, Odessa and Riga."},{"text":" ","color":"#E7E9EA"}]'],title:"First Telephones in Russia",author:_Radar_} 1
+setblock 1219 53 1158 minecraft:hopper[enabled=true,facing=down]{CustomName:'{"text":"Insert Article Brick In Here"}',Items:[],TransferCooldown:0}

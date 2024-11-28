@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Complete the Los Echos Casino Heist"}},{"text":" Ocean's One","color":"gold","hoverEvent":{"action":"show_text","value":"Complete the Los Echos Casino Heist"}}]
+scoreboard players add @p achievements 15

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe U.S. Military is fully capable of handling the outbreaks, and we will make sure that every inch of United States land will be captured back and be safe."}
+schedule function core2:internetarticles/handleit/4 10s

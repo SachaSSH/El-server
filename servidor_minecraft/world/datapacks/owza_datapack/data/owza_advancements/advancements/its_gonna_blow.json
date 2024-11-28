@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:tnt"
+    },
+    "title": {
+      "text": "IT'S GONNA BLOW!!!",
+      "color": "aqua"
+    },
+    "description": {
+      "text": "Activate the \"special\" cargo in the Cargo Ship",
+      "extra": [
+        {
+          "text": "\n\n10 Points",
+          "color": "gold"
+        }
+      ]
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "owza_advancements:swamped_town",
+  "criteria": {
+    "cargoShip": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/its_gonna_blow"
+  }
+}

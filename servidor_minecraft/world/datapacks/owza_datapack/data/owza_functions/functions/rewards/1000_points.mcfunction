@@ -1,0 +1,2 @@
+give @p diamond{display:{Name:'[{"text":"1000 Achievement Points Gem","italic":false,"color":"gold"}]',Lore:['[{"text":"","italic":false}]','[{"text":"Shine brighter than the sun!","italic":false,"color":"green"}]']},Enchantments:[{}]} 1
+tellraw @p ["",{"text":"E","obfuscated":true,"color":"green"},{"text":" 1000 Achievement Points Have Been Reached!","color":"gold"},{"text":" E","obfuscated":true,"color":"green"}]

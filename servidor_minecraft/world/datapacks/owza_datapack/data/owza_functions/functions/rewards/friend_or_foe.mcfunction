@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Find the Sapphire Soldiers"}},{"text":" Friend or Foe?","color":"gold","hoverEvent":{"action":"show_text","value":"Find the Sapphire Soldiers"}}]
+scoreboard players add @p achievements 5

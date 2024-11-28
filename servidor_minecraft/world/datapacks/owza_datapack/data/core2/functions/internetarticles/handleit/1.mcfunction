@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThis is the President of the United States of America. I know that things seem dire. The country is separated, and we are working to make sure that we can rebuild what we have lost."}
+schedule function core2:internetarticles/handleit/2 10s

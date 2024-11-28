@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThat's right, ladies and gentlemen and folks of all kinds, He is coming back to our plane to give us the sweet, sweet taste of redemption we'll all been looking for - I sure have, I can not stop crying blood !"}
+schedule function core2:internetarticles/mouton/end 10s

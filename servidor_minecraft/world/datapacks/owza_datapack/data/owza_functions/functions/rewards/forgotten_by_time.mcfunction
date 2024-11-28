@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","contents":"Find the Ruins"}},{"text":" The Evil Forgotten by Time","color":"gold","hoverEvent":{"action":"show_text","contents":"Find the Ruins"}}]
+scoreboard players add @p achievements 10

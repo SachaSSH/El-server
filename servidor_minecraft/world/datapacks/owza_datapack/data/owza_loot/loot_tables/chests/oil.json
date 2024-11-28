@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 4
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "quality": 1,
+          "name": "minecraft:charcoal",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'[{\"text\":\"Oil Droplet\",\"italic\":false}]',Lore:['[{\"text\":\"Hell yea, oil!\",\"italic\":false,\"color\":\"dark_blue\"}]','[{\"text\":\"\\'merica!\",\"italic\":false,\"color\":\"dark_blue\"},{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"\",\"italic\":false,\"color\":\"dark_purple\"}]','[{\"text\":\"Maybe if you get\",\"italic\":false,\"color\":\"#0033ff\"}]','[{\"text\":\"enough of this, you\",\"italic\":false,\"color\":\"#0033ff\"}]','[{\"text\":\"could use it for\",\"italic\":false,\"color\":\"#0033ff\"}]','[{\"text\":\"something...\",\"italic\":false,\"color\":\"#0033ff\"}]']}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+

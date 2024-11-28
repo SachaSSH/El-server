@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:poppy",
+      "nbt": "{display:{Name:'[{\"text\":\"100 Achievement Points Rose\",\"italic\":false}]'}}"
+    },
+    "title": {
+      "text": "100 Points"
+    },
+    "description": {
+      "text": "Get 100 Achievement Points"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "owza_advancements:milestones",
+  "criteria": {
+    "100Points": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "function": "owza_functions:rewards/100_points"
+  }
+}

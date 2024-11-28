@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThough the subject itself does not currently acknowledge the link between it\u2019s mental and cognitive superstructure to that of one who suffers from tsunderism, it is highly hoped that this well researched paper will change the subject\u2019s current mental perception of it's own psychological tendencies."}
+schedule function core2:internetarticles/tsundere/16 10s

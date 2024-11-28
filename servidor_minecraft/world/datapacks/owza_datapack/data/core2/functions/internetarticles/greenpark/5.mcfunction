@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nAlso due of the amount of carriers the U.S. navy had, they also acted as mini mobile command centers, and with the Pacific Fleet being contacted, discovering they had almost completely torched Hawaii with ease, the U.S. government began to order for more ships to be constructed, when they discovered in Green Park, Reading, the British were making a new type of Carrier class that could help with defeating zombies: CVN-86 class, a \"Z-Carrier\"."}
+schedule function core2:internetarticles/greenpark/6 20s

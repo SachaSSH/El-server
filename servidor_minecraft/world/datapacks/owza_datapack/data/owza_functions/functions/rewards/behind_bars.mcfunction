@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Find Arlham Prison"}},{"text":" Behind Bars","color":"gold","hoverEvent":{"action":"show_text","value":"Find Arlham Prison"}}]
+scoreboard players add @p achievements 10

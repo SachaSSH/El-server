@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThe priest gets infected by the artifact, and has the ability to turn into a dinosaur when angry."}
+schedule function core2:internetarticles/velocipastor/5 5s

@@ -1,0 +1,2 @@
+tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nIn total, the United States launched 738 ICBMs at Chinese and Russian satellites. The amount of ICBMs used by China and Russia are unknown, but it is assumed that they used a lot of their current stockpile of long range nuclear missiles."}
+schedule function core2:internetarticles/satellitemassacre/12 10s
