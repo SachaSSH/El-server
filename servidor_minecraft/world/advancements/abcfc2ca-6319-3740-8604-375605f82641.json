@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2024-11-28 20:53:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-28 20:31:13 +0000"
@@ -53,6 +59,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-11-28 20:44:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-11-28 20:49:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-11-28 20:25:14 +0000"
@@ -71,9 +89,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-28 20:41:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-11-28 20:31:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-28 20:49:44 +0000"
     },
     "done": true
   },
@@ -89,9 +119,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-11-28 20:49:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2024-11-28 20:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-11-28 20:54:19 +0000"
     },
     "done": true
   },
@@ -104,6 +146,12 @@
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-28 20:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-11-28 20:45:13 +0000"
     },
     "done": true
   },
@@ -131,6 +179,12 @@
     },
     "done": true
   },
+  "owza_advancements:begin_map": {
+    "criteria": {
+      "leaveHouse": "2024-11-28 20:42:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-11-28 20:31:13 +0000"
@@ -143,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-11-28 20:53:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-11-28 20:31:13 +0000"
@@ -152,6 +212,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2024-11-28 20:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-11-28 20:45:13 +0000"
     },
     "done": true
   },
@@ -209,6 +275,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-11-28 20:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-11-28 20:49:44 +0000"
+    },
+    "done": true
+  },
   "sereneseasons:recipes/tools/calendar": {
     "criteria": {
       "has_clock": "2024-11-28 20:31:20 +0000"
@@ -257,6 +335,12 @@
     },
     "done": true
   },
+  "owza_advancements:time_for_a_hike": {
+    "criteria": {
+      "enterFairhill": "2024-11-28 20:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-11-28 20:31:29 +0000"
@@ -287,9 +371,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-11-28 20:45:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-11-28 20:29:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-28 20:45:13 +0000"
     },
     "done": true
   },
@@ -314,6 +410,24 @@
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2024-11-28 20:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-28 20:44:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-11-28 20:41:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-28 20:49:44 +0000"
     },
     "done": true
   },
@@ -383,6 +497,12 @@
     },
     "done": true
   },
+  "owza_advancements:accidents_happen": {
+    "criteria": {
+      "accidentsHappen": "2024-11-28 20:53:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
       "has_stick": "2024-11-28 20:31:13 +0000"
@@ -401,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-11-28 20:44:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-11-28 20:31:24 +0000"
@@ -409,13 +535,35 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:sunflower_plains": "2024-11-28 20:25:15 +0000"
+      "minecraft:sunflower_plains": "2024-11-28 20:25:15 +0000",
+      "minecraft:dark_forest": "2024-11-28 20:50:39 +0000",
+      "minecraft:river": "2024-11-28 20:49:34 +0000",
+      "minecraft:snowy_plains": "2024-11-28 20:51:29 +0000",
+      "minecraft:swamp": "2024-11-28 20:46:21 +0000",
+      "minecraft:forest": "2024-11-28 20:50:26 +0000",
+      "minecraft:plains": "2024-11-28 20:49:33 +0000"
     },
     "done": false
   },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2024-11-28 20:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "porkchop": "2024-11-28 20:48:23 +0000",
+      "bread": "2024-11-28 20:46:19 +0000",
+      "cookie": "2024-11-28 20:48:29 +0000",
+      "dried_kelp": "2024-11-28 20:44:52 +0000",
+      "beetroot": "2024-11-28 20:44:00 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-11-28 20:54:24 +0000"
     },
     "done": true
   },
@@ -437,9 +585,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-11-28 20:44:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2024-11-28 20:31:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-11-28 20:49:44 +0000"
     },
     "done": true
   },
