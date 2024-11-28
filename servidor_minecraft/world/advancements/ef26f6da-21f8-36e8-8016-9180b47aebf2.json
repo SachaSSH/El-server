@@ -1979,6 +1979,12 @@
     },
     "done": true
   },
+  "regrowth:rgroot/teardown": {
+    "criteria": {
+      "has_wall": "2024-11-28 04:43:58 +0000"
+    },
+    "done": false
+  },
   "owza_advancements:welcome_to_the_future": {
     "criteria": {
       "visitFuture": "2024-11-28 04:47:06 +0000"
@@ -1990,12 +1996,6 @@
       "has_copper_backpack": "2024-11-28 04:48:49 +0000"
     },
     "done": true
-  },
-  "regrowth:rgroot/teardown": {
-    "criteria": {
-      "has_wall": "2024-11-28 04:43:58 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }

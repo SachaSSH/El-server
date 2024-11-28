@@ -2451,27 +2451,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2024-11-28 04:41:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2024-11-28 04:42:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-11-28 04:41:26 +0000"
-    },
-    "done": true
-  },
-  "owza_advancements:not_very_amusing": {
-    "criteria": {
-      "enterPark": "2024-11-28 04:47:43 +0000"
     },
     "done": true
   },
@@ -2487,9 +2469,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-11-28 04:41:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2024-11-28 04:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-11-28 04:42:59 +0000"
+    },
+    "done": true
+  },
+  "owza_advancements:not_very_amusing": {
+    "criteria": {
+      "enterPark": "2024-11-28 04:47:43 +0000"
     },
     "done": true
   },
