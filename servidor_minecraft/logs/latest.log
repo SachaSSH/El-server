@@ -2878,3 +2878,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [28Nov2024 07:43:26.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti joined the game
 [28Nov2024 07:43:28.156] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elbasti (18)
 [28Nov2024 07:43:28.157] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elbasti
+[28Nov2024 07:48:01.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti was slain by Zombie Horse
+[28Nov2024 07:48:02.604] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:50:27.928] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/2022, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=71.70, y=84.50, z=304.27] died: elbasti's Zombie was slain by elbasti
+[28Nov2024 07:50:30.765] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/27801, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=71.60, y=84.50, z=304.59] died: elbasti's Zombie was slain by elbasti
+[28Nov2024 07:51:42.062] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@54ba7ba7]Trying to start horde event on day 10 with nextDay 10 and time 10000
+[28Nov2024 07:51:42.067] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@209946f1
+[28Nov2024 07:51:42.070] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[28Nov2024 07:51:42.070] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[28Nov2024 07:51:42.126] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 07:51:42.126] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 07:52:23.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex was slain by Zombie
+[28Nov2024 07:52:24.663] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:52:32.134] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 07:52:32.134] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 07:53:17.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 fell off some vines
+[28Nov2024 07:53:18.821] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:53:22.108] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 07:53:22.108] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 07:53:22.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti starved to death
+[28Nov2024 07:53:23.816] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:53:33.779] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/35143, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=68.41, y=79.00, z=312.70] died: elbasti's Zombie was slain by elbasti
+[28Nov2024 07:53:38.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex was slain by Zombie Villager
+[28Nov2024 07:53:39.631] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:54:12.144] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 07:54:12.145] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 07:54:25.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sex lost connection: Disconnected
+[28Nov2024 07:54:25.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex left the game
+[28Nov2024 07:54:25.125] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sex
+[28Nov2024 07:54:27.769] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jasontapia123 lost connection: Disconnected
+[28Nov2024 07:54:27.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 left the game
+[28Nov2024 07:54:27.769] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jasontapia123
+[28Nov2024 07:54:34.525] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jasontapia123[/127.161.113.53:46879] logged in with entity id 35767 at (582.8660304886043, 220.0, 86.30049063716139)
+[28Nov2024 07:54:34.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 joined the game
+[28Nov2024 07:54:35.565] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jasontapia123 (18)
+[28Nov2024 07:54:35.566] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jasontapia123
+[28Nov2024 07:54:41.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sex[/127.31.145.169:56133] logged in with entity id 36384 at (586.8102437014554, 220.0625, 90.00470127514589)
+[28Nov2024 07:54:41.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex joined the game
+[28Nov2024 07:54:42.861] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sex (18)
+[28Nov2024 07:54:42.862] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sex

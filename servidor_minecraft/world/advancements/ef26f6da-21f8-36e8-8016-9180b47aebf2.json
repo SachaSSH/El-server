@@ -2051,6 +2051,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2024-11-28 07:51:35 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2024-11-28 07:28:48 +0000"
