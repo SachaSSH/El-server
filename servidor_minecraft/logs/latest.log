@@ -2861,3 +2861,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [28Nov2024 07:32:30.064] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['sex'/22351, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=589.78, y=192.00, z=96.64] died: sex's Zombie was slain by sex using [Tank Operator's Dagger]
 [28Nov2024 07:32:36.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti was slain by elbasti's Zombie
 [28Nov2024 07:32:37.268] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:34:49.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex starved to death
+[28Nov2024 07:34:50.717] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:35:08.536] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['sex'/29055, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=587.70, y=220.00, z=88.30] died: sex's Zombie was slain by sex
+[28Nov2024 07:35:19.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti was slain by Zombie Horse
+[28Nov2024 07:35:23.903] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:37:28.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 was slain by sex
+[28Nov2024 07:37:29.613] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:37:35.219] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['jasontapia123'/30383, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=587.54, y=220.00, z=88.46] died: jasontapia123's Zombie was slain by jasontapia123
+[28Nov2024 07:39:09.621] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/30151, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=187.50, y=81.00, z=37.50] died: elbasti's Zombie was slain by elbasti
+[28Nov2024 07:42:35.180] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dinnerbone'/30153, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=272.30, y=66.05, z=37.30] died, message: 'Dinnerbone was slain by Zombie'
+[28Nov2024 07:43:14.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbasti lost connection: Disconnected
+[28Nov2024 07:43:14.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti left the game
+[28Nov2024 07:43:14.011] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elbasti
+[28Nov2024 07:43:26.615] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elbasti[/127.84.100.220:39851] logged in with entity id 31904 at (233.28899281684923, 83.0, 11.667792852148075)
+[28Nov2024 07:43:26.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti joined the game
+[28Nov2024 07:43:28.156] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elbasti (18)
+[28Nov2024 07:43:28.157] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elbasti
