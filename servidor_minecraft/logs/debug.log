@@ -13194,3 +13194,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [28Nov2024 07:13:46.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 was slain by sex's Zombie
 [28Nov2024 07:13:46.967] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [28Nov2024 07:13:48.436] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:14:13.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[28Nov2024 07:14:13.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[28Nov2024 07:14:53.170] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['sex'/2119, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=608.30, y=169.36, z=83.19] died: sex's Zombie was slain by sex
+[28Nov2024 07:16:03.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti was slain by elbasti's Zombie
+[28Nov2024 07:16:05.081] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:16:25.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['jasontapia123'/14212, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=717.32, y=81.00, z=-46.71] died: jasontapia123's Zombie was slain by sex
+[28Nov2024 07:16:33.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['sex'/14138, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=721.09, y=81.00, z=-56.58] died: sex's Zombie was slain by jasontapia123
+[28Nov2024 07:16:49.972] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[28Nov2024 07:16:58.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti was slain by elbasti's Zombie
+[28Nov2024 07:17:00.254] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:17:04.749] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/15301, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=496.53, y=150.00, z=91.70] died: elbasti's Zombie froze to death
+[28Nov2024 07:17:49.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti was slain by elbasti's Zombie
+[28Nov2024 07:17:50.750] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:18:27.927] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/2314, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=473.53, y=144.00, z=94.51] died: elbasti's Zombie was slain by elbasti using [Ryan's machete]
+[28Nov2024 07:18:38.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti was doomed to fall by elbasti's Zombie
+[28Nov2024 07:18:39.420] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:19:13.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[28Nov2024 07:19:13.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[28Nov2024 07:19:44.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti was slain by elbasti's Zombie
+[28Nov2024 07:19:46.225] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:20:37.616] [IO-Worker-30/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-42
+[28Nov2024 07:21:05.279] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/15905, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=507.30, y=166.00, z=94.41] died: elbasti's Zombie was slain by elbasti
+[28Nov2024 07:21:13.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/17568, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=508.28, y=166.17, z=94.47] died: elbasti's Zombie was slain by elbasti
+[28Nov2024 07:22:59.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti fell from a high place
+[28Nov2024 07:23:00.760] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:23:19.320] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[28Nov2024 07:23:19.321] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[28Nov2024 07:23:20.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/18611, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=508.86, y=165.00, z=94.49] died: elbasti's Zombie was slain by elbasti using [Ryan's machete]
+[28Nov2024 07:23:28.310] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/16741, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=508.79, y=165.00, z=94.47] died: elbasti's Zombie was slain by elbasti using [Ryan's machete]
+[28Nov2024 07:24:13.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[28Nov2024 07:24:13.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1

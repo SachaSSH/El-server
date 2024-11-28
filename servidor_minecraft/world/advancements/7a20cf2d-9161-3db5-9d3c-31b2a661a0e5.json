@@ -79,6 +79,7 @@
       "apple": "2024-11-28 02:16:08 +0000",
       "pumpkin_pie": "2024-11-28 04:46:32 +0000",
       "bread": "2024-11-28 02:08:10 +0000",
+      "golden_apple": "2024-11-28 07:12:41 +0000",
       "cookie": "2024-11-28 02:36:03 +0000",
       "rotten_flesh": "2024-11-28 02:37:29 +0000",
       "dried_kelp": "2024-11-28 02:36:49 +0000",
@@ -88,6 +89,7 @@
       "enchanted_golden_apple": "2024-11-28 03:17:54 +0000",
       "mushroom_stew": "2024-11-28 04:26:42 +0000",
       "rabbit_stew": "2024-11-28 02:40:25 +0000",
+      "cooked_salmon": "2024-11-28 07:20:54 +0000",
       "carrot": "2024-11-28 02:31:21 +0000"
     },
     "done": false
@@ -2490,6 +2492,12 @@
   "owza_advancements:not_very_amusing": {
     "criteria": {
       "enterPark": "2024-11-28 04:47:43 +0000"
+    },
+    "done": true
+  },
+  "owza_advancements:not_again": {
+    "criteria": {
+      "notAgain": "2024-11-28 07:13:45 +0000"
     },
     "done": true
   },
