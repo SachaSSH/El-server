@@ -12814,3 +12814,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [28Nov2024 22:33:03.730] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
 [28Nov2024 22:34:16.475] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
 [28Nov2024 22:34:16.476] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[28Nov2024 22:36:07.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[28Nov2024 22:36:07.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[28Nov2024 22:38:02.582] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[28Nov2024 22:38:02.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH was slain by Zombie
+[28Nov2024 22:38:04.116] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 22:38:35.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=80, z=259} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:38:35.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=80, z=259} BlockPos{x=107, y=81, z=249}
+[28Nov2024 22:39:32.852] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[28Nov2024 22:39:36.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH was slain by Zombie
+[28Nov2024 22:39:37.712] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 22:41:07.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[28Nov2024 22:41:07.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[28Nov2024 22:42:42.156] [Server thread/DEBUG] [mixin/]: Mixing ProjectileUtilMixin from immersive_aircraft.mixins.json into net.minecraft.world.entity.projectile.ProjectileUtil
+[28Nov2024 22:42:42.168] [Server thread/DEBUG] [mixin/]: Mixing compat117plus.ProjectileUtilMixin from pehkui.mixins.json into net.minecraft.world.entity.projectile.ProjectileUtil
+[28Nov2024 22:42:42.180] [Server thread/DEBUG] [mixin/]: Mixing compat1202minus.compat120plus.ProjectileUtilMixin from pehkui.mixins.json into net.minecraft.world.entity.projectile.ProjectileUtil
+[28Nov2024 22:43:41.971] [IO-Worker-46/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[28Nov2024 22:43:45.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH was slain by Zombie
+[28Nov2024 22:43:47.085] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 22:44:43.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH was slain by Zombie
+[28Nov2024 22:44:44.579] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 22:45:03.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SachaSSH lost connection: Disconnected
+[28Nov2024 22:45:03.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH left the game
+[28Nov2024 22:45:03.574] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of SachaSSH
+[28Nov2024 22:45:03.575] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SachaSSH
+[28Nov2024 22:45:03.576] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player abcfc2ca-6319-3740-8604-375605f82641 does not have a secret
