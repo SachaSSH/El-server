@@ -2796,3 +2796,67 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [28Nov2024 22:16:02.136] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 21650
 [28Nov2024 22:16:02.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] <Datapack> reloaded
 [28Nov2024 22:16:05.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2947ms or 58 ticks behind
+[28Nov2024 22:25:14.989] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[28Nov2024 22:25:15.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SachaSSH[/127.26.209.72:44273] logged in with entity id 1581 at (586.3498644578967, 220.5625, 92.6720178496465)
+[28Nov2024 22:25:15.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH joined the game
+[28Nov2024 22:25:17.044] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SachaSSH (18)
+[28Nov2024 22:25:17.046] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SachaSSH
+[28Nov2024 22:25:17.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[28Nov2024 22:25:25.774] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player abcfc2ca-6319-3740-8604-375605f82641
+[28Nov2024 22:25:26.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player abcfc2ca-6319-3740-8604-375605f82641
+[28Nov2024 22:25:26.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player SachaSSH (abcfc2ca-6319-3740-8604-375605f82641) successfully connected to voice chat
+[28Nov2024 22:29:32.867] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['sex'/1645, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=580.95, y=220.00, z=95.47] died: sex's Zombie was slain by SachaSSH using [Kitchen Knife]
+[28Nov2024 22:30:14.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH was slain by jasontapia123's Zombie
+[28Nov2024 22:30:15.610] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 22:30:25.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=112, y=86, z=240}
+[28Nov2024 22:30:26.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=112, y=86, z=240}
+[28Nov2024 22:30:26.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=112, y=87, z=241}
+[28Nov2024 22:30:26.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=112, y=87, z=243}
+[28Nov2024 22:30:26.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=112, y=87, z=245}
+[28Nov2024 22:31:02.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=110, y=81, z=249}
+[28Nov2024 22:31:07.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SachaSSH lost connection: Disconnected
+[28Nov2024 22:31:07.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH left the game
+[28Nov2024 22:31:07.405] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SachaSSH
+[28Nov2024 22:31:40.897] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@57836ffd[id=<null>,name=SachaSSH,properties={},legacy=false] (/127.191.61.46:41173) lost connection: Disconnected
+[28Nov2024 22:31:49.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SachaSSH[/127.27.61.255:60047] logged in with entity id 3415 at (112.25634961641403, 82.5, 248.36741565077745)
+[28Nov2024 22:31:49.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH joined the game
+[28Nov2024 22:31:50.570] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SachaSSH (18)
+[28Nov2024 22:31:50.572] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SachaSSH
+[28Nov2024 22:32:02.590] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player abcfc2ca-6319-3740-8604-375605f82641
+[28Nov2024 22:32:02.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=111, y=84, z=249}
+[28Nov2024 22:32:03.591] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player abcfc2ca-6319-3740-8604-375605f82641
+[28Nov2024 22:32:03.591] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player SachaSSH (abcfc2ca-6319-3740-8604-375605f82641) successfully connected to voice chat
+[28Nov2024 22:32:06.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=112, y=81, z=247}
+[28Nov2024 22:32:11.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:11.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:12.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:12.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:12.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:13.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:13.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:13.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:14.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:14.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:14.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:14.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:15.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:15.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:15.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:16.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:17.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=110, y=81, z=249}
+[28Nov2024 22:32:17.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=111, y=81, z=249}
+[28Nov2024 22:32:20.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=113, y=82, z=253}
+[28Nov2024 22:32:21.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=113, y=82, z=253}
+[28Nov2024 22:32:21.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=113, y=82, z=252}
+[28Nov2024 22:32:22.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=112, y=82, z=253}
+[28Nov2024 22:32:22.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=112, y=82, z=252}
+[28Nov2024 22:32:23.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=114, y=82, z=253}
+[28Nov2024 22:32:23.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=114, y=82, z=252}
+[28Nov2024 22:32:24.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=108, y=81, z=247}
+[28Nov2024 22:32:24.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=108, y=81, z=247}
+[28Nov2024 22:32:25.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:25.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=109, y=81, z=249}
+[28Nov2024 22:32:26.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=108, y=81, z=247}
+[28Nov2024 22:32:30.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=108, y=81, z=249}
+[28Nov2024 22:32:46.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH was slain by Zombie
+[28Nov2024 22:32:47.724] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
