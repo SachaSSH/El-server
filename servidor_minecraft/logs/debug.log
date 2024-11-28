@@ -14028,3 +14028,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [28Nov2024 07:54:42.861] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with sex
 [28Nov2024 07:54:42.861] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 2 volume categories with sex
 [28Nov2024 07:54:42.862] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sex
+[28Nov2024 07:55:08.907] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 07:55:08.908] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 07:55:52.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 was slain by sex's Zombie
+[28Nov2024 07:55:54.126] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:55:58.908] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 07:55:58.908] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 07:56:31.948] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['jasontapia123'/35800, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=581.22, y=183.00, z=71.87] died: jasontapia123's Zombie froze to death
+[28Nov2024 07:56:31.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['sex'/35802, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=580.48, y=183.00, z=72.22] died: sex's Zombie froze to death
+[28Nov2024 07:56:39.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 was slain by Zombie
+[28Nov2024 07:56:40.777] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:58:19.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/38304, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=331.06, y=81.00, z=11.76] died: elbasti's Zombie was slain by elbasti
+[28Nov2024 07:59:08.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 fell from a high place
+[28Nov2024 07:59:11.372] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:59:19.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[28Nov2024 07:59:19.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[28Nov2024 07:59:21.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex fell from a high place
+[28Nov2024 07:59:23.248] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 07:59:43.038] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-58
+[28Nov2024 08:00:42.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 was slain by Zombie
+[28Nov2024 08:00:43.528] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 08:00:48.155] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-59
+[28Nov2024 08:01:24.672] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/35863, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=504.97, y=160.00, z=99.47] died: elbasti's Zombie was slain by elbasti
+[28Nov2024 08:02:00.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex was slain by Zombie
+[28Nov2024 08:02:01.621] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Nov2024 08:02:47.759] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@2ceb9400]Trying to start horde event on day 10 with nextDay 10 and time 10000
+[28Nov2024 08:02:47.759] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@345bccfd
+[28Nov2024 08:02:47.760] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[28Nov2024 08:02:47.760] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[28Nov2024 08:02:47.808] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 08:02:47.808] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 08:03:19.915] [IO-Worker-52/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-60
+[28Nov2024 08:03:37.808] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 08:03:37.809] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 08:04:19.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[28Nov2024 08:04:19.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[28Nov2024 08:04:27.811] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 08:04:27.812] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[28Nov2024 08:04:29.959] [IO-Worker-59/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-61

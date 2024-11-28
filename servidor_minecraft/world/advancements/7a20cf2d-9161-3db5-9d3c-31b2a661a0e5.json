@@ -71,6 +71,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-11-28 02:42:33 +0000",
+      "sweet_berries": "2024-11-28 07:58:01 +0000",
       "chorus_fruit": "2024-11-28 04:23:04 +0000",
       "cooked_beef": "2024-11-28 03:45:23 +0000",
       "porkchop": "2024-11-28 04:46:38 +0000",
@@ -2495,15 +2496,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2024-11-28 07:38:38 +0000"
-    },
-    "done": true
-  },
   "owza_advancements:not_again": {
     "criteria": {
       "notAgain": "2024-11-28 07:13:45 +0000"
+    },
+    "done": true
+  },
+  "owza_advancements:getting_started": {
+    "criteria": {
+      "gettingStarted": "2024-11-28 07:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-11-28 07:29:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-11-28 07:33:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-11-28 07:38:38 +0000"
     },
     "done": true
   },
@@ -2531,33 +2550,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2024-11-28 07:40:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_boots": "2024-11-28 07:29:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2024-11-28 07:38:38 +0000"
-    },
-    "done": true
-  },
-  "table_top_craft:root": {
-    "criteria": {
-      "get_chess_piece": "2024-11-28 07:41:21 +0000"
-    },
-    "done": true
-  },
-  "sereneseasons:recipes/tools/calendar": {
-    "criteria": {
-      "has_clock": "2024-11-28 07:49:16 +0000"
     },
     "done": true
   },
@@ -2573,18 +2568,6 @@
     },
     "done": true
   },
-  "owza_advancements:getting_started": {
-    "criteria": {
-      "gettingStarted": "2024-11-28 07:29:28 +0000"
-    },
-    "done": true
-  },
-  "table_top_craft:the_hoarding_begins": {
-    "criteria": {
-      "ChessPieceFigure": "2024-11-28 07:41:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2024-11-28 07:38:38 +0000"
@@ -2597,11 +2580,35 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
-      "has_iron_backpack": "2024-11-28 07:33:23 +0000"
+      "has_copper_backpack": "2024-11-28 07:40:14 +0000"
     },
     "done": true
+  },
+  "table_top_craft:root": {
+    "criteria": {
+      "get_chess_piece": "2024-11-28 07:41:21 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:the_hoarding_begins": {
+    "criteria": {
+      "ChessPieceFigure": "2024-11-28 07:41:21 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2024-11-28 07:49:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2024-11-28 07:58:12 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
