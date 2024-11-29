@@ -1,0 +1,57 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2024-11-29 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-29 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-11-29 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "owza_advancements:cheater": {
+    "criteria": {
+      "cheater": "2024-11-29 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "overworld_netherite_ore:overworld_netherite": {
+    "criteria": {
+      "overworld_netherite_0": "2024-11-29 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-29 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "owza_advancements:root": {
+    "criteria": {
+      "startMap": "2024-11-29 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2024-11-29 02:25:38 +0000"
+    },
+    "done": false
+  },
+  "owza_advancements:milestones": {
+    "criteria": {
+      "automatic": "2024-11-29 02:25:37 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

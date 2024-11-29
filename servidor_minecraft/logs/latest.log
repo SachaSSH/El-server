@@ -2831,3 +2831,67 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [29Nov2024 02:18:10.761] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [29Nov2024 02:18:18.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex was slain by jasontapia123's Zombie
 [29Nov2024 02:18:19.814] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Nov2024 02:19:00.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 was slain by Zombie
+[29Nov2024 02:19:02.106] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Nov2024 02:19:17.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex was slain by sex's Zombie using [Ryan's machete]
+[29Nov2024 02:19:19.007] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Nov2024 02:19:26.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 was slain by jasontapia123's Zombie
+[29Nov2024 02:19:27.702] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Nov2024 02:19:38.555] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['jasontapia123'/3714, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=592.65, y=190.00, z=87.42] died: jasontapia123's Zombie was slain by sex
+[29Nov2024 02:20:54.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['sex'/3510, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=591.07, y=192.00, z=98.58] died: sex's Zombie was slain by sex
+[29Nov2024 02:20:57.524] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['jasontapia123'/3740, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=589.30, y=191.00, z=85.28] died: jasontapia123's Zombie was slain by jasontapia123
+[29Nov2024 02:21:01.207] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['sex'/3730, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=591.06, y=192.00, z=98.45] died: sex's Zombie was slain by sex
+[29Nov2024 02:21:46.814] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@4d9bc426]Trying to start horde event on day 10 with nextDay 10 and time 10000
+[29Nov2024 02:21:46.818] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@27218bd1
+[29Nov2024 02:21:46.821] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[29Nov2024 02:21:46.821] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[29Nov2024 02:21:46.854] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[29Nov2024 02:21:46.854] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[29Nov2024 02:22:15.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['jasontapia123'/3459, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=570.70, y=187.00, z=94.76] died: jasontapia123's Zombie was slain by jasontapia123
+[29Nov2024 02:22:36.856] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[29Nov2024 02:22:36.857] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[29Nov2024 02:22:44.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=589, y=193, z=87} BlockPos{x=589, y=192, z=87}
+[29Nov2024 02:22:56.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dystemic[/127.249.29.94:52345] logged in with entity id 4265 at (117.5, 86.0, 237.5)
+[29Nov2024 02:22:56.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dystemic joined the game
+[29Nov2024 02:22:58.563] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dystemic (18)
+[29Nov2024 02:22:58.563] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dystemic
+[29Nov2024 02:23:09.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3193e8e6-f3eb-38f7-a551-d9f79c9815d0
+[29Nov2024 02:23:10.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3193e8e6-f3eb-38f7-a551-d9f79c9815d0
+[29Nov2024 02:23:10.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dystemic (3193e8e6-f3eb-38f7-a551-d9f79c9815d0) successfully connected to voice chat
+[29Nov2024 02:23:26.871] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[29Nov2024 02:23:26.872] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[29Nov2024 02:23:42.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=119, y=82, z=229}
+[29Nov2024 02:24:16.857] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[29Nov2024 02:24:16.858] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[29Nov2024 02:25:06.861] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[29Nov2024 02:25:06.861] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[29Nov2024 02:25:18.913] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d4c7522[id=<null>,name=kittxcro,properties={},legacy=false] (/127.110.248.71:57189) lost connection: Disconnected
+[29Nov2024 02:25:36.863] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kittxcro[/127.110.248.71:34829] logged in with entity id 5144 at (117.5, 86.0, 237.5)
+[29Nov2024 02:25:36.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kittxcro joined the game
+[29Nov2024 02:25:40.123] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kittxcro (18)
+[29Nov2024 02:25:40.125] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kittxcro
+[29Nov2024 02:25:56.870] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[29Nov2024 02:25:56.871] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[29Nov2024 02:26:05.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 62d3b55b-5cee-3113-98f8-0b49810dc0bb
+[29Nov2024 02:26:06.677] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 62d3b55b-5cee-3113-98f8-0b49810dc0bb
+[29Nov2024 02:26:06.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kittxcro (62d3b55b-5cee-3113-98f8-0b49810dc0bb) successfully connected to voice chat
+[29Nov2024 02:28:00.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dystemic lost connection: Disconnected
+[29Nov2024 02:28:00.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dystemic left the game
+[29Nov2024 02:28:00.469] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dystemic
+[29Nov2024 02:28:08.367] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[29Nov2024 02:28:08.368] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[29Nov2024 02:28:08.368] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[29Nov2024 02:28:08.368] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[29Nov2024 02:28:08.368] [ForkJoinPool.commonPool-worker-3/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[29Nov2024 02:28:08.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jasontapia123> azzzzzzz
+[29Nov2024 02:28:18.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kittxcro lost connection: Disconnected
+[29Nov2024 02:28:18.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kittxcro left the game
+[29Nov2024 02:28:18.158] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client kittxcro
+[29Nov2024 02:28:33.517] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dystemic[/127.249.29.94:52163] logged in with entity id 6141 at (107.44285571728012, 88.0, 177.30000001192093)
+[29Nov2024 02:28:33.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dystemic joined the game
+[29Nov2024 02:28:34.861] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dystemic (18)
+[29Nov2024 02:28:34.862] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dystemic
+[29Nov2024 02:28:45.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3193e8e6-f3eb-38f7-a551-d9f79c9815d0
+[29Nov2024 02:28:46.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3193e8e6-f3eb-38f7-a551-d9f79c9815d0
+[29Nov2024 02:28:46.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dystemic (3193e8e6-f3eb-38f7-a551-d9f79c9815d0) successfully connected to voice chat
+[29Nov2024 02:28:54.556] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41893101[id=<null>,name=kittxcro,properties={},legacy=false] (/127.110.248.71:54237) lost connection: Disconnected
