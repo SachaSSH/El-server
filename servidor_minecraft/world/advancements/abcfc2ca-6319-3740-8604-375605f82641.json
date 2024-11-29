@@ -1177,6 +1177,12 @@
     },
     "done": true
   },
+  "owza_advancements:not_again": {
+    "criteria": {
+      "notAgain": "2024-11-29 03:51:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2024-11-29 03:36:13 +0000"
