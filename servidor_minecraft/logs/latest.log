@@ -2979,3 +2979,75 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [29Nov2024 02:52:27.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jasontapia123> zzzzzzzzz
 [29Nov2024 02:58:09.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
 [29Nov2024 02:58:49.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Nov2024 02:59:51.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2161ms or 43 ticks behind
+[29Nov2024 03:00:04.227] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SachaSSH[/127.191.61.46:47175] logged in with entity id 17981 at (118.56087021634235, 84.0, 259.30000001192093)
+[29Nov2024 03:00:04.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH joined the game
+[29Nov2024 03:00:06.004] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SachaSSH (18)
+[29Nov2024 03:00:06.005] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SachaSSH
+[29Nov2024 03:00:19.183] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player abcfc2ca-6319-3740-8604-375605f82641
+[29Nov2024 03:00:20.184] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player abcfc2ca-6319-3740-8604-375605f82641
+[29Nov2024 03:00:20.187] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player SachaSSH (abcfc2ca-6319-3740-8604-375605f82641) successfully connected to voice chat
+[29Nov2024 03:00:34.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[29Nov2024 03:00:56.733] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Nov2024 03:01:13.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2268ms or 45 ticks behind
+[29Nov2024 03:01:30.001] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 3193e8e6-f3eb-38f7-a551-d9f79c9815d0 timed out
+[29Nov2024 03:01:30.002] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dystemic
+[29Nov2024 03:01:30.003] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dystemic
+[29Nov2024 03:01:30.732] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3193e8e6-f3eb-38f7-a551-d9f79c9815d0
+[29Nov2024 03:01:31.731] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3193e8e6-f3eb-38f7-a551-d9f79c9815d0
+[29Nov2024 03:01:31.732] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dystemic (3193e8e6-f3eb-38f7-a551-d9f79c9815d0) successfully connected to voice chat
+[29Nov2024 03:01:37.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 7a20cf2d-9161-3db5-9d3c-31b2a661a0e5 timed out
+[29Nov2024 03:01:37.042] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player sex
+[29Nov2024 03:01:37.042] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to sex
+[29Nov2024 03:01:40.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbasti lost connection: Disconnected
+[29Nov2024 03:01:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti left the game
+[29Nov2024 03:01:40.361] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elbasti
+[29Nov2024 03:01:40.428] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Nov2024 03:01:43.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sex moved too quickly! -5.569680715016716,-1.0,8.34205156321272
+[29Nov2024 03:01:43.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[29Nov2024 03:01:44.470] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7a20cf2d-9161-3db5-9d3c-31b2a661a0e5
+[29Nov2024 03:01:45.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7a20cf2d-9161-3db5-9d3c-31b2a661a0e5
+[29Nov2024 03:01:45.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player sex (7a20cf2d-9161-3db5-9d3c-31b2a661a0e5) successfully connected to voice chat
+[29Nov2024 03:01:53.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dystemic lost connection: Disconnected
+[29Nov2024 03:01:53.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dystemic left the game
+[29Nov2024 03:01:53.894] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dystemic
+[29Nov2024 03:02:04.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dystemic[/127.249.29.94:53307] logged in with entity id 18942 at (316.19159366564014, 83.0625, -232.69999998807907)
+[29Nov2024 03:02:04.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dystemic joined the game
+[29Nov2024 03:02:05.874] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dystemic (18)
+[29Nov2024 03:02:05.875] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dystemic
+[29Nov2024 03:02:11.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elbasti[/127.84.100.220:36845] logged in with entity id 19422 at (802.5028622399308, 13.0, -209.85805610353052)
+[29Nov2024 03:02:11.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti joined the game
+[29Nov2024 03:02:13.075] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elbasti (18)
+[29Nov2024 03:02:13.077] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elbasti
+[29Nov2024 03:02:16.518] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3193e8e6-f3eb-38f7-a551-d9f79c9815d0
+[29Nov2024 03:02:17.518] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3193e8e6-f3eb-38f7-a551-d9f79c9815d0
+[29Nov2024 03:02:17.518] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dystemic (3193e8e6-f3eb-38f7-a551-d9f79c9815d0) successfully connected to voice chat
+[29Nov2024 03:02:30.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5736effc-b92a-3635-84b5-90c68fe0cbcc
+[29Nov2024 03:02:31.133] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5736effc-b92a-3635-84b5-90c68fe0cbcc
+[29Nov2024 03:02:31.134] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elbasti (5736effc-b92a-3635-84b5-90c68fe0cbcc) successfully connected to voice chat
+[29Nov2024 03:02:42.983] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[29Nov2024 03:03:00.815] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2836ms or 56 ticks behind
+[29Nov2024 03:03:18.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3019ms or 60 ticks behind
+[29Nov2024 03:03:35.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[29Nov2024 03:03:53.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3161ms or 63 ticks behind
+[29Nov2024 03:04:12.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Nov2024 03:04:29.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[29Nov2024 03:08:50.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dystemic was slain by Zombie
+[29Nov2024 03:08:51.974] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Nov2024 03:08:55.222] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['Dystemic'/21460, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=581.38, y=191.00, z=98.51] died: Dystemic's Zombie was slain by jasontapia123
+[29Nov2024 03:14:08.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[29Nov2024 03:15:36.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbasti moved too quickly! 14.625568876722582,6.705571650628372,-8.501429685254166
+[29Nov2024 03:15:36.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[29Nov2024 03:15:57.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Nov2024 03:16:15.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2763ms or 55 ticks behind
+[29Nov2024 03:16:33.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3250ms or 65 ticks behind
+[29Nov2024 03:16:52.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3673ms or 73 ticks behind
+[29Nov2024 03:17:11.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4316ms or 86 ticks behind
+[29Nov2024 03:17:30.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3792ms or 75 ticks behind
+[29Nov2024 03:17:49.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3927ms or 78 ticks behind
+[29Nov2024 03:18:07.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3418ms or 68 ticks behind
+[29Nov2024 03:18:25.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2516ms or 50 ticks behind
+[29Nov2024 03:18:42.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2573ms or 51 ticks behind
+[29Nov2024 03:19:00.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2913ms or 58 ticks behind
+[29Nov2024 03:19:19.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3810ms or 76 ticks behind
+[29Nov2024 03:19:38.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4446ms or 88 ticks behind
