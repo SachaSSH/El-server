@@ -82,6 +82,7 @@
       "sweet_berries": "2024-11-28 07:25:10 +0000",
       "cooked_beef": "2024-11-28 04:33:06 +0000",
       "apple": "2024-11-28 04:09:54 +0000",
+      "cooked_cod": "2024-11-29 04:04:36 +0000",
       "bread": "2024-11-28 02:45:58 +0000",
       "cookie": "2024-11-28 03:34:45 +0000",
       "rotten_flesh": "2024-11-28 04:17:42 +0000"
@@ -3233,6 +3234,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-11-29 04:00:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "carrot": "2024-11-29 03:59:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2024-11-29 03:18:31 +0000"
@@ -3242,6 +3255,12 @@
   "owza_advancements:dont_miss_your_flight": {
     "criteria": {
       "enterTerminal": "2024-11-29 03:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-11-29 04:00:45 +0000"
     },
     "done": true
   },
