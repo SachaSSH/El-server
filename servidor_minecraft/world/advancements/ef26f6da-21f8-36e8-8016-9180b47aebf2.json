@@ -2414,6 +2414,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-29 04:13:15 +0000"
@@ -2426,6 +2432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-11-29 04:22:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-11-29 04:16:21 +0000"
@@ -2435,6 +2447,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-11-29 04:09:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
     },
     "done": true
   },
@@ -2465,6 +2483,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-11-29 02:21:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
     },
     "done": true
   },
@@ -2516,6 +2540,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 04:11:20 +0000"
@@ -2537,6 +2567,18 @@
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-11-29 04:11:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
     },
     "done": true
   },
@@ -2567,6 +2609,12 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2024-11-29 04:11:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
     },
     "done": true
   },
@@ -2654,6 +2702,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 04:11:20 +0000"
@@ -2705,6 +2759,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 04:11:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
     },
     "done": true
   },
@@ -2810,6 +2870,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2024-11-29 03:55:26 +0000"
@@ -2819,6 +2885,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 04:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-11-29 04:22:20 +0000"
     },
     "done": true
   },
@@ -2849,6 +2921,12 @@
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2024-11-29 04:11:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
     },
     "done": true
   },
@@ -2954,6 +3032,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/jungle_cabinet": {
     "criteria": {
       "has_jungle_trapdoor": "2024-11-29 02:38:18 +0000"
@@ -2987,6 +3071,18 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_nugget": "2024-11-29 03:30:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
     },
     "done": true
   },
@@ -3035,6 +3131,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-29 04:13:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
     },
     "done": true
   },
@@ -3098,6 +3200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-11-29 04:22:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2024-11-29 04:11:20 +0000"
@@ -3113,6 +3221,18 @@
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2024-11-29 04:11:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
     },
     "done": true
   },
@@ -3170,6 +3290,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/industrial_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2024-11-29 04:11:20 +0000"
@@ -3179,6 +3305,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-11-29 04:11:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2024-11-29 04:22:08 +0000"
     },
     "done": true
   },

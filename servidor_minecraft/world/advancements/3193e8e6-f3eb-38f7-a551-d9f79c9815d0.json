@@ -50,6 +50,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2024-11-29 02:22:57 +0000",
+      "minecraft:birch_forest": "2024-11-29 04:21:33 +0000",
       "minecraft:badlands": "2024-11-29 02:54:56 +0000",
       "minecraft:dark_forest": "2024-11-29 02:40:22 +0000",
       "minecraft:river": "2024-11-29 02:35:58 +0000",
@@ -120,6 +121,7 @@
       "pumpkin_pie": "2024-11-29 03:42:13 +0000",
       "bread": "2024-11-29 02:29:27 +0000",
       "rotten_flesh": "2024-11-29 02:36:47 +0000",
+      "cookie": "2024-11-29 04:20:10 +0000",
       "dried_kelp": "2024-11-29 03:00:12 +0000",
       "cooked_rabbit": "2024-11-29 03:24:07 +0000",
       "cooked_chicken": "2024-11-29 02:49:54 +0000",
@@ -1142,6 +1144,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2024-11-29 03:23:47 +0000"
@@ -1184,6 +1192,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2024-11-29 03:19:49 +0000"
@@ -1208,6 +1222,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-11-29 04:21:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-11-29 03:58:20 +0000"
@@ -1217,6 +1237,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2024-11-29 03:19:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
     },
     "done": true
   },
@@ -1232,6 +1258,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-11-29 03:27:45 +0000"
@@ -1244,9 +1282,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-11-29 04:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-11-29 04:21:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-11-29 03:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-11-29 04:20:52 +0000"
     },
     "done": true
   },
@@ -1274,6 +1330,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2024-11-29 03:59:27 +0000"
@@ -1283,6 +1345,12 @@
   "owza_advancements:dont_miss_your_flight": {
     "criteria": {
       "enterTerminal": "2024-11-29 03:26:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
     },
     "done": true
   },
@@ -1310,9 +1378,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2024-11-29 03:20:25 +0000"
+    },
+    "done": true
+  },
+  "owza_advancements:the_fallen_fob": {
+    "criteria": {
+      "enterFOB": "2024-11-29 04:22:08 +0000"
     },
     "done": true
   },
@@ -1361,6 +1441,18 @@
   "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-11-29 03:27:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
     },
     "done": true
   },
@@ -1418,9 +1510,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-11-29 04:21:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-11-29 03:27:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
     },
     "done": true
   },
@@ -1433,6 +1537,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2024-11-29 03:35:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
     },
     "done": true
   },
@@ -1526,6 +1636,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-11-29 04:21:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2024-11-29 03:19:23 +0000"
@@ -1544,6 +1660,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-11-29 03:27:45 +0000"
@@ -1559,6 +1681,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2024-11-29 03:50:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
     },
     "done": true
   },
@@ -1622,6 +1750,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-11-29 04:21:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-11-29 03:58:20 +0000"
@@ -1652,6 +1792,18 @@
     },
     "done": true
   },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2024-11-29 04:20:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_pillar": "2024-11-29 03:32:30 +0000"
@@ -1667,6 +1819,12 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2024-11-29 03:34:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
     },
     "done": true
   },
@@ -1718,6 +1876,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-11-29 03:34:23 +0000"
@@ -1745,6 +1909,12 @@
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2024-11-29 03:34:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
     },
     "done": true
   },
@@ -1826,6 +1996,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-11-29 04:20:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2024-11-29 03:20:25 +0000"
@@ -1844,6 +2026,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-11-29 03:27:45 +0000"
@@ -1859,6 +2047,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-11-29 03:35:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2024-11-29 04:20:55 +0000"
     },
     "done": true
   },
