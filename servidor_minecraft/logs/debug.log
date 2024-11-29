@@ -17059,3 +17059,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [29Nov2024 04:51:11.002] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of elbasti
 [29Nov2024 04:51:11.002] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elbasti
 [29Nov2024 04:51:11.026] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5736effc-b92a-3635-84b5-90c68fe0cbcc does not have a secret
+[29Nov2024 04:52:45.322] [IO-Worker-135/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-137
+[29Nov2024 04:54:27.684] [IO-Worker-128/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-138
+[29Nov2024 04:55:13.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[29Nov2024 04:55:13.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[29Nov2024 04:56:45.764] [IO-Worker-137/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-139
+[29Nov2024 04:59:48.372] [IO-Worker-139/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-140
+[29Nov2024 05:00:13.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[29Nov2024 05:00:13.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
