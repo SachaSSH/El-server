@@ -3206,3 +3206,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [29Nov2024 04:37:29.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SachaSSH lost connection: Disconnected
 [29Nov2024 04:37:29.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH left the game
 [29Nov2024 04:37:29.164] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SachaSSH
+[29Nov2024 04:43:13.484] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[29Nov2024 04:43:44.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jasontapia123 lost connection: Disconnected
+[29Nov2024 04:43:44.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 left the game
+[29Nov2024 04:43:44.357] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client jasontapia123
+[29Nov2024 04:44:05.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jasontapia123[/127.161.113.53:55631] logged in with entity id 77800 at (394.30000001192093, -55.87839995384216, 92.42961360066774)
+[29Nov2024 04:44:05.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 joined the game
+[29Nov2024 04:44:06.419] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jasontapia123 (18)
+[29Nov2024 04:44:06.420] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jasontapia123
+[29Nov2024 04:44:15.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ef26f6da-21f8-36e8-8016-9180b47aebf2
+[29Nov2024 04:44:16.040] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ef26f6da-21f8-36e8-8016-9180b47aebf2
+[29Nov2024 04:44:16.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player jasontapia123 (ef26f6da-21f8-36e8-8016-9180b47aebf2) successfully connected to voice chat
+[29Nov2024 04:45:23.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti starved to death
+[29Nov2024 04:45:24.970] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Nov2024 04:45:33.618] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/78272, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=587.59, y=220.00, z=88.41] died: elbasti's Zombie was slain by elbasti
+[29Nov2024 04:51:11.001] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbasti lost connection: Disconnected
+[29Nov2024 04:51:11.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti left the game
+[29Nov2024 04:51:11.002] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elbasti
