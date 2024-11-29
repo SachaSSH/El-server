@@ -2815,3 +2815,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [29Nov2024 02:07:19.651] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5736effc-b92a-3635-84b5-90c68fe0cbcc
 [29Nov2024 02:07:20.661] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5736effc-b92a-3635-84b5-90c68fe0cbcc
 [29Nov2024 02:07:20.662] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elbasti (5736effc-b92a-3635-84b5-90c68fe0cbcc) successfully connected to voice chat
+[29Nov2024 02:09:40.254] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b5ea96b[id=<null>,name=jasontapia123,properties={},legacy=false] (/127.161.113.53:41491) lost connection: Disconnected
+[29Nov2024 02:09:45.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jasontapia123[/127.161.113.53:58553] logged in with entity id 2447 at (585.3574053484829, 220.5625, 91.16031906347601)
+[29Nov2024 02:09:45.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 joined the game
+[29Nov2024 02:09:46.501] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of jasontapia123 (18)
+[29Nov2024 02:09:46.502] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to jasontapia123
+[29Nov2024 02:09:54.338] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ef26f6da-21f8-36e8-8016-9180b47aebf2
+[29Nov2024 02:09:55.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ef26f6da-21f8-36e8-8016-9180b47aebf2
+[29Nov2024 02:09:55.344] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player jasontapia123 (ef26f6da-21f8-36e8-8016-9180b47aebf2) successfully connected to voice chat
+[29Nov2024 02:15:37.666] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['jasontapia123'/1658, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=559.61, y=178.00, z=85.56] died: jasontapia123's Zombie was slain by sex
+[29Nov2024 02:15:43.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['jasontapia123'/1619, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=553.61, y=177.00, z=85.61] died: jasontapia123's Zombie was slain by sex
+[29Nov2024 02:16:15.019] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SachaSSH'/1618, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=541.08, y=178.94, z=85.47] died: SachaSSH's Zombie was slain by jasontapia123
+[29Nov2024 02:16:19.013] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['sex'/1657, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=548.06, y=178.00, z=87.98] died: sex's Zombie was slain by sex
+[29Nov2024 02:18:09.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 was slain by Zombie
+[29Nov2024 02:18:10.761] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Nov2024 02:18:18.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex was slain by jasontapia123's Zombie
+[29Nov2024 02:18:19.814] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

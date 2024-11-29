@@ -2381,6 +2381,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-11-28 07:58:27 +0000"
+    },
+    "done": true
+  },
   "table_top_craft:root": {
     "criteria": {
       "get_chess_piece": "2024-11-28 08:10:25 +0000"
@@ -2390,12 +2396,6 @@
   "table_top_craft:the_hoarding_begins": {
     "criteria": {
       "ChessPieceFigure": "2024-11-28 08:10:25 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
-    "criteria": {
-      "has_bow": "2024-11-28 07:58:27 +0000"
     },
     "done": true
   },
