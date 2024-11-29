@@ -56,6 +56,7 @@
       "minecraft:swamp": "2024-11-28 20:46:21 +0000",
       "minecraft:forest": "2024-11-28 20:50:26 +0000",
       "minecraft:jungle": "2024-11-29 03:22:07 +0000",
+      "minecraft:ocean": "2024-11-29 03:28:21 +0000",
       "minecraft:plains": "2024-11-28 20:49:33 +0000"
     },
     "done": false
@@ -1239,6 +1240,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-11-29 03:16:09 +0000"
+    },
+    "done": true
+  },
+  "owza_advancements:not_very_amusing": {
+    "criteria": {
+      "enterPark": "2024-11-29 03:29:47 +0000"
     },
     "done": true
   },
