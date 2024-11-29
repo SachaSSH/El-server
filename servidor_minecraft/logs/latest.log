@@ -3200,3 +3200,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [29Nov2024 04:24:24.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dystemic lost connection: Disconnected
 [29Nov2024 04:24:24.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dystemic left the game
 [29Nov2024 04:24:24.158] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dystemic
+[29Nov2024 04:34:18.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH tried to swim in lava
+[29Nov2024 04:34:19.413] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Nov2024 04:34:21.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SachaSSH'/73973, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=390.30, y=30.00, z=15.51] died: SachaSSH's Zombie tried to swim in lava
+[29Nov2024 04:37:29.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SachaSSH lost connection: Disconnected
+[29Nov2024 04:37:29.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH left the game
+[29Nov2024 04:37:29.164] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SachaSSH

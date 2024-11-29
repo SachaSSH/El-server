@@ -16762,3 +16762,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [29Nov2024 04:30:13.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
 [29Nov2024 04:30:13.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
 [29Nov2024 04:30:41.960] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-130
+[29Nov2024 04:34:18.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH tried to swim in lava
+[29Nov2024 04:34:19.413] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Nov2024 04:34:21.757] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SachaSSH'/73973, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=390.30, y=30.00, z=15.51] died: SachaSSH's Zombie tried to swim in lava
+[29Nov2024 04:35:13.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[29Nov2024 04:35:13.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[29Nov2024 04:35:44.722] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-131
+[29Nov2024 04:37:29.163] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SachaSSH lost connection: Disconnected
+[29Nov2024 04:37:29.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH left the game
+[29Nov2024 04:37:29.164] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of SachaSSH
+[29Nov2024 04:37:29.164] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SachaSSH
+[29Nov2024 04:38:42.069] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-132
+[29Nov2024 04:40:13.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[29Nov2024 04:40:13.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
