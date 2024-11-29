@@ -16193,3 +16193,365 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [29Nov2024 03:19:00.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2913ms or 58 ticks behind
 [29Nov2024 03:19:19.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3810ms or 76 ticks behind
 [29Nov2024 03:19:38.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4446ms or 88 ticks behind
+[29Nov2024 03:19:57.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3548ms or 70 ticks behind
+[29Nov2024 03:20:17.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5495ms or 109 ticks behind
+[29Nov2024 03:20:35.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2909ms or 58 ticks behind
+[29Nov2024 03:20:53.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3036ms or 60 ticks behind
+[29Nov2024 03:21:11.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3282ms or 65 ticks behind
+[29Nov2024 03:21:24.447] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-73
+[29Nov2024 03:21:24.505] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-74
+[29Nov2024 03:21:24.844] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-75
+[29Nov2024 03:21:24.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[29Nov2024 03:21:24.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[29Nov2024 03:21:25.353] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-76
+[29Nov2024 03:21:25.354] [IO-Worker-70/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-77
+[29Nov2024 03:21:31.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4918ms or 98 ticks behind
+[29Nov2024 03:21:50.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4066ms or 81 ticks behind
+[29Nov2024 03:21:57.200] [Server thread/DEBUG] [pointblank/]: 17199 handling client fire request
+[29Nov2024 03:21:57.200] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 6
+[29Nov2024 03:21:57.200] [Server thread/DEBUG] [pointblank/]: 17200 - obtained hit result in 0ms
+[29Nov2024 03:21:57.200] [Server thread/DEBUG] [pointblank/]: 17200 obtained hit results
+[29Nov2024 03:21:57.200] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@17359ede
+[29Nov2024 03:21:57.201] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1109.23, y=95.00, z=-121.36] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1118.04, y=96.25, z=-112.91]
+[29Nov2024 03:21:57.201] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1109.23, y=95.00, z=-121.36] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1109.23, y=95.00, z=-121.36]
+[29Nov2024 03:21:58.517] [Server thread/DEBUG] [pointblank/]: 18517 handling client fire request
+[29Nov2024 03:21:58.517] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1453034844 to 6
+[29Nov2024 03:21:58.518] [Server thread/DEBUG] [pointblank/]: 18518 - obtained hit result in 1ms
+[29Nov2024 03:21:58.518] [Server thread/DEBUG] [pointblank/]: 18518 obtained hit results
+[29Nov2024 03:21:58.518] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@b5acca8
+[29Nov2024 03:21:58.518] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1115.70, y=95.00, z=-115.46] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1115.70, y=95.00, z=-115.46]
+[29Nov2024 03:21:58.518] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1115.70, y=95.00, z=-115.46] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1109.28, y=95.00, z=-123.81]
+[29Nov2024 03:21:58.698] [Server thread/DEBUG] [pointblank/]: 18698 handling client fire request
+[29Nov2024 03:21:58.698] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 5
+[29Nov2024 03:21:58.698] [Server thread/DEBUG] [pointblank/]: 18698 - obtained hit result in 0ms
+[29Nov2024 03:21:58.698] [Server thread/DEBUG] [pointblank/]: 18698 obtained hit results
+[29Nov2024 03:21:58.698] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6368fe01
+[29Nov2024 03:21:58.698] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1109.28, y=95.00, z=-123.81] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1115.70, y=95.00, z=-115.46]
+[29Nov2024 03:21:58.698] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1109.28, y=95.00, z=-123.81] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1109.28, y=95.00, z=-123.81]
+[29Nov2024 03:21:58.895] [Server thread/DEBUG] [pointblank/]: 18895 handling client fire request
+[29Nov2024 03:21:58.895] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1453034844 to 5
+[29Nov2024 03:21:58.895] [Server thread/DEBUG] [pointblank/]: 18895 - obtained hit result in 0ms
+[29Nov2024 03:21:58.895] [Server thread/DEBUG] [pointblank/]: 18895 obtained hit results
+[29Nov2024 03:21:58.895] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@69137e5d
+[29Nov2024 03:21:58.896] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1115.68, y=95.00, z=-115.89] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1115.68, y=95.00, z=-115.89]
+[29Nov2024 03:21:58.896] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1115.68, y=95.00, z=-115.89] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1109.45, y=95.00, z=-124.20]
+[29Nov2024 03:21:59.309] [Server thread/DEBUG] [pointblank/]: 19309 handling client fire request
+[29Nov2024 03:21:59.309] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 4
+[29Nov2024 03:21:59.310] [Server thread/DEBUG] [pointblank/]: 19310 - obtained hit result in 0ms
+[29Nov2024 03:21:59.310] [Server thread/DEBUG] [pointblank/]: 19310 obtained hit results
+[29Nov2024 03:21:59.310] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3f0820c9
+[29Nov2024 03:21:59.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.00, y=95.00, z=-124.82] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.92, y=95.00, z=-116.30]
+[29Nov2024 03:21:59.310] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.00, y=95.00, z=-124.82] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.00, y=95.00, z=-124.82]
+[29Nov2024 03:21:59.681] [Server thread/DEBUG] [pointblank/]: 19681 handling client fire request
+[29Nov2024 03:21:59.681] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 3
+[29Nov2024 03:21:59.681] [Server thread/DEBUG] [pointblank/]: 19681 - obtained hit result in 0ms
+[29Nov2024 03:21:59.681] [Server thread/DEBUG] [pointblank/]: 19681 obtained hit results
+[29Nov2024 03:21:59.681] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@28619ac8
+[29Nov2024 03:21:59.682] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.29, y=95.00, z=-117.02]
+[29Nov2024 03:21:59.682] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76]
+[29Nov2024 03:21:59.954] [Server thread/DEBUG] [pointblank/]: 19954 handling client fire request
+[29Nov2024 03:21:59.954] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1453034844 to 4
+[29Nov2024 03:21:59.955] [Server thread/DEBUG] [pointblank/]: 19955 - obtained hit result in 1ms
+[29Nov2024 03:21:59.955] [Server thread/DEBUG] [pointblank/]: 19955 obtained hit results
+[29Nov2024 03:21:59.955] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5fcd82b7
+[29Nov2024 03:21:59.956] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.27, y=95.00, z=-117.04] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.27, y=95.00, z=-117.04]
+[29Nov2024 03:21:59.956] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.27, y=95.00, z=-117.04] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76]
+[29Nov2024 03:22:00.263] [Server thread/DEBUG] [pointblank/]: 20263 handling client fire request
+[29Nov2024 03:22:00.263] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1453034844 to 3
+[29Nov2024 03:22:00.263] [Server thread/DEBUG] [pointblank/]: 20263 - obtained hit result in 0ms
+[29Nov2024 03:22:00.263] [Server thread/DEBUG] [pointblank/]: 20263 obtained hit results
+[29Nov2024 03:22:00.263] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2cf26373
+[29Nov2024 03:22:00.263] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.27, y=95.00, z=-117.04] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.27, y=95.00, z=-117.04]
+[29Nov2024 03:22:00.264] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.27, y=95.00, z=-117.04] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76]
+[29Nov2024 03:22:00.461] [Server thread/DEBUG] [pointblank/]: 20461 handling client fire request
+[29Nov2024 03:22:00.461] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 2
+[29Nov2024 03:22:00.461] [Server thread/DEBUG] [pointblank/]: 20461 - obtained hit result in 0ms
+[29Nov2024 03:22:00.461] [Server thread/DEBUG] [pointblank/]: 20461 obtained hit results
+[29Nov2024 03:22:00.461] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5202004c
+[29Nov2024 03:22:00.462] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.27, y=95.00, z=-117.04]
+[29Nov2024 03:22:00.462] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76]
+[29Nov2024 03:22:00.563] [Server thread/DEBUG] [pointblank/]: 20563 handling client fire request
+[29Nov2024 03:22:00.563] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1453034844 to 2
+[29Nov2024 03:22:00.564] [Server thread/DEBUG] [pointblank/]: 20564 - obtained hit result in 1ms
+[29Nov2024 03:22:00.564] [Server thread/DEBUG] [pointblank/]: 20564 obtained hit results
+[29Nov2024 03:22:00.564] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7611771e
+[29Nov2024 03:22:00.564] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.27, y=95.00, z=-117.04] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.27, y=95.00, z=-117.04]
+[29Nov2024 03:22:00.564] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.27, y=95.00, z=-117.04] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76]
+[29Nov2024 03:22:00.781] [Server thread/DEBUG] [pointblank/]: 20781 handling client fire request
+[29Nov2024 03:22:00.781] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 1
+[29Nov2024 03:22:00.781] [Server thread/DEBUG] [pointblank/]: 20781 - obtained hit result in 0ms
+[29Nov2024 03:22:00.781] [Server thread/DEBUG] [pointblank/]: 20781 obtained hit results
+[29Nov2024 03:22:00.781] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7a2c9176
+[29Nov2024 03:22:00.782] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.27, y=95.00, z=-117.04]
+[29Nov2024 03:22:00.782] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76]
+[29Nov2024 03:22:00.930] [Server thread/DEBUG] [pointblank/]: 20930 handling client fire request
+[29Nov2024 03:22:00.930] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1453034844 to 1
+[29Nov2024 03:22:00.930] [Server thread/DEBUG] [pointblank/]: 20930 - obtained hit result in 0ms
+[29Nov2024 03:22:00.930] [Server thread/DEBUG] [pointblank/]: 20930 obtained hit results
+[29Nov2024 03:22:00.930] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@563e1f7
+[29Nov2024 03:22:00.931] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.27, y=95.00, z=-117.04] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.27, y=95.00, z=-117.04]
+[29Nov2024 03:22:00.931] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.27, y=95.00, z=-117.04] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76]
+[29Nov2024 03:22:01.234] [Server thread/DEBUG] [pointblank/]: 21234 handling client fire request
+[29Nov2024 03:22:01.234] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1453034844 to 0
+[29Nov2024 03:22:01.234] [Server thread/DEBUG] [pointblank/]: 21234 - obtained hit result in 0ms
+[29Nov2024 03:22:01.234] [Server thread/DEBUG] [pointblank/]: 21234 obtained hit results
+[29Nov2024 03:22:01.234] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5c8fbf4d
+[29Nov2024 03:22:01.236] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.01, y=95.00, z=-116.52] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.01, y=95.00, z=-116.52]
+[29Nov2024 03:22:01.236] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1114.01, y=95.00, z=-116.52] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76]
+[29Nov2024 03:22:01.384] [Server thread/DEBUG] [pointblank/]: 21384 handling client fire request
+[29Nov2024 03:22:01.384] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 0
+[29Nov2024 03:22:01.385] [Server thread/DEBUG] [pointblank/]: 21385 - obtained hit result in 0ms
+[29Nov2024 03:22:01.385] [Server thread/DEBUG] [pointblank/]: 21385 obtained hit results
+[29Nov2024 03:22:01.385] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5773c18
+[29Nov2024 03:22:01.385] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1113.94, y=95.00, z=-116.38]
+[29Nov2024 03:22:01.385] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1111.23, y=95.00, z=-124.76]
+[29Nov2024 03:22:01.875] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1453034844 to 7
+[29Nov2024 03:22:05.278] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 7
+[29Nov2024 03:22:07.514] [Server thread/DEBUG] [pointblank/]: 27514 handling client fire request
+[29Nov2024 03:22:07.514] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1453034844 to 6
+[29Nov2024 03:22:07.515] [Server thread/DEBUG] [pointblank/]: 27515 - obtained hit result in 1ms
+[29Nov2024 03:22:07.515] [Server thread/DEBUG] [pointblank/]: 27515 obtained hit results
+[29Nov2024 03:22:07.515] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6b3e2556
+[29Nov2024 03:22:07.516] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1110.69, y=95.00, z=-109.38] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1110.69, y=95.00, z=-109.38]
+[29Nov2024 03:22:07.516] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1110.69, y=95.00, z=-109.38] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.32, y=95.75, z=-143.77]
+[29Nov2024 03:22:09.078] [Server thread/DEBUG] [pointblank/]: 29078 handling client fire request
+[29Nov2024 03:22:09.078] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 6
+[29Nov2024 03:22:09.078] [Server thread/DEBUG] [pointblank/]: 29078 - obtained hit result in 0ms
+[29Nov2024 03:22:09.078] [Server thread/DEBUG] [pointblank/]: 29078 obtained hit results
+[29Nov2024 03:22:09.078] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1dd909e0
+[29Nov2024 03:22:09.079] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.86, y=95.00, z=-146.33] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1110.69, y=95.00, z=-109.38]
+[29Nov2024 03:22:09.079] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.86, y=95.00, z=-146.33] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.86, y=95.00, z=-146.33]
+[29Nov2024 03:22:09.211] [Server thread/DEBUG] [pointblank/]: 29211 handling client fire request
+[29Nov2024 03:22:09.211] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1453034844 to 5
+[29Nov2024 03:22:09.212] [Server thread/DEBUG] [pointblank/]: 29212 - obtained hit result in 1ms
+[29Nov2024 03:22:09.212] [Server thread/DEBUG] [pointblank/]: 29212 obtained hit results
+[29Nov2024 03:22:09.212] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@612bbb22
+[29Nov2024 03:22:09.212] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1110.69, y=95.00, z=-109.38] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1110.69, y=95.00, z=-109.38]
+[29Nov2024 03:22:09.212] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1110.69, y=95.00, z=-109.38] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.86, y=95.00, z=-146.33]
+[29Nov2024 03:22:09.371] [Server thread/DEBUG] [pointblank/]: 29371 handling client fire request
+[29Nov2024 03:22:09.371] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 5
+[29Nov2024 03:22:09.372] [Server thread/DEBUG] [pointblank/]: 29372 - obtained hit result in 1ms
+[29Nov2024 03:22:09.372] [Server thread/DEBUG] [pointblank/]: 29372 obtained hit results
+[29Nov2024 03:22:09.372] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1e10fa41
+[29Nov2024 03:22:09.372] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.98, y=95.00, z=-145.92] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1110.69, y=95.00, z=-109.38]
+[29Nov2024 03:22:09.372] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.98, y=95.00, z=-145.92] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.98, y=95.00, z=-145.92]
+[29Nov2024 03:22:10.207] [Server thread/DEBUG] [pointblank/]: 30207 handling client fire request
+[29Nov2024 03:22:10.207] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 4
+[29Nov2024 03:22:10.208] [Server thread/DEBUG] [pointblank/]: 30208 - obtained hit result in 1ms
+[29Nov2024 03:22:10.208] [Server thread/DEBUG] [pointblank/]: 30208 obtained hit results
+[29Nov2024 03:22:10.208] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@48caa6d7
+[29Nov2024 03:22:10.209] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.89, y=95.00, z=-143.91] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1110.69, y=95.00, z=-109.38]
+[29Nov2024 03:22:10.209] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.89, y=95.00, z=-143.91] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.89, y=95.00, z=-143.91]
+[29Nov2024 03:22:10.835] [Server thread/DEBUG] [pointblank/]: 30835 handling client fire request
+[29Nov2024 03:22:10.836] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 3
+[29Nov2024 03:22:10.836] [Server thread/DEBUG] [pointblank/]: 30836 - obtained hit result in 0ms
+[29Nov2024 03:22:10.836] [Server thread/DEBUG] [pointblank/]: 30836 obtained hit results
+[29Nov2024 03:22:10.836] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@4a76169b
+[29Nov2024 03:22:10.836] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.89, y=95.00, z=-143.91] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1110.69, y=95.00, z=-109.38]
+[29Nov2024 03:22:10.837] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.89, y=95.00, z=-143.91] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.89, y=95.00, z=-143.91]
+[29Nov2024 03:22:11.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5730ms or 114 ticks behind
+[29Nov2024 03:22:11.670] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1453034844 to 7
+[29Nov2024 03:22:12.660] [Server thread/DEBUG] [pointblank/]: 32660 handling client fire request
+[29Nov2024 03:22:12.660] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 2
+[29Nov2024 03:22:12.661] [Server thread/DEBUG] [pointblank/]: 32661 - obtained hit result in 1ms
+[29Nov2024 03:22:12.661] [Server thread/DEBUG] [pointblank/]: 32661 obtained hit results
+[29Nov2024 03:22:12.661] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@faaaa16
+[29Nov2024 03:22:12.662] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.89, y=95.00, z=-143.91] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1113.96, y=95.00, z=-112.28]
+[29Nov2024 03:22:12.662] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.89, y=95.00, z=-143.91] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.89, y=95.00, z=-143.91]
+[29Nov2024 03:22:13.397] [Server thread/DEBUG] [pointblank/]: 33397 handling client fire request
+[29Nov2024 03:22:13.397] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 1
+[29Nov2024 03:22:13.397] [Server thread/DEBUG] [pointblank/]: 33397 - obtained hit result in 0ms
+[29Nov2024 03:22:13.397] [Server thread/DEBUG] [pointblank/]: 33397 obtained hit results
+[29Nov2024 03:22:13.397] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1d3b9302
+[29Nov2024 03:22:13.398] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.89, y=95.00, z=-143.91] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1113.88, y=95.00, z=-112.61]
+[29Nov2024 03:22:13.398] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.89, y=95.00, z=-143.91] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.89, y=95.00, z=-143.91]
+[29Nov2024 03:22:13.997] [Server thread/DEBUG] [pointblank/]: 33997 handling client fire request
+[29Nov2024 03:22:13.997] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 0
+[29Nov2024 03:22:13.997] [Server thread/DEBUG] [pointblank/]: 33997 - obtained hit result in 0ms
+[29Nov2024 03:22:13.997] [Server thread/DEBUG] [pointblank/]: 33997 obtained hit results
+[29Nov2024 03:22:13.997] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5ca21a2b
+[29Nov2024 03:22:13.997] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.89, y=95.00, z=-143.91] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1113.88, y=95.00, z=-112.61]
+[29Nov2024 03:22:13.997] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.89, y=95.00, z=-143.91] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1112.89, y=95.00, z=-143.91]
+[29Nov2024 03:22:15.680] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 7
+[29Nov2024 03:22:19.844] [Server thread/DEBUG] [pointblank/]: 39844 handling client fire request
+[29Nov2024 03:22:19.844] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 6
+[29Nov2024 03:22:19.844] [Server thread/DEBUG] [pointblank/]: 39844 - obtained hit result in 0ms
+[29Nov2024 03:22:19.844] [Server thread/DEBUG] [pointblank/]: 39844 obtained hit results
+[29Nov2024 03:22:19.844] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@63bc4f2b
+[29Nov2024 03:22:19.846] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1120.32, y=95.00, z=-125.67] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1113.88, y=95.00, z=-112.61]
+[29Nov2024 03:22:19.846] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1120.32, y=95.00, z=-125.67] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1120.32, y=95.00, z=-125.67]
+[29Nov2024 03:22:30.264] [IO-Worker-77/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-78
+[29Nov2024 03:22:33.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7345ms or 146 ticks behind
+[29Nov2024 03:22:55.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6277ms or 125 ticks behind
+[29Nov2024 03:23:14.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4591ms or 91 ticks behind
+[29Nov2024 03:23:33.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3766ms or 75 ticks behind
+[29Nov2024 03:23:52.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3791ms or 75 ticks behind
+[29Nov2024 03:23:58.626] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-79
+[29Nov2024 03:24:14.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7039ms or 140 ticks behind
+[29Nov2024 03:24:35.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6503ms or 130 ticks behind
+[29Nov2024 03:24:56.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6215ms or 124 ticks behind
+[29Nov2024 03:25:16.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4919ms or 98 ticks behind
+[29Nov2024 03:25:35.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3257ms or 65 ticks behind
+[29Nov2024 03:25:53.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3720ms or 74 ticks behind
+[29Nov2024 03:26:12.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3646ms or 72 ticks behind
+[29Nov2024 03:26:13.468] [Server thread/DEBUG] [pointblank/]: 73468 handling client fire request
+[29Nov2024 03:26:13.468] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 5
+[29Nov2024 03:26:13.468] [Server thread/DEBUG] [pointblank/]: 73468 - obtained hit result in 0ms
+[29Nov2024 03:26:13.468] [Server thread/DEBUG] [pointblank/]: 73468 obtained hit results
+[29Nov2024 03:26:13.468] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3ac114e0
+[29Nov2024 03:26:13.469] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1289.87, y=95.00, z=-153.66] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1289.87, y=95.00, z=-153.66]
+[29Nov2024 03:26:14.083] [Server thread/DEBUG] [pointblank/]: 74083 handling client fire request
+[29Nov2024 03:26:14.083] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 4
+[29Nov2024 03:26:14.083] [Server thread/DEBUG] [pointblank/]: 74083 - obtained hit result in 0ms
+[29Nov2024 03:26:14.083] [Server thread/DEBUG] [pointblank/]: 74083 obtained hit results
+[29Nov2024 03:26:14.083] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6fcd1383
+[29Nov2024 03:26:14.084] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1289.87, y=95.00, z=-153.66] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1289.87, y=95.00, z=-153.66]
+[29Nov2024 03:26:30.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2711ms or 54 ticks behind
+[29Nov2024 03:26:30.112] [IO-Worker-74/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-80
+[29Nov2024 03:26:30.115] [IO-Worker-78/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-81
+[29Nov2024 03:26:48.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3035ms or 60 ticks behind
+[29Nov2024 03:27:06.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3868ms or 77 ticks behind
+[29Nov2024 03:27:27.146] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5267ms or 105 ticks behind
+[29Nov2024 03:27:48.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6529ms or 130 ticks behind
+[29Nov2024 03:28:03.439] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-82
+[29Nov2024 03:28:04.065] [IO-Worker-81/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-83
+[29Nov2024 03:28:04.091] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-84
+[29Nov2024 03:28:04.106] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-85
+[29Nov2024 03:28:04.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[29Nov2024 03:28:04.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[29Nov2024 03:28:11.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7562ms or 151 ticks behind
+[29Nov2024 03:28:31.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5334ms or 106 ticks behind
+[29Nov2024 03:28:48.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
+[29Nov2024 03:29:10.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Nov2024 03:29:28.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3800ms or 76 ticks behind
+[29Nov2024 03:29:32.158] [Server thread/DEBUG] [pointblank/]: 72158 handling client fire request
+[29Nov2024 03:29:32.159] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 3
+[29Nov2024 03:29:32.159] [Server thread/DEBUG] [pointblank/]: 72159 - obtained hit result in 0ms
+[29Nov2024 03:29:32.159] [Server thread/DEBUG] [pointblank/]: 72159 obtained hit results
+[29Nov2024 03:29:32.159] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@14de551d
+[29Nov2024 03:29:32.160] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1287.15, y=95.00, z=-174.04] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1183.19, y=95.27, z=-191.02]
+[29Nov2024 03:29:32.160] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1287.15, y=95.00, z=-174.04] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1287.15, y=95.00, z=-174.04]
+[29Nov2024 03:29:33.373] [Server thread/DEBUG] [pointblank/]: 73373 handling client fire request
+[29Nov2024 03:29:33.374] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 2
+[29Nov2024 03:29:33.374] [Server thread/DEBUG] [pointblank/]: 73374 - obtained hit result in 0ms
+[29Nov2024 03:29:33.374] [Server thread/DEBUG] [pointblank/]: 73374 obtained hit results
+[29Nov2024 03:29:33.374] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46ebc182
+[29Nov2024 03:29:33.374] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1287.15, y=95.00, z=-174.04] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1184.28, y=95.00, z=-184.33]
+[29Nov2024 03:29:33.374] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1287.15, y=95.00, z=-174.04] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1287.15, y=95.00, z=-174.04]
+[29Nov2024 03:29:33.981] [Server thread/DEBUG] [pointblank/]: 73981 handling client fire request
+[29Nov2024 03:29:33.981] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 1
+[29Nov2024 03:29:33.982] [Server thread/DEBUG] [pointblank/]: 73982 - obtained hit result in 1ms
+[29Nov2024 03:29:33.982] [Server thread/DEBUG] [pointblank/]: 73982 obtained hit results
+[29Nov2024 03:29:33.982] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3ec5a013
+[29Nov2024 03:29:33.982] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1287.15, y=95.00, z=-174.04] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1187.00, y=95.00, z=-183.33]
+[29Nov2024 03:29:33.982] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1287.15, y=95.00, z=-174.04] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1287.15, y=95.00, z=-174.04]
+[29Nov2024 03:29:35.163] [Server thread/DEBUG] [pointblank/]: 75163 handling client fire request
+[29Nov2024 03:29:35.163] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 0
+[29Nov2024 03:29:35.163] [Server thread/DEBUG] [pointblank/]: 75163 - obtained hit result in 0ms
+[29Nov2024 03:29:35.163] [Server thread/DEBUG] [pointblank/]: 75163 obtained hit results
+[29Nov2024 03:29:35.163] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3693b3ea
+[29Nov2024 03:29:35.164] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1287.15, y=95.00, z=-174.04] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1187.70, y=95.80, z=-183.47]
+[29Nov2024 03:29:35.164] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1287.15, y=95.00, z=-174.04] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1287.15, y=95.00, z=-174.04]
+[29Nov2024 03:29:36.948] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 7
+[29Nov2024 03:29:40.731] [Server thread/DEBUG] [pointblank/]: 80731 handling client fire request
+[29Nov2024 03:29:40.731] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 6
+[29Nov2024 03:29:40.731] [Server thread/DEBUG] [pointblank/]: 80731 - obtained hit result in 0ms
+[29Nov2024 03:29:40.731] [Server thread/DEBUG] [pointblank/]: 80731 obtained hit results
+[29Nov2024 03:29:40.731] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@66844870
+[29Nov2024 03:29:40.733] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1200.66, y=95.00, z=-178.61]
+[29Nov2024 03:29:40.733] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32]
+[29Nov2024 03:29:42.419] [Server thread/DEBUG] [pointblank/]: 82419 handling client fire request
+[29Nov2024 03:29:42.419] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 5
+[29Nov2024 03:29:42.419] [Server thread/DEBUG] [pointblank/]: 82419 - obtained hit result in 0ms
+[29Nov2024 03:29:42.419] [Server thread/DEBUG] [pointblank/]: 82419 obtained hit results
+[29Nov2024 03:29:42.419] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@e26108
+[29Nov2024 03:29:42.420] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1210.24, y=95.00, z=-178.64]
+[29Nov2024 03:29:42.420] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32]
+[29Nov2024 03:29:42.807] [Server thread/DEBUG] [pointblank/]: 82807 handling client fire request
+[29Nov2024 03:29:42.807] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 4
+[29Nov2024 03:29:42.808] [Server thread/DEBUG] [pointblank/]: 82808 - obtained hit result in 1ms
+[29Nov2024 03:29:42.808] [Server thread/DEBUG] [pointblank/]: 82808 obtained hit results
+[29Nov2024 03:29:42.808] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@69735aa7
+[29Nov2024 03:29:42.808] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1212.05, y=95.00, z=-178.87]
+[29Nov2024 03:29:42.808] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32]
+[29Nov2024 03:29:43.257] [Server thread/DEBUG] [pointblank/]: 83257 handling client fire request
+[29Nov2024 03:29:43.257] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 3
+[29Nov2024 03:29:43.258] [Server thread/DEBUG] [pointblank/]: 83258 - obtained hit result in 0ms
+[29Nov2024 03:29:43.258] [Server thread/DEBUG] [pointblank/]: 83258 obtained hit results
+[29Nov2024 03:29:43.258] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3622c77f
+[29Nov2024 03:29:43.258] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1214.52, y=95.00, z=-178.66]
+[29Nov2024 03:29:43.258] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32]
+[29Nov2024 03:29:43.831] [Server thread/DEBUG] [pointblank/]: 83831 handling client fire request
+[29Nov2024 03:29:43.832] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 2
+[29Nov2024 03:29:43.832] [Server thread/DEBUG] [pointblank/]: 83832 - obtained hit result in 0ms
+[29Nov2024 03:29:43.832] [Server thread/DEBUG] [pointblank/]: 83832 obtained hit results
+[29Nov2024 03:29:43.832] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@37ee70c1
+[29Nov2024 03:29:43.833] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1214.73, y=95.00, z=-178.99]
+[29Nov2024 03:29:43.833] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32]
+[29Nov2024 03:29:44.370] [Server thread/DEBUG] [pointblank/]: 84370 handling client fire request
+[29Nov2024 03:29:44.370] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 1
+[29Nov2024 03:29:44.370] [Server thread/DEBUG] [pointblank/]: 84370 - obtained hit result in 0ms
+[29Nov2024 03:29:44.370] [Server thread/DEBUG] [pointblank/]: 84370 obtained hit results
+[29Nov2024 03:29:44.370] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@21f0d126
+[29Nov2024 03:29:44.371] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1212.83, y=95.00, z=-178.70]
+[29Nov2024 03:29:44.371] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32]
+[29Nov2024 03:29:44.985] [Server thread/DEBUG] [pointblank/]: 84985 handling client fire request
+[29Nov2024 03:29:44.985] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 0
+[29Nov2024 03:29:44.985] [Server thread/DEBUG] [pointblank/]: 84985 - obtained hit result in 0ms
+[29Nov2024 03:29:44.985] [Server thread/DEBUG] [pointblank/]: 84985 obtained hit results
+[29Nov2024 03:29:44.985] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@36887e3b
+[29Nov2024 03:29:44.985] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1214.73, y=95.00, z=-179.06]
+[29Nov2024 03:29:44.986] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1280.71, y=95.00, z=-187.32]
+[29Nov2024 03:29:46.740] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 7
+[29Nov2024 03:29:49.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5537ms or 110 ticks behind
+[29Nov2024 03:29:50.309] [Server thread/DEBUG] [pointblank/]: 90309 handling client fire request
+[29Nov2024 03:29:50.310] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 6
+[29Nov2024 03:29:50.310] [Server thread/DEBUG] [pointblank/]: 90310 - obtained hit result in 0ms
+[29Nov2024 03:29:50.310] [Server thread/DEBUG] [pointblank/]: 90310 obtained hit results
+[29Nov2024 03:29:50.310] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@46e0df85
+[29Nov2024 03:29:50.311] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.18, y=95.00, z=-198.77] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1204.65, y=95.00, z=-162.65]
+[29Nov2024 03:29:50.311] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.18, y=95.00, z=-198.77] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.18, y=95.00, z=-198.77]
+[29Nov2024 03:29:50.797] [Server thread/DEBUG] [pointblank/]: 90797 handling client fire request
+[29Nov2024 03:29:50.797] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 5
+[29Nov2024 03:29:50.798] [Server thread/DEBUG] [pointblank/]: 90798 - obtained hit result in 0ms
+[29Nov2024 03:29:50.798] [Server thread/DEBUG] [pointblank/]: 90798 obtained hit results
+[29Nov2024 03:29:50.798] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@71aa541a
+[29Nov2024 03:29:50.798] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.18, y=95.00, z=-198.77] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1206.65, y=95.00, z=-160.62]
+[29Nov2024 03:29:50.798] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.18, y=95.00, z=-198.77] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.18, y=95.00, z=-198.77]
+[29Nov2024 03:29:51.840] [Server thread/DEBUG] [pointblank/]: 91840 handling client fire request
+[29Nov2024 03:29:51.840] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 4
+[29Nov2024 03:29:51.840] [Server thread/DEBUG] [pointblank/]: 91840 - obtained hit result in 0ms
+[29Nov2024 03:29:51.841] [Server thread/DEBUG] [pointblank/]: 91841 obtained hit results
+[29Nov2024 03:29:51.841] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5159ba2e
+[29Nov2024 03:29:51.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.49, y=95.00, z=-197.93] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1211.80, y=95.06, z=-161.51]
+[29Nov2024 03:29:51.841] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.49, y=95.00, z=-197.93] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.49, y=95.00, z=-197.93]
+[29Nov2024 03:29:52.655] [Server thread/DEBUG] [pointblank/]: 92655 handling client fire request
+[29Nov2024 03:29:52.655] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 3
+[29Nov2024 03:29:52.655] [Server thread/DEBUG] [pointblank/]: 92655 - obtained hit result in 0ms
+[29Nov2024 03:29:52.655] [Server thread/DEBUG] [pointblank/]: 92655 obtained hit results
+[29Nov2024 03:29:52.655] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@63d13b65
+[29Nov2024 03:29:52.656] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.49, y=95.00, z=-197.93] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1210.45, y=95.06, z=-161.02]
+[29Nov2024 03:29:52.656] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.49, y=95.00, z=-197.93] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.49, y=95.00, z=-197.93]
+[29Nov2024 03:29:53.219] [Server thread/DEBUG] [pointblank/]: 93219 handling client fire request
+[29Nov2024 03:29:53.219] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 2
+[29Nov2024 03:29:53.219] [Server thread/DEBUG] [pointblank/]: 93219 - obtained hit result in 0ms
+[29Nov2024 03:29:53.219] [Server thread/DEBUG] [pointblank/]: 93219 obtained hit results
+[29Nov2024 03:29:53.219] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7fc575fb
+[29Nov2024 03:29:53.220] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.49, y=95.00, z=-197.93] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1207.55, y=95.00, z=-160.03]
+[29Nov2024 03:29:53.221] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.49, y=95.00, z=-197.93] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.49, y=95.00, z=-197.93]
+[29Nov2024 03:29:53.886] [Server thread/DEBUG] [pointblank/]: 93886 handling client fire request
+[29Nov2024 03:29:53.886] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 1
+[29Nov2024 03:29:53.887] [Server thread/DEBUG] [pointblank/]: 93887 - obtained hit result in 0ms
+[29Nov2024 03:29:53.887] [Server thread/DEBUG] [pointblank/]: 93887 obtained hit results
+[29Nov2024 03:29:53.887] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@76338d69
+[29Nov2024 03:29:53.887] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.49, y=95.00, z=-197.93] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1204.43, y=96.25, z=-157.80]
+[29Nov2024 03:29:53.887] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.49, y=95.00, z=-197.93] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.49, y=95.00, z=-197.93]
+[29Nov2024 03:29:54.552] [Server thread/DEBUG] [pointblank/]: 94552 handling client fire request
+[29Nov2024 03:29:54.553] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 872054965 to 0
+[29Nov2024 03:29:54.553] [Server thread/DEBUG] [pointblank/]: 94553 - obtained hit result in 0ms
+[29Nov2024 03:29:54.553] [Server thread/DEBUG] [pointblank/]: 94553 obtained hit results
+[29Nov2024 03:29:54.553] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@50846542
+[29Nov2024 03:29:54.554] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.49, y=95.00, z=-197.93] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1202.54, y=96.02, z=-153.81]
+[29Nov2024 03:29:54.554] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.49, y=95.00, z=-197.93] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=1274.49, y=95.00, z=-197.93]
+[29Nov2024 03:30:08.229] [IO-Worker-85/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-86
+[29Nov2024 03:30:12.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7814ms or 156 ticks behind

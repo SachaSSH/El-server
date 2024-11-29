@@ -2423,6 +2423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-11-29 03:27:33 +0000"
+    },
+    "done": true
+  },
   "regrowth:rgroot/offlimits": {
     "criteria": {
       "has_shovel": "2024-11-29 02:47:36 +0000"
@@ -2432,6 +2438,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-11-29 03:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-11-29 03:20:39 +0000"
     },
     "done": true
   },
@@ -2447,9 +2459,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-11-29 03:20:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-11-29 03:20:39 +0000"
+    },
+    "done": true
+  },
   "owza_advancements:getting_started": {
     "criteria": {
       "gettingStarted": "2024-11-29 02:22:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-11-29 03:20:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-11-29 03:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-11-29 03:20:39 +0000"
     },
     "done": true
   },
