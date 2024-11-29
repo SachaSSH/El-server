@@ -41,17 +41,17 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:sunflower_plains": "2024-11-29 02:25:38 +0000"
-    },
-    "done": false
-  },
   "owza_advancements:milestones": {
     "criteria": {
       "automatic": "2024-11-29 02:25:37 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2024-11-29 02:25:38 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

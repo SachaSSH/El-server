@@ -2895,3 +2895,50 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [29Nov2024 02:28:46.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3193e8e6-f3eb-38f7-a551-d9f79c9815d0
 [29Nov2024 02:28:46.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dystemic (3193e8e6-f3eb-38f7-a551-d9f79c9815d0) successfully connected to voice chat
 [29Nov2024 02:28:54.556] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41893101[id=<null>,name=kittxcro,properties={},legacy=false] (/127.110.248.71:54237) lost connection: Disconnected
+[29Nov2024 02:29:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti was slain by sex
+[29Nov2024 02:29:09.061] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Nov2024 02:29:12.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/6385, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=587.61, y=220.00, z=88.39] died: elbasti's Zombie was slain by sex
+[29Nov2024 02:29:30.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kittxcro[/127.110.248.71:46145] logged in with entity id 6694 at (114.54280250326521, 84.0, 232.8849921461947)
+[29Nov2024 02:29:30.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kittxcro joined the game
+[29Nov2024 02:29:32.520] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of kittxcro (18)
+[29Nov2024 02:29:32.521] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to kittxcro
+[29Nov2024 02:29:56.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 62d3b55b-5cee-3113-98f8-0b49810dc0bb
+[29Nov2024 02:29:57.493] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 62d3b55b-5cee-3113-98f8-0b49810dc0bb
+[29Nov2024 02:29:57.494] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player kittxcro (62d3b55b-5cee-3113-98f8-0b49810dc0bb) successfully connected to voice chat
+[29Nov2024 02:30:35.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=115, y=88, z=252}
+[29Nov2024 02:30:36.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=115, y=86, z=252}
+[29Nov2024 02:32:28.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=115, y=86, z=252}
+[29Nov2024 02:32:41.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=81, z=214} BlockPos{x=126, y=84, z=221}
+[29Nov2024 02:32:41.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=81, z=214} BlockPos{x=126, y=85, z=221}
+[29Nov2024 02:32:41.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=81, z=214} BlockPos{x=126, y=84, z=221}
+[29Nov2024 02:32:45.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=81, z=214} BlockPos{x=125, y=82, z=221}
+[29Nov2024 02:32:46.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=81, z=214} BlockPos{x=125, y=83, z=221}
+[29Nov2024 02:33:00.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 starved to death
+[29Nov2024 02:33:01.632] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Nov2024 02:33:06.360] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['jasontapia123'/8226, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=587.54, y=220.00, z=88.46] died: jasontapia123's Zombie was slain by jasontapia123
+[29Nov2024 02:34:03.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/206, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=204.96, y=81.00, z=147.82] died: elbasti's Zombie was slain by Dystemic
+[29Nov2024 02:37:38.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=590, y=192, z=89} BlockPos{x=588, y=192, z=100}
+[29Nov2024 02:39:05.088] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[29Nov2024 02:39:05.089] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[29Nov2024 02:39:05.089] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[29Nov2024 02:39:05.090] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[29Nov2024 02:39:05.090] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[29Nov2024 02:39:05.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kittxcro> zzzzzzzzzzzz
+[29Nov2024 02:39:05.646] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[29Nov2024 02:39:05.646] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[29Nov2024 02:39:05.646] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[29Nov2024 02:39:05.646] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[29Nov2024 02:39:05.646] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[29Nov2024 02:39:05.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dystemic> zzz
+[29Nov2024 02:39:12.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbasti lost connection: Disconnected
+[29Nov2024 02:39:12.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti left the game
+[29Nov2024 02:39:12.183] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elbasti
+[29Nov2024 02:39:18.174] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: you can craft gunpowder in 2 ways 
+[29Nov2024 02:39:18.175] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]:  first make saltpetre with Rotten flash, Potassium and Bone meal
+[29Nov2024 02:39:18.175] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur and coal to get a litte of gunpowder
+[29Nov2024 02:39:18.176] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: alternatively
+[29Nov2024 02:39:18.176] [ForkJoinPool.commonPool-worker-4/INFO] [net.mcreator.potassiumandsulfurs.PsgMod/]: mix saltpetre, sulphur, coal and sugar to get more gunpowder 
+[29Nov2024 02:39:18.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jasontapia123> zzzzzzzz
+[29Nov2024 02:39:18.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sex lost connection: Disconnected
+[29Nov2024 02:39:18.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex left the game
+[29Nov2024 02:39:18.921] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sex
