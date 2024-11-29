@@ -3184,3 +3184,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [29Nov2024 04:08:20.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3145ms or 62 ticks behind
 [29Nov2024 04:08:37.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
 [29Nov2024 04:09:35.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[29Nov2024 04:11:40.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH was slain by elbasti
+[29Nov2024 04:11:42.022] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Nov2024 04:11:49.120] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SachaSSH'/65871, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=587.55, y=220.00, z=88.45] died: SachaSSH's Zombie was slain by elbasti
+[29Nov2024 04:14:55.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Set own game mode to Creative Mode]
+[29Nov2024 04:15:56.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Set own game mode to Survival Mode]
+[29Nov2024 04:18:10.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Nov2024 04:18:29.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sex lost connection: Disconnected
+[29Nov2024 04:18:29.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex left the game
+[29Nov2024 04:18:29.490] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sex

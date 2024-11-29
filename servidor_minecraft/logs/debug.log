@@ -16701,3 +16701,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [29Nov2024 04:09:35.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [29Nov2024 04:10:02.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
 [29Nov2024 04:10:02.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[29Nov2024 04:11:40.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH was slain by elbasti
+[29Nov2024 04:11:42.022] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Nov2024 04:11:49.120] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SachaSSH'/65871, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=587.55, y=220.00, z=88.45] died: SachaSSH's Zombie was slain by elbasti
+[29Nov2024 04:12:39.592] [IO-Worker-107/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-114
+[29Nov2024 04:12:39.592] [IO-Worker-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-115
+[29Nov2024 04:13:55.358] [IO-Worker-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-116
+[29Nov2024 04:13:55.361] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-117
+[29Nov2024 04:14:55.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Set own game mode to Creative Mode]
+[29Nov2024 04:15:01.369] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-118
+[29Nov2024 04:15:03.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[29Nov2024 04:15:03.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[29Nov2024 04:15:03.626] [IO-Worker-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-119
+[29Nov2024 04:15:08.217] [Server thread/DEBUG] [pointblank/]: Active attachments for stack 1 xm3 updated: {AttachmentCategory[scope]=//drake_scope}
+[29Nov2024 04:15:09.140] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1829748335 to 5
+[29Nov2024 04:15:16.068] [Server thread/DEBUG] [pointblank/]: 16068 handling client fire request
+[29Nov2024 04:15:16.068] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1829748335 to 4
+[29Nov2024 04:15:16.069] [Server thread/DEBUG] [pointblank/]: 16069 - obtained hit result in 0ms
+[29Nov2024 04:15:16.069] [Server thread/DEBUG] [pointblank/]: 16069 obtained hit results
+[29Nov2024 04:15:16.069] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@79d87f10
+[29Nov2024 04:15:16.070] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=585.62, y=225.50, z=89.15] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=585.62, y=225.50, z=89.15]
+[29Nov2024 04:15:16.070] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=585.62, y=225.50, z=89.15] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=587.81, y=225.00, z=89.39]
+[29Nov2024 04:15:16.071] [Server thread/DEBUG] [pointblank/]: ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=585.62, y=225.50, z=89.15] sends hit scan notification to ServerPlayer['SachaSSH'/17981, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=623.47, y=132.00, z=121.30]
+[29Nov2024 04:15:41.125] [Server thread/DEBUG] [pointblank/]: 41125 handling client fire request
+[29Nov2024 04:15:41.125] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1412011815 to 3
+[29Nov2024 04:15:41.126] [Server thread/DEBUG] [pointblank/]: 41126 - obtained hit result in 0ms
+[29Nov2024 04:15:41.126] [Server thread/DEBUG] [pointblank/]: 41126 obtained hit results
+[29Nov2024 04:15:41.126] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1690f725
+[29Nov2024 04:15:41.127] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=587.81, y=225.00, z=89.39] sends hit scan notification to ServerPlayer['sex'/11096, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=585.67, y=225.50, z=89.62]
+[29Nov2024 04:15:41.127] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=587.81, y=225.00, z=89.39] sends hit scan notification to ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=587.81, y=225.00, z=89.39]
+[29Nov2024 04:15:41.128] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/19422, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=587.81, y=225.00, z=89.39] sends hit scan notification to ServerPlayer['SachaSSH'/17981, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=623.57, y=126.00, z=115.30]
+[29Nov2024 04:15:56.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Set own game mode to Survival Mode]
+[29Nov2024 04:18:10.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Nov2024 04:18:13.083] [IO-Worker-114/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-120
+[29Nov2024 04:18:29.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sex lost connection: Disconnected
+[29Nov2024 04:18:29.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex left the game
+[29Nov2024 04:18:29.490] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of sex
+[29Nov2024 04:18:29.490] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client sex
+[29Nov2024 04:20:04.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[29Nov2024 04:20:04.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[29Nov2024 04:20:44.225] [IO-Worker-110/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-122
+[29Nov2024 04:20:44.225] [IO-Worker-120/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-121
