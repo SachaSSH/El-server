@@ -56,6 +56,7 @@
       "minecraft:swamp": "2024-11-28 02:47:12 +0000",
       "minecraft:cold_ocean": "2024-11-28 03:40:15 +0000",
       "minecraft:forest": "2024-11-28 04:36:37 +0000",
+      "minecraft:desert": "2024-11-30 03:18:17 +0000",
       "minecraft:ocean": "2024-11-28 02:38:41 +0000",
       "minecraft:jungle": "2024-11-28 04:37:03 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-28 03:24:37 +0000",
@@ -3256,6 +3257,42 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-11-30 03:05:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-11-30 03:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-11-30 03:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-11-30 03:19:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2024-11-30 03:19:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-11-30 03:19:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-11-30 03:19:16 +0000"
     },
     "done": true
   },

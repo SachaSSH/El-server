@@ -13070,3 +13070,82 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [30Nov2024 03:14:12.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH was slain by Zombie
 [30Nov2024 03:14:14.101] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [30Nov2024 03:15:27.537] [IO-Worker-37/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[30Nov2024 03:16:03.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SachaSSH'/6237, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=366.75, y=91.00, z=36.37] died: SachaSSH's Zombie was slain by elbasti
+[30Nov2024 03:16:12.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[30Nov2024 03:16:12.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[30Nov2024 03:16:17.597] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[30Nov2024 03:16:28.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex was slain by Zombie
+[30Nov2024 03:16:31.658] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Nov2024 03:16:38.289] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['sex'/6034, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=366.30, y=91.00, z=36.80] died: sex's Zombie was slain by elbasti
+[30Nov2024 03:16:51.898] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/5430, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=366.39, y=91.00, z=37.30] died: elbasti's Zombie was slain by elbasti
+[30Nov2024 03:17:54.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH was slain by Zombie
+[30Nov2024 03:17:57.090] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Nov2024 03:19:18.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti was slain by Zombie
+[30Nov2024 03:19:19.630] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Nov2024 03:19:59.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH was slain by elbasti's Zombie
+[30Nov2024 03:20:01.393] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Nov2024 03:21:12.606] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save MC Zombie Apocalypse - Update #17.1
+[30Nov2024 03:21:12.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete MC Zombie Apocalypse - Update #17.1
+[30Nov2024 03:21:39.580] [IO-Worker-40/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[30Nov2024 03:21:46.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH was slain by elbasti's Zombie
+[30Nov2024 03:21:50.546] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Nov2024 03:22:18.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SachaSSH'/9503, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=354.17, y=81.00, z=36.56] died: SachaSSH's Zombie was slain by elbasti using [Ryan's machete]
+[30Nov2024 03:22:19.542] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SachaSSH'/9193, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=353.49, y=81.00, z=36.43] died: SachaSSH's Zombie was slain by elbasti using [Ryan's machete]
+[30Nov2024 03:22:25.796] [Server thread/DEBUG] [mixin/]: Mixing ProjectileUtilMixin from immersive_aircraft.mixins.json into net.minecraft.world.entity.projectile.ProjectileUtil
+[30Nov2024 03:22:25.800] [Server thread/DEBUG] [mixin/]: Mixing compat117plus.ProjectileUtilMixin from pehkui.mixins.json into net.minecraft.world.entity.projectile.ProjectileUtil
+[30Nov2024 03:22:25.802] [Server thread/DEBUG] [mixin/]: Mixing compat1202minus.compat120plus.ProjectileUtilMixin from pehkui.mixins.json into net.minecraft.world.entity.projectile.ProjectileUtil
+[30Nov2024 03:22:25.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/8819, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=354.99, y=81.00, z=36.43] died: elbasti's Zombie was shot by elbasti
+[30Nov2024 03:23:45.790] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['sex'/6897, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=336.30, y=81.00, z=70.25] died: sex's Zombie was slain by elbasti using [Ryan's machete]
+[30Nov2024 03:24:13.890] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SachaSSH'/5882, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=322.10, y=81.00, z=31.03] died: SachaSSH's Zombie was slain by elbasti
+[30Nov2024 03:25:01.412] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 604873336 to 5
+[30Nov2024 03:25:04.524] [Server thread/DEBUG] [pointblank/]: 4524 handling client fire request
+[30Nov2024 03:25:04.524] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 604873336 to 4
+[30Nov2024 03:25:04.524] [Server thread/DEBUG] [pointblank/]: 4524 - obtained hit result in 0ms
+[30Nov2024 03:25:04.524] [Server thread/DEBUG] [pointblank/]: 4524 obtained hit results
+[30Nov2024 03:25:04.524] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@60a39eef
+[30Nov2024 03:25:04.526] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=320.89, y=84.06, z=36.68] sends hit scan notification to ServerPlayer['sex'/2163, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=334.70, y=81.50, z=-44.20]
+[30Nov2024 03:25:04.526] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=320.89, y=84.06, z=36.68] sends hit scan notification to ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=320.89, y=84.06, z=36.68]
+[30Nov2024 03:25:04.526] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=320.89, y=84.06, z=36.68] sends hit scan notification to ServerPlayer['SachaSSH'/2532, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=318.07, y=82.02, z=34.90]
+[30Nov2024 03:25:08.535] [Server thread/DEBUG] [pointblank/]: 8535 handling client fire request
+[30Nov2024 03:25:08.535] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 604873336 to 3
+[30Nov2024 03:25:08.536] [Server thread/DEBUG] [pointblank/]: 8536 - obtained hit result in 1ms
+[30Nov2024 03:25:08.536] [Server thread/DEBUG] [pointblank/]: 8536 obtained hit results
+[30Nov2024 03:25:08.536] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2cd6c29c
+[30Nov2024 03:25:08.537] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=320.26, y=84.50, z=38.07] sends hit scan notification to ServerPlayer['sex'/2163, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=334.70, y=81.50, z=-44.20]
+[30Nov2024 03:25:08.537] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=320.26, y=84.50, z=38.07] sends hit scan notification to ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=320.26, y=84.50, z=38.07]
+[30Nov2024 03:25:08.537] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=320.26, y=84.50, z=38.07] sends hit scan notification to ServerPlayer['SachaSSH'/2532, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=326.57, y=81.00, z=47.14]
+[30Nov2024 03:25:11.886] [Server thread/DEBUG] [pointblank/]: 11886 handling client fire request
+[30Nov2024 03:25:11.886] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 604873336 to 2
+[30Nov2024 03:25:11.887] [Server thread/DEBUG] [pointblank/]: 11887 - obtained hit result in 1ms
+[30Nov2024 03:25:11.887] [Server thread/DEBUG] [pointblank/]: 11887 obtained hit results
+[30Nov2024 03:25:11.887] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2c651e4b
+[30Nov2024 03:25:11.887] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=319.80, y=84.50, z=37.63] sends hit scan notification to ServerPlayer['sex'/2163, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=334.70, y=81.50, z=-44.20]
+[30Nov2024 03:25:11.887] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=319.80, y=84.50, z=37.63] sends hit scan notification to ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=319.80, y=84.50, z=37.63]
+[30Nov2024 03:25:11.887] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=319.80, y=84.50, z=37.63] sends hit scan notification to ServerPlayer['SachaSSH'/2532, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=328.96, y=81.00, z=48.37]
+[30Nov2024 03:25:12.993] [Server thread/DEBUG] [pointblank/]: 12993 handling client fire request
+[30Nov2024 03:25:12.993] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 604873336 to 1
+[30Nov2024 03:25:12.993] [Server thread/DEBUG] [pointblank/]: 12993 - obtained hit result in 0ms
+[30Nov2024 03:25:12.993] [Server thread/DEBUG] [pointblank/]: 12993 obtained hit results
+[30Nov2024 03:25:12.993] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@cb2368f
+[30Nov2024 03:25:12.993] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=319.80, y=84.50, z=37.63] sends hit scan notification to ServerPlayer['sex'/2163, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=334.70, y=81.50, z=-44.20]
+[30Nov2024 03:25:12.994] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=319.80, y=84.50, z=37.63] sends hit scan notification to ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=319.80, y=84.50, z=37.63]
+[30Nov2024 03:25:12.994] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=319.80, y=84.50, z=37.63] sends hit scan notification to ServerPlayer['SachaSSH'/2532, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=328.58, y=81.00, z=44.06]
+[30Nov2024 03:25:13.992] [Server thread/DEBUG] [pointblank/]: 13992 handling client fire request
+[30Nov2024 03:25:13.992] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 604873336 to 0
+[30Nov2024 03:25:13.992] [Server thread/DEBUG] [pointblank/]: 13992 - obtained hit result in 0ms
+[30Nov2024 03:25:13.992] [Server thread/DEBUG] [pointblank/]: 13992 obtained hit results
+[30Nov2024 03:25:13.992] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@72b99883
+[30Nov2024 03:25:13.993] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=319.80, y=84.50, z=37.63] sends hit scan notification to ServerPlayer['sex'/2163, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=334.70, y=81.50, z=-44.20]
+[30Nov2024 03:25:13.993] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=319.80, y=84.50, z=37.63] sends hit scan notification to ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=319.80, y=84.50, z=37.63]
+[30Nov2024 03:25:13.993] [Server thread/DEBUG] [pointblank/]: ServerPlayer['elbasti'/1616, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=319.80, y=84.50, z=37.63] sends hit scan notification to ServerPlayer['SachaSSH'/2532, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=330.25, y=81.00, z=40.01]
+[30Nov2024 03:25:31.742] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@363b919d]Trying to start horde event on day 20 with nextDay 20 and time 10000
+[30Nov2024 03:25:31.746] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@74ba7a81
+[30Nov2024 03:25:31.749] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[30Nov2024 03:25:31.749] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[30Nov2024 03:25:31.799] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[30Nov2024 03:25:31.799] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[30Nov2024 03:25:31.799] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[30Nov2024 03:25:31.800] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[30Nov2024 03:25:47.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti was slain by SachaSSH's Zombie
+[30Nov2024 03:25:48.969] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Nov2024 03:25:49.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SachaSSH'/7526, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=312.70, y=79.00, z=37.70] died: SachaSSH's Zombie was slain by SachaSSH
