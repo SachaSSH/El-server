@@ -3274,6 +3274,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-30 04:03:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2024-11-30 03:55:24 +0000"
@@ -3334,6 +3340,12 @@
     },
     "done": true
   },
+  "owza_advancements:the_deserted_city": {
+    "criteria": {
+      "enterLosEchos": "2024-11-30 04:22:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-11-30 03:53:24 +0000"
@@ -3388,6 +3400,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-11-30 04:03:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
       "has_brick": "2024-11-30 03:19:16 +0000"
@@ -3403,6 +3421,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-11-30 03:53:24 +0000"
+    },
+    "done": true
+  },
+  "owza_advancements:the_central_house": {
+    "criteria": {
+      "enterCityHall": "2024-11-30 04:24:46 +0000"
     },
     "done": true
   },

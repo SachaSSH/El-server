@@ -51,15 +51,21 @@
     "criteria": {
       "minecraft:sunflower_plains": "2024-11-29 02:22:57 +0000",
       "minecraft:birch_forest": "2024-11-29 04:21:33 +0000",
+      "minecraft:windswept_hills": "2024-11-30 04:22:24 +0000",
       "minecraft:badlands": "2024-11-29 02:54:56 +0000",
+      "minecraft:beach": "2024-11-30 04:14:26 +0000",
       "minecraft:dark_forest": "2024-11-29 02:40:22 +0000",
       "minecraft:river": "2024-11-29 02:35:58 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-30 04:13:33 +0000",
       "minecraft:snowy_plains": "2024-11-29 02:41:06 +0000",
+      "minecraft:stony_shore": "2024-11-30 04:21:49 +0000",
       "minecraft:swamp": "2024-11-29 02:40:43 +0000",
       "minecraft:forest": "2024-11-29 02:39:47 +0000",
       "minecraft:desert": "2024-11-29 02:54:45 +0000",
       "minecraft:jungle": "2024-11-29 03:23:02 +0000",
       "minecraft:ocean": "2024-11-29 03:22:51 +0000",
+      "minecraft:windswept_savanna": "2024-11-30 04:05:41 +0000",
+      "minecraft:flower_forest": "2024-11-30 04:27:51 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-29 04:06:47 +0000",
       "minecraft:plains": "2024-11-29 02:35:54 +0000"
     },
@@ -116,6 +122,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-11-29 02:52:34 +0000",
+      "cooked_beef": "2024-11-30 04:29:39 +0000",
       "baked_potato": "2024-11-29 03:37:11 +0000",
       "cooked_cod": "2024-11-29 02:50:15 +0000",
       "pumpkin_pie": "2024-11-29 03:42:13 +0000",
@@ -2056,6 +2063,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-30 04:08:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-30 04:08:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-11-30 03:57:37 +0000"
@@ -2065,6 +2084,18 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-11-30 03:57:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-11-30 04:14:36 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_bark_mushroom": {
+    "criteria": {
+      "has_bark_mushroom": "2024-11-30 04:08:47 +0000"
     },
     "done": true
   },
@@ -2080,9 +2111,39 @@
     },
     "done": true
   },
+  "projectvibrantjourneys:recipes/building_blocks/oak_planks_from_oak_hollow_log": {
+    "criteria": {
+      "has_oak_hollow_log": "2024-11-30 04:08:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-11-30 04:14:36 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+    "criteria": {
+      "has_orange_bark_mushroom": "2024-11-30 04:08:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-11-30 04:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-11-30 03:57:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-11-30 04:29:27 +0000"
     },
     "done": true
   },
