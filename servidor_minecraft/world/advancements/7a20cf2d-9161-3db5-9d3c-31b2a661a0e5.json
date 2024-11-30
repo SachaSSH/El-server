@@ -52,7 +52,9 @@
       "minecraft:sunflower_plains": "2024-11-27 06:54:22 +0000",
       "minecraft:birch_forest": "2024-11-30 03:08:16 +0000",
       "minecraft:badlands": "2024-11-30 03:37:34 +0000",
+      "minecraft:beach": "2024-11-30 04:42:35 +0000",
       "minecraft:dark_forest": "2024-11-28 03:55:23 +0000",
+      "minecraft:river": "2024-11-30 04:42:10 +0000",
       "minecraft:snowy_plains": "2024-11-28 03:55:35 +0000",
       "minecraft:swamp": "2024-11-28 02:47:12 +0000",
       "minecraft:cold_ocean": "2024-11-28 03:40:15 +0000",
@@ -60,6 +62,7 @@
       "minecraft:desert": "2024-11-30 03:18:17 +0000",
       "minecraft:ocean": "2024-11-28 02:38:41 +0000",
       "minecraft:jungle": "2024-11-28 04:37:03 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-11-30 04:39:48 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-28 03:24:37 +0000",
       "minecraft:plains": "2024-11-28 02:38:31 +0000"
     },
