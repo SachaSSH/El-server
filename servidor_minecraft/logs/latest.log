@@ -2861,3 +2861,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [30Nov2024 03:25:47.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasti was slain by SachaSSH's Zombie
 [30Nov2024 03:25:48.969] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [30Nov2024 03:25:49.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SachaSSH'/7526, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=312.70, y=79.00, z=37.70] died: SachaSSH's Zombie was slain by SachaSSH
+[30Nov2024 03:25:56.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['elbasti'/10325, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=312.30, y=79.00, z=37.30] died: elbasti's Zombie was slain by SachaSSH
+[30Nov2024 03:26:21.841] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[30Nov2024 03:26:21.841] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[30Nov2024 03:26:21.841] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[30Nov2024 03:26:21.841] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[30Nov2024 03:26:46.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
+[30Nov2024 03:27:14.632] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[30Nov2024 03:27:14.633] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[30Nov2024 03:27:14.633] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[30Nov2024 03:27:14.633] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[30Nov2024 03:27:24.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[30Nov2024 03:27:57.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH starved to death
+[30Nov2024 03:27:59.696] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Nov2024 03:28:06.397] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[30Nov2024 03:28:06.398] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[30Nov2024 03:28:06.398] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[30Nov2024 03:28:06.398] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[30Nov2024 03:28:22.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[30Nov2024 03:28:24.828] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SachaSSH'/11352, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=318.53, y=81.54, z=35.49] died: SachaSSH's Zombie was slain by elbasti using [Hunter's Axe]
+[30Nov2024 03:28:59.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[30Nov2024 03:29:00.028] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[30Nov2024 03:29:00.028] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[30Nov2024 03:29:00.028] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[30Nov2024 03:29:00.029] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[30Nov2024 03:29:34.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[30Nov2024 03:29:52.595] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[30Nov2024 03:29:52.596] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[30Nov2024 03:29:52.596] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[30Nov2024 03:29:52.596] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[30Nov2024 03:30:11.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[30Nov2024 03:30:37.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[30Nov2024 03:31:21.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[30Nov2024 03:31:52.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH was slain by Zombie
+[30Nov2024 03:31:54.097] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Nov2024 03:31:54.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[30Nov2024 03:32:16.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[30Nov2024 03:32:25.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH tried to swim in lava
+[30Nov2024 03:32:27.550] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Nov2024 03:32:29.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SachaSSH'/12440, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=582.70, y=191.00, z=95.00] died: SachaSSH's Zombie tried to swim in lava
+[30Nov2024 03:32:34.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3168ms or 63 ticks behind
+[30Nov2024 03:32:57.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[30Nov2024 03:33:15.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[30Nov2024 03:33:29.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Set own game mode to Creative Mode]
+[30Nov2024 03:33:39.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[30Nov2024 03:34:40.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
