@@ -51,6 +51,7 @@
     "criteria": {
       "minecraft:sunflower_plains": "2024-11-27 06:54:22 +0000",
       "minecraft:birch_forest": "2024-11-30 03:08:16 +0000",
+      "minecraft:badlands": "2024-11-30 03:37:34 +0000",
       "minecraft:dark_forest": "2024-11-28 03:55:23 +0000",
       "minecraft:snowy_plains": "2024-11-28 03:55:35 +0000",
       "minecraft:swamp": "2024-11-28 02:47:12 +0000",
@@ -112,7 +113,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:husk": "2024-11-28 03:37:09 +0000",
-      "minecraft:zombie": "2024-11-28 02:09:55 +0000"
+      "minecraft:zombie": "2024-11-28 02:09:55 +0000",
+      "minecraft:zombie_villager": "2024-11-30 03:35:44 +0000"
     },
     "done": false
   },
@@ -3263,6 +3265,12 @@
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2024-11-30 03:18:28 +0000"
+    },
+    "done": true
+  },
+  "owza_advancements:the_fallen_fob": {
+    "criteria": {
+      "enterFOB": "2024-11-30 03:37:25 +0000"
     },
     "done": true
   },

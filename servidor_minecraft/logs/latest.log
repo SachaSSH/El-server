@@ -2906,3 +2906,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripp
 [30Nov2024 03:33:29.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Set own game mode to Creative Mode]
 [30Nov2024 03:33:39.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
 [30Nov2024 03:34:40.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[30Nov2024 03:37:33.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Set own game mode to Survival Mode]
+[30Nov2024 03:40:03.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Set own game mode to Creative Mode]
+[30Nov2024 03:40:29.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Set own game mode to Survival Mode]
+[30Nov2024 03:41:09.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Set own game mode to Creative Mode]
+[30Nov2024 03:41:29.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Set own game mode to Survival Mode]
+[30Nov2024 03:44:09.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SachaSSH was slain by Zombie
+[30Nov2024 03:44:12.180] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SachaSSH'/14565, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=313.70, y=78.97, z=37.08] died: SachaSSH's Zombie was slain by sex
+[30Nov2024 03:44:18.730] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[30Nov2024 03:46:16.137] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SachaSSH'/12014, l='ServerLevel[MC Zombie Apocalypse - Update #17.1]', x=346.74, y=81.00, z=38.47] died: SachaSSH's Zombie was slain by sex
