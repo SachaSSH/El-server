@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Go into Creative Mode"}},{"text":" Cheater","color":"gold","hoverEvent":{"action":"show_text","value":"Go into Creative Mode"}}]
-scoreboard players add @p achievements 5

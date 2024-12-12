@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked: ","color":"green"},{"text":"The Forgotten Mansion","color":"gold","hoverEvent":{"action":"show_text","contents":"Discover the Amora Mansion"}}]
-scoreboard players add @p achievements 5

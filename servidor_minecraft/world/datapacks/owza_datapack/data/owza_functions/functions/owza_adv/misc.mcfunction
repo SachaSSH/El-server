@@ -1,2 +1,0 @@
-execute if entity @p[advancements={owza_advancements:root=false}] run advancement grant @p only owza_advancements:root
-execute if entity @e[gamemode=creative,advancements={owza_advancements:cheater=false}] run function owza_functions:owza_adv/cheater

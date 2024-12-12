@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Kill Havoc"}},{"text":" Giant Down!","color":"gold","hoverEvent":{"action":"show_text","value":"Kill Havoc"}}]
-scoreboard players add @p achievements 15

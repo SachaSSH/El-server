@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked: ","color":"green"},{"text":"The Deserted City","color":"gold","hoverEvent":{"action":"show_text","contents":"Find Los Echos, the deserted city. In the desert. Get it?"}}]
-scoreboard players add @p achievements 10

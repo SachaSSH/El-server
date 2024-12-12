@@ -1,1 +1,0 @@
-advancement grant @a[advancements={owza_advancements:helicopter=false}] only owza_advancements:helicopter

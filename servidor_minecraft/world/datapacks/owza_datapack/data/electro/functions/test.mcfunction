@@ -1,1 +1,0 @@
-execute at ElectroDragon run tellraw @a "test"

@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","contents":"No-clip into the last place you want to be"}},{"text":" Uh oh...","color":"gold","hoverEvent":{"action":"show_text","contents":"No-clip into the last place you want to be"}}]
-scoreboard players add @p achievements 15

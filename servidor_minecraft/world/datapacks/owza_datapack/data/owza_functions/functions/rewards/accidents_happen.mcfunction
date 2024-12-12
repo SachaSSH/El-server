@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Experience your first death"}},{"text":" Accidents Happen","color":"gold","hoverEvent":{"action":"show_text","value":"Experience your first death"}}]
-scoreboard players add @p achievements 5

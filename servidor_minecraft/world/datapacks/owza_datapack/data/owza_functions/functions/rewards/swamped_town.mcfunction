@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","contents":"Make your way to Terraville"}},{"text":" The Swamped Town","color":"gold","hoverEvent":{"action":"show_text","contents":"Make your way to Terraville"}}]
-scoreboard players add @p achievements 5

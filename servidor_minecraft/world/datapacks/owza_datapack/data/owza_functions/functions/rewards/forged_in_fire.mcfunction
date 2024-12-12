@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Craft Every Ruins Recipe"}},{"text":" Forged in Fire","color":"gold","hoverEvent":{"action":"show_text","value":"Craft Every Ruins Recipe"}}]
-scoreboard players add @p achievements 25

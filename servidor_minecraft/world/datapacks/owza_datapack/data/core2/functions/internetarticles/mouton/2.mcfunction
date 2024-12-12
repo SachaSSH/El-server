@@ -1,2 +1,0 @@
-tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThat's right, folks, the Voices are back, and my therapist says they're not going away anytime soon !"}
-schedule function core2:internetarticles/mouton/3 10s

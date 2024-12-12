@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","contents":"Find Atlas"}},{"text":" The Ruined City","color":"gold","hoverEvent":{"action":"show_text","contents":"Journey Into Atlas"}}]
-scoreboard players add @p achievements 5

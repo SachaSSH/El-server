@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Blow up the Mine"}},{"text":" BANG!","color":"gold","hoverEvent":{"action":"show_text","value":"Blow up the Mine"}}]
-scoreboard players add @p achievements 5

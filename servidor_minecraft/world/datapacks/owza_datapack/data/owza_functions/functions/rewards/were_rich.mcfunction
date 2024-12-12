@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Rob the Atlas Bank"}},{"text":" We're Rich!","color":"gold","hoverEvent":{"action":"show_text","value":"Rob the Atlas Bank"}}]
-scoreboard players add @p achievements 15

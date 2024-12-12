@@ -1,1 +1,0 @@
-advancement grant @a[advancements={owza_advancements:a_key_accomplishment=false}] only owza_advancements:a_key_accomplishment

@@ -1,2 +1,0 @@
-tellraw @a[x=1221,y=53,z=1159,distance=..30] {"text":"\nThere is an entire medieval castle nearby, buried within the ground. It's estimated to be at least a few hundred years old."}
-schedule function core2:internetarticles/unearthing/3 10s

@@ -1,1 +1,0 @@
-advancement grant @a[advancements={owza_advancements:its_gonna_blow=false}] only owza_advancements:its_gonna_blow

@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Die of Thirst"}},{"text":" Dehydrated","color":"gold","hoverEvent":{"action":"show_text","value":"Die of Thirst"}}]
-scoreboard players add @p achievements 5

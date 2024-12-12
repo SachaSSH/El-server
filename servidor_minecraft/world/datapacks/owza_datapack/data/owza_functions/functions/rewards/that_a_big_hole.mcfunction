@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Find the Niyol Mine"}},{"text":" That's A Big Hole...","color":"gold","hoverEvent":{"action":"show_text","value":"Find the Niyol Mine"}}]
-scoreboard players add @p achievements 10

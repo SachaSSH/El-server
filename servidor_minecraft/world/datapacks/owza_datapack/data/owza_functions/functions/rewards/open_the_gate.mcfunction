@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Leave Imperius using a Travel Ticket at the East Gate"}},{"text":" Open the Gate!","color":"gold","hoverEvent":{"action":"show_text","value":"Leave Imperius using a Travel Ticket at the East Gate"}}]
-scoreboard players add @p achievements 5

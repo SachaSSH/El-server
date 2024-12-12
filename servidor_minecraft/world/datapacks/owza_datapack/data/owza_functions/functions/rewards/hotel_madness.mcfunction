@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Get through all the Tilkshire Zombies... just to fight the boss"}},{"text":" Hotel Madness","color":"gold","hoverEvent":{"action":"show_text","value":"Get through all the Tilkshire Zombies... just to fight the boss"}}]
-scoreboard players add @p achievements 15

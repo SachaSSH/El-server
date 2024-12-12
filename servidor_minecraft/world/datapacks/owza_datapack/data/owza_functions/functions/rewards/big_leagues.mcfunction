@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Wear the Beheaded Coach's Head"}},{"text":" The Big Leagues","color":"gold","hoverEvent":{"action":"show_text","value":"Wear the Beheaded Coach's Head"}}]
-scoreboard players add @p achievements 15

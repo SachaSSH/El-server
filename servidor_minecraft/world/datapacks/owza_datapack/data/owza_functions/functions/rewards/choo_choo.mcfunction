@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"Achievement Unlocked:","color":"green","hoverEvent":{"action":"show_text","value":"Ride the Subway"}},{"text":" Choo Choo!","color":"gold","hoverEvent":{"action":"show_text","value":"Ride the Subway"}}]
-scoreboard players add @p achievements 10
