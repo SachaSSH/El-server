@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-19 05:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-19 04:47:36 +0000"
@@ -23,15 +29,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-12-19 05:25:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 06:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2024-12-19 04:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 06:13:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2024-12-19 06:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-19 06:26:20 +0000"
     },
     "done": true
   },
@@ -47,9 +83,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-19 05:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2024-12-19 04:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-19 06:26:20 +0000"
     },
     "done": true
   },
@@ -89,6 +137,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-19 06:12:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2024-12-19 05:40:06 +0000"
@@ -104,6 +158,18 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-12-19 04:46:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-19 06:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:51:31 +0000"
     },
     "done": true
   },
@@ -143,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-19 06:25:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-19 04:54:16 +0000"
@@ -179,9 +251,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-19 06:25:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2024-12-19 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 06:13:59 +0000"
     },
     "done": true
   },
@@ -209,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 06:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-19 04:49:23 +0000"
@@ -230,6 +320,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-19 04:47:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 06:13:59 +0000"
     },
     "done": true
   },
@@ -305,9 +401,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 06:13:59 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2024-12-19 05:14:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-19 06:13:59 +0000"
     },
     "done": true
   },
@@ -320,6 +428,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-19 04:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:51:31 +0000"
     },
     "done": true
   },
@@ -347,9 +461,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 06:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-19 04:47:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 06:13:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 06:13:59 +0000"
     },
     "done": true
   },
@@ -371,6 +503,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-19 05:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-19 05:25:37 +0000"
@@ -380,6 +524,18 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-19 04:49:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:51:31 +0000"
     },
     "done": true
   },
@@ -443,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-19 05:56:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-19 04:54:16 +0000"
@@ -499,6 +661,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2024-12-19 06:24:44 +0000",
       "minecraft:zombie": "2024-12-19 04:54:29 +0000"
     },
     "done": false
@@ -524,6 +687,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-19 04:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-19 06:25:45 +0000"
     },
     "done": true
   },
@@ -563,6 +732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 06:13:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-19 04:47:30 +0000"
@@ -578,6 +753,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-19 04:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2024-12-19 06:26:20 +0000"
     },
     "done": true
   },
@@ -605,17 +786,25 @@
       "minecraft:taiga": "2024-12-19 05:09:34 +0000",
       "minecraft:frozen_river": "2024-12-19 05:38:17 +0000",
       "minecraft:birch_forest": "2024-12-19 05:22:48 +0000",
+      "minecraft:bamboo_jungle": "2024-12-19 06:07:18 +0000",
       "minecraft:beach": "2024-12-19 04:46:13 +0000",
+      "minecraft:dark_forest": "2024-12-19 05:59:25 +0000",
+      "minecraft:sparse_jungle": "2024-12-19 05:52:14 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-19 05:51:37 +0000",
       "minecraft:river": "2024-12-19 04:47:02 +0000",
       "minecraft:snowy_plains": "2024-12-19 05:29:12 +0000",
       "minecraft:stony_shore": "2024-12-19 04:58:41 +0000",
+      "minecraft:dripstone_caves": "2024-12-19 06:23:54 +0000",
       "minecraft:snowy_taiga": "2024-12-19 05:36:27 +0000",
       "minecraft:cold_ocean": "2024-12-19 05:19:31 +0000",
       "minecraft:forest": "2024-12-19 04:47:19 +0000",
       "minecraft:frozen_ocean": "2024-12-19 05:29:53 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-19 05:30:16 +0000",
+      "minecraft:jungle": "2024-12-19 05:52:31 +0000",
+      "minecraft:ocean": "2024-12-19 05:50:27 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-19 05:22:16 +0000",
       "minecraft:snowy_beach": "2024-12-19 05:29:52 +0000",
+      "minecraft:flower_forest": "2024-12-19 06:03:13 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-19 04:44:57 +0000",
       "minecraft:meadow": "2024-12-19 04:52:22 +0000",
       "minecraft:plains": "2024-12-19 04:49:04 +0000"
@@ -637,6 +826,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-19 04:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-19 06:13:59 +0000"
     },
     "done": true
   },
@@ -693,7 +888,9 @@
       "cooked_mutton": "2024-12-19 04:58:12 +0000",
       "apple": "2024-12-19 04:55:54 +0000",
       "potato": "2024-12-19 05:37:00 +0000",
-      "bread": "2024-12-19 04:51:08 +0000"
+      "bread": "2024-12-19 04:51:08 +0000",
+      "melon_slice": "2024-12-19 06:04:12 +0000",
+      "golden_carrot": "2024-12-19 05:56:47 +0000"
     },
     "done": false
   },
@@ -745,6 +942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-19 04:49:23 +0000"
@@ -754,6 +957,12 @@
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-19 05:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:51:31 +0000"
     },
     "done": true
   },
@@ -781,6 +990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-19 06:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-19 04:52:51 +0000"
@@ -796,6 +1011,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-19 04:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-19 05:51:31 +0000"
     },
     "done": true
   },
