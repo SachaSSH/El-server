@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-19 05:13:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-19 04:49:05 +0000"
@@ -254,6 +260,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-19 05:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-19 05:12:02 +0000"
     },
     "done": true
   },
@@ -607,6 +619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-19 05:13:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-19 04:46:49 +0000"
@@ -646,6 +664,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-19 05:02:06 +0000",
+      "minecraft:taiga": "2024-12-19 05:10:05 +0000",
       "minecraft:deep_ocean": "2024-12-19 05:07:25 +0000",
       "minecraft:birch_forest": "2024-12-19 05:07:52 +0000",
       "minecraft:beach": "2024-12-19 04:46:34 +0000",
@@ -809,6 +828,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-19 05:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-19 05:12:02 +0000"
     },
     "done": true
   },
