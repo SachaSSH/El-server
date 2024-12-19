@@ -533,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-19 05:39:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-12-19 04:49:49 +0000"
@@ -915,10 +921,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-19 05:03:14 +0000",
+      "minecraft:taiga": "2024-12-19 05:39:54 +0000",
+      "minecraft:frozen_river": "2024-12-19 05:37:51 +0000",
       "minecraft:beach": "2024-12-19 04:47:10 +0000",
       "minecraft:river": "2024-12-19 04:47:15 +0000",
       "minecraft:snowy_plains": "2024-12-19 05:29:28 +0000",
       "minecraft:stony_shore": "2024-12-19 05:00:01 +0000",
+      "minecraft:snowy_taiga": "2024-12-19 05:36:31 +0000",
       "minecraft:jagged_peaks": "2024-12-19 04:55:53 +0000",
       "minecraft:cold_ocean": "2024-12-19 05:00:07 +0000",
       "minecraft:forest": "2024-12-19 04:47:23 +0000",
@@ -1049,6 +1058,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-19 05:16:02 +0000",
+      "cooked_beef": "2024-12-19 05:37:53 +0000",
       "bread": "2024-12-19 04:54:18 +0000"
     },
     "done": false
@@ -1191,6 +1201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-19 05:39:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-19 05:07:14 +0000"
@@ -1236,6 +1252,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 05:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-19 05:39:03 +0000"
     },
     "done": true
   },

@@ -1653,3 +1653,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Dec2024 05:33:28.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex has made the advancement [Once Upon a Cave]
 [19Dec2024 05:34:29.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 05:34:29.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 05:38:28.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Teleported sex to jasontapia123]
+[19Dec2024 05:38:44.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Teleported sex to jasontapia123]
+[19Dec2024 05:38:51.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Teleported sex to jasontapia123]
+[19Dec2024 05:39:29.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 05:39:29.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 05:44:29.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 05:44:29.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
