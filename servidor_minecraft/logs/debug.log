@@ -1595,3 +1595,38 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Dec2024 04:49:29.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 04:49:29.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Dec2024 04:51:12.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Basthiiiu has made the advancement [Getting an Upgrade]
+[19Dec2024 04:54:16.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex has made the advancement [Stone Age]
+[19Dec2024 04:54:24.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 has made the advancement [Stone Age]
+[19Dec2024 04:54:29.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex has made the advancement [Monster Hunter]
+[19Dec2024 04:54:29.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 04:54:29.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 04:55:24.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Basthiiiu has made the advancement [Monster Hunter]
+[19Dec2024 04:55:39.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 has made the advancement [Getting an Upgrade]
+[19Dec2024 04:56:30.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 has made the advancement [Monster Hunter]
+[19Dec2024 04:59:02.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Basthiiiu has made the advancement [Acquire Hardware]
+[19Dec2024 04:59:29.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 04:59:29.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 05:00:19.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Basthiiiu has made the advancement [Isn't It Iron Pick]
+[19Dec2024 05:00:30.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Basthiiiu has made the advancement [Suit Up]
+[19Dec2024 05:00:36.404] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[19Dec2024 05:00:39.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-940, y=57, z=197} BlockPos{x=-940, y=56, z=198}
+[19Dec2024 05:02:06.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Basthiiiu has made the advancement [Sweet Dreams]
+[19Dec2024 05:04:29.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 05:04:29.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 05:06:03.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Basthiiiu has made the advancement [It Belongs in a Museum]
+[19Dec2024 05:08:37.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made sex a server operator
+[19Dec2024 05:08:55.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Set own game mode to Creative Mode]
+[19Dec2024 05:09:01.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 has made the advancement [Acquire Hardware]
+[19Dec2024 05:09:29.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 05:09:29.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 05:09:29.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 has made the advancement [Isn't It Iron Pick]
+[19Dec2024 05:10:36.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex has made the advancement [It Belongs in a Museum]
+[19Dec2024 05:10:46.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Set own game mode to Survival Mode]
+[19Dec2024 05:11:00.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 has made the advancement [Diamonds!]
+[19Dec2024 05:11:27.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 has made the advancement [Alex's Caves]
+[19Dec2024 05:12:00.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 has made the advancement [It Belongs in a Museum]
+[19Dec2024 05:12:39.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Teleported jasontapia123 to sex]
+[19Dec2024 05:12:53.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Basthiiiu> a
+[19Dec2024 05:12:55.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [sex: Teleported Basthiiiu to sex]
+[19Dec2024 05:13:54.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jasontapia123 has made the advancement [Suit Up]
+[19Dec2024 05:14:02.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sex has made the advancement [Lorem Ipsum]
