@@ -1,0 +1,4 @@
+{
+  // Toggle the version checking for every mod that uses CraftedCore
+  "enableVersionChecking": true
+}

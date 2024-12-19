@@ -1,0 +1,33 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-19 03:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-19 03:42:59 +0000"
+    },
+    "done": true
+  },
+  "ghostface:you_might_need_that": {
+    "criteria": {
+      "you_might_need_that_0": "2024-12-19 03:43:02 +0000"
+    },
+    "done": true
+  },
+  "slenderman:slenderman_join_world": {
+    "criteria": {
+      "slenderman_join_world": "2024-12-19 03:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-12-19 03:43:01 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

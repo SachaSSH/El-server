@@ -1,34 +1,27 @@
 {
-  "minecraft:recipes/misc/charcoal": {
+  "create:root": {
     "criteria": {
-      "has_log": "2024-12-12 03:40:00 +0000"
+      "0": "2024-12-19 03:40:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
+  "slenderman:slenderman_join_world": {
     "criteria": {
-      "has_logs": "2024-12-12 03:40:00 +0000"
+      "slenderman_join_world": "2024-12-19 03:40:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_log": "2024-12-12 03:40:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-12 03:28:18 +0000"
+      "unlock_right_away": "2024-12-19 03:40:28 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:snowy_tundra": "2024-12-12 03:40:14 +0000",
-      "minecraft:plains": "2024-12-12 03:27:52 +0000"
+      "minecraft:forest": "2024-12-19 03:40:29 +0000"
     },
     "done": false
   },
-  "DataVersion": 2586
+  "DataVersion": 3465
 }
