@@ -1,0 +1,53 @@
+[03:31:26] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[03:31:26] [INIT] Loaded plugins:
+[03:31:26] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[03:31:26] [INFO] Loaded script server_scripts:matt's_stims_server.js in 0.002 s
+[03:31:26] [INFO] Loaded script server_scripts:itemRecipeBlacklist.js in 0.004 s
+[03:31:26] [INFO] Loaded script server_scripts:cursedwalkingrecipechanges.js in 0.001 s
+[03:31:26] [INFO] Loaded 3/3 KubeJS server scripts in 0.025 s with 0 errors and 0 warnings
+[03:31:26] [INFO] Scripts loaded
+[03:31:26] [INFO] Initializing recipe event...
+[03:31:30] [INFO] [minecraft:item] Found 916 tags, added 0 objects, removed 1 objects
+[03:31:32] [INFO] Processing recipes...
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:lavendite_devourer_hook_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'psg:modprova[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_sword_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:lavendite_onyx_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'psg:quarkrecipe_2[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:lavendite_netherite_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_helmet[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:lavendite_golden_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_pickaxe_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:rotten_netherite_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_leggings[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:lavendite_wooden_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_shovel_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:lavendite_shield[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:rotten_wooden_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_boots[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_axe_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:rotten_iron_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:lavendite_stone_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:lavendite_diamond_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_hoe_recipe[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:lavendite_bone_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:rotten_diamond_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:rotten_golden_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:bismuth_netherite_chestplate[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:rotten_tongue_hook[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:rotten_stone_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:lavendite_iron_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [WARN] Failed to parse recipe 'the_deep_void:void_vision_spyglass[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[03:31:32] [INFO] Found 8951 recipes in 254.4 ms
+[03:31:32] [INFO] itemRecipeBlacklist.js#59: immersive_weathering:iron_ingot_from_clean_block
+[03:31:32] [INFO] itemRecipeBlacklist.js#59: immersive_weathering:iron_ingot_from_clean_block_blasting
+[03:31:32] [INFO] itemRecipeBlacklist.js#59: immersive_weathering:iron_ingot_from_exposed_block
+[03:31:32] [INFO] itemRecipeBlacklist.js#59: immersive_weathering:iron_ingot_from_exposed_block_blasting
+[03:31:32] [INFO] itemRecipeBlacklist.js#59: immersive_weathering:iron_ingot_from_rusted_block
+[03:31:32] [INFO] itemRecipeBlacklist.js#59: immersive_weathering:iron_ingot_from_rusted_block_blasting
+[03:31:32] [INFO] itemRecipeBlacklist.js#59: immersive_weathering:iron_ingot_from_weathered_block
+[03:31:32] [INFO] itemRecipeBlacklist.js#59: immersive_weathering:iron_ingot_from_weathered_block_blasting
+[03:31:33] [INFO] cursedwalkingrecipechanges.js#2: CW Recipe Tweaks has fired.
+[03:31:33] [INFO] Posted recipe events in 462.9 ms
+[03:31:33] [INFO] Added 8 recipes, removed 30 recipes, modified 3 recipes, with 0 failed recipes in 148.8 ms
+[03:31:54] [INFO] Server resource reload complete!
